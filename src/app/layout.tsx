@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Instrument_Serif, Figtree } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import { SiteFooter, SiteHeader } from "@/components/SiteChrome";
 import "./globals.css";
 
@@ -30,6 +31,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <SiteHeader />
         <main className="flex-1">{children}</main>
         <SiteFooter />
+        <Analytics />
       </body>
     </html>
   );
