@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "socal-k9-clinic-city-of-industry",
+    "name": "SoCal K9 Clinic City of Industry",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "SoCal K9 Clinic City of Industry is a full-service veterinary hospital that provides comprehensive veterinary services for pets with the latest equipment and advanced techniques in City of Industry, CA, and the surrounding area.",
+    "phone": "(562) 203-1644",
+    "website": "https://socalk9cliniccoi.com",
+    "address": "City of Industry, CA",
+    "city": "City of Industry",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 09:00-17:00; Sa-Su 09:00-21:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-17:00; Sa-Su 09:00-21:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving City of Industry",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "SoCal K9 Clinic City of Industry is a full-service veterinary hospital that provides comprehensive veterinary services for pets with the latest equipment and advanced techniques in City of Industry, CA, and the surrounding area.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.024Z"
+  }
+]

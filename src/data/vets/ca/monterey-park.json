@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "monterey-park-animal-hospital",
+    "name": "Monterey Park Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Monterey Park Animal Hospital provides veterinary care for dogs in Monterey Park, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 722-9692",
+    "website": "https://mpah.com",
+    "address": "2314 South Atlantic Boulevard",
+    "city": "Monterey Park",
+    "state": "CA",
+    "zip": "91754",
+    "hours": "Mo-Fr 08:00-19:00; Sa 08:00-15:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00; Sa 08:00-15:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monterey Park",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+  }
+]

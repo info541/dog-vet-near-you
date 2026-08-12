@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "animal-urgent-care",
+    "name": "Animal Urgent Care",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Animal Urgent Care provides veterinary care for dogs in San Fernando, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(818) 296-0700",
+    "website": "https://www.animalurgentcare.vet/burbank",
+    "address": "126 East Alameda Avenue",
+    "city": "San Fernando",
+    "state": "CA",
+    "zip": "91502",
+    "hours": "Mo-Su 12:00-22:00",
+    "hoursDetail": [
+      "Mo-Su 12:00-22:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Fernando",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.043Z"
+  },
+  {
+    "slug": "animal-urgent-care-2",
+    "name": "Animal Urgent Care",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Animal Urgent Care provides veterinary care for dogs in San Fernando, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(818) 296-0700",
+    "website": "https://www.animalurgentcare.vet/burbank",
+    "address": "126 East Alameda Avenue",
+    "city": "San Fernando",
+    "state": "CA",
+    "zip": "91502",
+    "hours": "Mo-Su 12:00-22:00",
+    "hoursDetail": [
+      "Mo-Su 12:00-22:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Fernando",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.043Z"
+  },
+  {
+    "slug": "bastet-cat-hospital",
+    "name": "Bastet Cat Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Bastet Cat Hospital provides veterinary care for dogs in San Fernando, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(818) 846-8600",
+    "website": "https://www.bastetcatz.com/",
+    "address": "120 East Olive Avenue",
+    "city": "San Fernando",
+    "state": "CA",
+    "zip": "91502",
+    "hours": "Mo-Sa 08:00-14:00",
+    "hoursDetail": [
+      "Mo-Sa 08:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Fernando",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.043Z"
+  },
+  {
+    "slug": "toluca-burbank-dog-and-cat-hospital",
+    "name": "Toluca Burbank Dog & Cat Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Toluca Burbank Dog & Cat Hospital provides veterinary care for dogs in San Fernando, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(818) 848-4202",
+    "website": "https://tolucaburbankpet.com/",
+    "address": "3121 Burbank Boulevard",
+    "city": "San Fernando",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-12:30,13:00-17:30; Sa 08:00-12:30,13:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-12:30,13:00-17:30; Sa 08:00-12:30,13:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Fernando",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.043Z"
+  }
+]

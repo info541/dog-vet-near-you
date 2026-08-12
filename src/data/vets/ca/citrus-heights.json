@@ -1,0 +1,440 @@
+[
+  {
+    "slug": "all-about-pets",
+    "name": "All About Pets",
+    "careType": "24/7 Emergency",
+    "is24_7": true,
+    "priority": 1,
+    "description": "All About Pets provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.allaboutpetsch.com/",
+    "address": "6104 San Juan Avenue",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95610",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "24/7 Emergency",
+      "24/7 Availability",
+      "Emergency Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+  },
+  {
+    "slug": "all-about-pets-2",
+    "name": "All About Pets",
+    "careType": "24/7 Emergency",
+    "is24_7": true,
+    "priority": 2,
+    "description": "All About Pets provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.allaboutpetsch.com/",
+    "address": "6104 San Juan Avenue",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95610",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "24/7 Emergency",
+      "24/7 Availability",
+      "Emergency Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+  },
+  {
+    "slug": "veg-er-for-pets",
+    "name": "VEG ER for Pets",
+    "careType": "General Practice",
+    "is24_7": true,
+    "priority": 3,
+    "description": "VEG ER for Pets provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 238-6021",
+    "website": "https://veg.com/",
+    "address": "1860 Prairie City Road",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95630",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "24/7 Availability",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "marqueen-pet-emergency-and-specialty",
+    "name": "MarQueen Pet Emergency & Specialty",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 4,
+    "description": "MarQueen is the largest independently owned emergency and specialty veterinary practice serving the greater Roseville, Folsom, Rocklin, El Dorado Hills, and Sacramento, CA region.",
+    "phone": "(916) 757-6600",
+    "website": "https://marqueenanimalclinic.com",
+    "address": "9205 Sierra College Blvd",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95661",
+    "hours": "Mo-Su 08:00-24:00",
+    "hoursDetail": [
+      "Mo-Su 08:00-24:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "MarQueen is the largest independently owned emergency and specialty veterinary practice serving the greater Roseville, Folsom, Rocklin, El Dorado Hills, and Sacramento, CA region.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "banfield-pet-hospital",
+    "name": "Banfield Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Banfield Pet Hospital provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 721-0418",
+    "website": "https://www.banfield.com",
+    "address": "7917 Elverta Road",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95843",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.018Z"
+  },
+  {
+    "slug": "blue-cross-pet-hospital",
+    "name": "Blue Cross Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Offers on-site boarding, surgery, and pharmacy.",
+    "phone": "(916) 944-3850",
+    "website": "https://bluecrosspethospital.net/",
+    "address": "7615 Fair Oaks Boulevard",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95608",
+    "hours": "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Offers on-site boarding, surgery, and pharmacy.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "blue-ravine-animal-hospital",
+    "name": "Blue Ravine Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Blue Ravine Animal Hospital provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 984-0990",
+    "website": "https://www.blueravineanimalhospital.com/",
+    "address": "1770 Prairie City Road",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95630",
+    "hours": "Mo-Fr 07:00-20:00; Sa-Su 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-20:00; Sa-Su 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "crossroads-animal-hospital",
+    "name": "Crossroads Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Crossroads Animal Hospital provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 989-2190",
+    "website": "https://www.crossroadspet.com",
+    "address": "9500 Greenback Lane",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95630",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "vca-sacramento-animal-medical-group",
+    "name": "VCA Sacramento Animal Medical Group",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "VCA Sacramento Animal Medical Group provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 331-7430",
+    "website": "https://vcahospitals.com/sacramento-animal-medical-group",
+    "address": "Citrus Heights, CA",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95608",
+    "hours": "Mo-Fr 07:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.022Z"
+  },
+  {
+    "slug": "vca-sacramento-animal-medical-group-2",
+    "name": "VCA Sacramento Animal Medical Group",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "VCA Sacramento Animal Medical Group provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 331-7430",
+    "website": "https://vcahospitals.com/sacramento-animal-medical-group",
+    "address": "4990 Manzanita Avenue",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95608",
+    "hours": "Mo-Fr 07:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+  },
+  {
+    "slug": "vca-sacramento-animal-medical-group-3",
+    "name": "VCA Sacramento Animal Medical Group",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "VCA Sacramento Animal Medical Group provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 331-7430",
+    "website": "https://vcahospitals.com/sacramento-animal-medical-group",
+    "address": "4990 Manzanita Avenue",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95608",
+    "hours": "Mo-Fr 07:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+  },
+  {
+    "slug": "rocklin-ranch-veterinary-hospital-at-pacific-street",
+    "name": "Rocklin Ranch Veterinary Hospital at Pacific Street",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 12,
+    "description": "Rocklin Ranch Veterinary Hospital at Pacific Street provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.rocklinranchvet.com/rrvh-pacific-street/",
+    "address": "5405 Pacific Street",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95677",
+    "hours": "Mo-Fr 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "stonebridge-veterinary-wellness",
+    "name": "Stonebridge Veterinary Wellness",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 13,
+    "description": "Stonebridge Veterinary Wellness provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://stonebridgevetwellness.com/",
+    "address": "254 Gibson Drive",
+    "city": "Citrus Heights",
+    "state": "CA",
+    "zip": "95678",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Citrus Heights",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  }
+]

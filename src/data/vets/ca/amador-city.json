@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "murieta-pet-hospital",
+    "name": "Murieta Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "At Murieta Pet Hospital in Rancho Murieta, CA, we have the latest technology to provide the highest quality medicine to ensure your pet’s safety and care comes first.",
+    "phone": "Call for number",
+    "website": "https://murietapethospital.com/",
+    "address": "7245 Murieta Drive",
+    "city": "Amador City",
+    "state": "CA",
+    "zip": "95683",
+    "hours": "Mo-Fr 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Amador City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "At Murieta Pet Hospital in Rancho Murieta, CA, we have the latest technology to provide the highest quality medicine to ensure your pet’s safety and care comes first.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  }
+]

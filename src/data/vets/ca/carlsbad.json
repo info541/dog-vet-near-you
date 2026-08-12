@@ -1,0 +1,68 @@
+[
+  {
+    "slug": "veterinary-emergency-group",
+    "name": "Veterinary Emergency Group",
+    "careType": "24/7 Emergency",
+    "is24_7": true,
+    "priority": 1,
+    "description": "Veterinary Emergency Group provides veterinary care for dogs in Carlsbad, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(760) 377-6611",
+    "website": "https://www.veterinaryemergencygroup.com/locations/california/encinitas",
+    "address": "260 North El Camino Real",
+    "city": "Carlsbad",
+    "state": "CA",
+    "zip": "92024",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "24/7 Emergency",
+      "24/7 Availability",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving Carlsbad",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "anicira-veterinary-center-of-san-diego",
+    "name": "Anicira Veterinary Center of San Diego",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Anicira Veterinary Center of San Diego provides veterinary care for dogs in Carlsbad, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(760) 290-4955",
+    "website": "https://anicira.org/locations/anicira-san-diego/",
+    "address": "285 North El Camino Real",
+    "city": "Carlsbad",
+    "state": "CA",
+    "zip": "92024",
+    "hours": "Mo-Th 07:00-17:00",
+    "hoursDetail": [
+      "Mo-Th 07:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Carlsbad",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  }
+]

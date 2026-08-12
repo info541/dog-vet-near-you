@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "shield-stone-pet-hospital",
+    "name": "Shield Stone Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Shield Stone Pet Hospital provides veterinary care for dogs in Dinuba, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 222-2800",
+    "website": "http://www.shieldstonepethospital.com/",
+    "address": "1610 East Shields Avenue",
+    "city": "Dinuba",
+    "state": "CA",
+    "zip": "93704",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Dinuba",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.043Z"
+  },
+  {
+    "slug": "tulare-veterinary-hospital",
+    "name": "Tulare Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Tulare Veterinary Hospital provides veterinary care for dogs in Dinuba, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 686-8544",
+    "website": "https://tularevet.com/",
+    "address": "861 North Blackstone Street",
+    "city": "Dinuba",
+    "state": "CA",
+    "zip": "93274",
+    "hours": "Mo-Fr 07:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 07:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Dinuba",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.043Z"
+  }
+]

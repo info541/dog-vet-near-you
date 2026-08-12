@@ -1,0 +1,454 @@
+[
+  {
+    "slug": "animal-am-emergency-clinic-of-pasadena",
+    "name": "Animal AM-Emergency Clinic of Pasadena",
+    "careType": "24/7 Emergency",
+    "is24_7": true,
+    "priority": 1,
+    "description": "Animal AM-Emergency Clinic of Pasadena provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 576-1725",
+    "website": "https://aaecp.com/",
+    "address": "2121 East Foothill Boulevard",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91107",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "24/7 Emergency",
+      "24/7 Availability",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "tlc",
+    "name": "TLC",
+    "careType": "General Practice",
+    "is24_7": true,
+    "priority": 2,
+    "description": "TLC provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 441-8555",
+    "website": "https://vcahospitals.com/tlc-pasadena",
+    "address": "1412 Huntington Drive",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91030",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "24/7 Availability",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "pasadena-veterinary-urgent-care",
+    "name": "Pasadena Veterinary Urgent Care",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Pasadena Veterinary Urgent Care provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 345-5418",
+    "website": "https://pasadenaveturgentcare.com/",
+    "address": "3415 East Colorado Boulevard",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91107",
+    "hours": "Mo-Tu,Fr 10:00-20:00; We-Th off; Sa-Su 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Tu,Fr 10:00-20:00; We-Th off; Sa-Su 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "alhambra-veterinary-hospital",
+    "name": "Alhambra Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Alhambra Veterinary Hospital provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 289-9227",
+    "website": "https://alhambravets.com/",
+    "address": "1501 West Mission Road",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91803",
+    "hours": "Mo-Fr 08:00-18:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "eagle-rock-pet-care",
+    "name": "Eagle Rock Pet Care",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Eagle Rock Pet Care provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 503-2400",
+    "website": "https://eaglerockpetcare.com/",
+    "address": "4000 Eagle Rock Boulevard",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 09:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "eagle-rock-pet-care-2",
+    "name": "Eagle Rock Pet Care",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Eagle Rock Pet Care provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 503-2400",
+    "website": "https://eaglerockpetcare.com/",
+    "address": "4000 Eagle Rock Boulevard",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 09:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "eye-care-for-animals",
+    "name": "Eye Care for Animals",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Eye Care for Animals provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 790-5964",
+    "website": "https://www.thrivepetcare.com/locations/california/pasadena/eye-care-for-animals-pasadena",
+    "address": "150 North San Gabriel Boulevard",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91107",
+    "hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "monterey-park-animal-hospital",
+    "name": "Monterey Park Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Monterey Park Animal Hospital provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 722-9692",
+    "website": "https://mpah.com",
+    "address": "2314 South Atlantic Boulevard",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91754",
+    "hours": "Mo-Fr 08:00-19:00; Sa 08:00-15:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00; Sa 08:00-15:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "rose-city-veterinary-hospital",
+    "name": "Rose City Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Rose City Veterinary Hospital provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 796-8387",
+    "website": "https://www.rosecityvets.com/",
+    "address": "2695 East Foothill Boulevard",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91107",
+    "hours": "Mo-Fr 09:00-17:00; Sa 09:00-16:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 09:00-17:00; Sa 09:00-16:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "temple-city-animal-hospital",
+    "name": "Temple City Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Temple City Animal Hospital provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 287-1173",
+    "website": "https://www.templecityanimalhospital.com",
+    "address": "5406 Rosemead Boulevard",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91780",
+    "hours": "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00; Sa 09:00-17:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "vca-a-breed-apart-animal-hospital",
+    "name": "VCA A Breed Apart Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "VCA A Breed Apart Animal Hospital provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 795-4444",
+    "website": "https://vcahospitals.com/a-breed-apart",
+    "address": "777 South Arroyo Parkway",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91105",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "vca-foothill-veterinary-hospital",
+    "name": "VCA Foothill Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 12,
+    "description": "VCA Foothill Veterinary Hospital provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 792-1187",
+    "website": "https://vcahospitals.com/foothill",
+    "address": "2204 East Foothill Boulevard",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91107",
+    "hours": "Mo-Fr 07:30-17:30; Sa 08:00-12:30; Su off",
+    "hoursDetail": [
+      "Mo-Fr 07:30-17:30; Sa 08:00-12:30; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "vca-mission-animal-hospital",
+    "name": "VCA Mission Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 13,
+    "description": "VCA Mission Animal Hospital provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 289-3643",
+    "website": "https://vcahospitals.com/mission-ca",
+    "address": "25 West Mission Road",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91801",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "dr-domotor-s-animal-house-veterinary-hospita",
+    "name": "Dr. Domotor's Animal House Veterinary Hospita",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 14,
+    "description": "Dr. Domotor's Animal House Veterinary Hospita provides veterinary care for dogs in San Marino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.drdomotor.net/",
+    "address": "135 West Foothill Boulevard",
+    "city": "San Marino",
+    "state": "CA",
+    "zip": "91016",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Marino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  }
+]

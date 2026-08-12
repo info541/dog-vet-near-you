@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "disney-pet-hospital",
+    "name": "Disney Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Disney Pet Hospital provides veterinary care for dogs in Antioch, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 689-4244",
+    "website": "https://disneypethospital.com/",
+    "address": "3544 Concord Boulevard",
+    "city": "Antioch",
+    "state": "CA",
+    "zip": "94519",
+    "hours": "Mo-Fr 08:00-17:30; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Antioch",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "disney-pet-hospital-2",
+    "name": "Disney Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Disney Pet Hospital provides veterinary care for dogs in Antioch, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 689-4244",
+    "website": "https://disneypethospital.com/",
+    "address": "3544 Concord Boulevard",
+    "city": "Antioch",
+    "state": "CA",
+    "zip": "94519",
+    "hours": "Mo-Fr 08:00-17:30; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Antioch",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  }
+]

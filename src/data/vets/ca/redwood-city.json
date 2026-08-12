@@ -1,0 +1,69 @@
+[
+  {
+    "slug": "veterinary-emergency-group",
+    "name": "Veterinary Emergency Group",
+    "careType": "24/7 Emergency",
+    "is24_7": true,
+    "priority": 1,
+    "description": "Veterinary Emergency Group provides veterinary care for dogs in Redwood City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 999-3505",
+    "website": "https://www.veterinaryemergencygroup.com/locations/california/palo-alto",
+    "address": "3903 El Camino Real",
+    "city": "Redwood City",
+    "state": "CA",
+    "zip": "94306-3319",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "24/7 Emergency",
+      "24/7 Availability",
+      "Emergency Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving Redwood City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "mid-peninsula-animal-hoapital",
+    "name": "Mid-Peninsula Animal Hoapital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Mid-Peninsula Animal Hoapital provides veterinary care for dogs in Redwood City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 325-5671",
+    "website": "https://www.midpen.com/",
+    "address": "2707 El Camino Real",
+    "city": "Redwood City",
+    "state": "CA",
+    "zip": "94061",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Redwood City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.021Z"
+  }
+]

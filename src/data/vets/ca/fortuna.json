@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "fortuna-veterinary-clinic",
+    "name": "Fortuna Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Fortuna Veterinary Clinic provides veterinary care for dogs in Fortuna, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 725-6131",
+    "website": "https://humboldtvet.com/",
+    "address": "251 North Fortuna Boulevard",
+    "city": "Fortuna",
+    "state": "CA",
+    "zip": "95540",
+    "hours": "Mo-Fr 07:00-18:00; PH closed",
+    "hoursDetail": [
+      "Mo-Fr 07:00-18:00; PH closed"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fortuna",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.022Z"
+  }
+]

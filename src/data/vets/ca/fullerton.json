@@ -1,0 +1,226 @@
+[
+  {
+    "slug": "am-pm-veterinary-hospital",
+    "name": "AM/PM Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "AM/PM Veterinary Hospital provides veterinary care for dogs in Fullerton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(714) 779-1400",
+    "website": "https://ampmvet.com/",
+    "address": "4872 Olinda Street",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92886",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fullerton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "healthy-pet-hospital-and-grooming",
+    "name": "Healthy Pet Hospital & Grooming",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Healthy Pet Hospital & Grooming provides veterinary care for dogs in Fullerton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(714) 771-3261",
+    "website": "https://healthypethospital.com/",
+    "address": "3411 East Chapman Avenue",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92869",
+    "hours": "Mo-Fr 08:00-19:00; Sa,Su 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00; Sa,Su 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fullerton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "the-bird-clinic",
+    "name": "The Bird Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "The Bird Clinic provides veterinary care for dogs in Fullerton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(714) 633-2910",
+    "website": "https://www.thebirdclinic.com/contact-us",
+    "address": "200 South Tustin Street",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92868",
+    "hours": "Mo, We, Fr-Sa 09:00-12:00, 14:00-17:00; Tu 08:00-12:00, 14:00-18:00",
+    "hoursDetail": [
+      "Mo, We, Fr-Sa 09:00-12:00, 14:00-17:00; Tu 08:00-12:00, 14:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fullerton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "the-cat-care-clinic",
+    "name": "The Cat Care Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "The Cat Care Clinic provides veterinary care for dogs in Fullerton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(714) 282-2287",
+    "website": "https://catcare.com/",
+    "address": "2638 North Tustin Street",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92865",
+    "hours": "Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fullerton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "the-cat-care-clinic-2",
+    "name": "The Cat Care Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "The Cat Care Clinic provides veterinary care for dogs in Fullerton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(714) 282-2287",
+    "website": "https://catcare.com/",
+    "address": "2638 North Tustin Street",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92865",
+    "hours": "Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fullerton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "villa-park-animal-clinic",
+    "name": "Villa Park Animal Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Villa Park Animal Clinic provides veterinary care for dogs in Fullerton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(714) 998-4322",
+    "website": "https://www.villaparkanimalclinic.com/",
+    "address": "17859 Santiago Boulevard",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92861",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fullerton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "villa-park-animal-clinic-2",
+    "name": "Villa Park Animal Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Villa Park Animal Clinic provides veterinary care for dogs in Fullerton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(714) 998-4322",
+    "website": "https://www.villaparkanimalclinic.com/",
+    "address": "17859 Santiago Boulevard",
+    "city": "Fullerton",
+    "state": "CA",
+    "zip": "92861",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fullerton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  }
+]

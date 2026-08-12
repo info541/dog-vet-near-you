@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "cat-tales-feline-health-center",
+    "name": "Cat Tales Feline Health Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Cat Tales Feline Health Center, located in Davis, provides uniquely tailored health care for cats from across Northern California and the Sacramento Valley.",
+    "phone": "(530) 517-5100",
+    "website": "https://www.cattalesdavis.com/",
+    "address": "606 West Covell Boulevard",
+    "city": "Davis",
+    "state": "CA",
+    "zip": "95616",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Davis",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Cat Tales Feline Health Center, located in Davis, provides uniquely tailored health care for cats from across Northern California and the Sacramento Valley.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+  }
+]

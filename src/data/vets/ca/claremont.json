@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "chino-hills-small-animal-hospital",
+    "name": "Chino Hills Small Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Chino Hills Small Animal Hospital provides veterinary care for dogs in Claremont, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.chinohillsanimalhospital.com/appointments/",
+    "address": "3415 Chino Avenue",
+    "city": "Claremont",
+    "state": "CA",
+    "zip": "91010",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Claremont",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  }
+]

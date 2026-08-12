@@ -1,0 +1,171 @@
+[
+  {
+    "slug": "atascadero-pet-hospital",
+    "name": "Atascadero Pet Hospital",
+    "careType": "24/7 Emergency",
+    "is24_7": true,
+    "priority": 1,
+    "description": "24 Hour Emergency Care",
+    "phone": "(805) 466-3880",
+    "website": "https://apetcenter.com/",
+    "address": "9575 El Camino Real",
+    "city": "Avenal",
+    "state": "CA",
+    "zip": "",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.5,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "24/7 Emergency",
+      "24/7 Availability",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving Avenal",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "24 Hour Emergency Care",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "north-county-animal-hospital",
+    "name": "North County Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "North County Animal Hospital provides veterinary care for dogs in Avenal, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 238-5882",
+    "website": "https://pasonorthcountyanimalhosp.com/",
+    "address": "825 24th",
+    "city": "Avenal",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-17:30; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Avenal",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "north-county-animal-hospital-2",
+    "name": "North County Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "North County Animal Hospital provides veterinary care for dogs in Avenal, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 238-5882",
+    "website": "https://pasonorthcountyanimalhosp.com/",
+    "address": "825 24th",
+    "city": "Avenal",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-17:30; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Avenal",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "tulare-veterinary-hospital",
+    "name": "Tulare Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Tulare Veterinary Hospital provides veterinary care for dogs in Avenal, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 686-8544",
+    "website": "https://tularevet.com/",
+    "address": "861 North Blackstone Street",
+    "city": "Avenal",
+    "state": "CA",
+    "zip": "93274",
+    "hours": "Mo-Fr 07:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 07:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Avenal",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "las-tablas-animal-hospital",
+    "name": "Las Tablas Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Las Tablas Animal Hospital provides veterinary care for dogs in Avenal, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://lastablasanimalhospital.com/",
+    "address": "959 Las Tablas Road",
+    "city": "Avenal",
+    "state": "CA",
+    "zip": "93465",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Avenal",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  }
+]

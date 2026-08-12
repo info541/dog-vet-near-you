@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "cupertino-animal-hospital",
+    "name": "Cupertino Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Provides vet services for dogs and cats.",
+    "phone": "(408) 252-6380",
+    "website": "https://cupertinovet.com",
+    "address": "10026 Peninsula Avenue",
+    "city": "Cupertino",
+    "state": "CA",
+    "zip": "95014-1209",
+    "hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Cupertino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Provides vet services for dogs and cats.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.029Z"
+  },
+  {
+    "slug": "cupertino-animal-hospital-2",
+    "name": "Cupertino Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Provides vet services for dogs and cats.",
+    "phone": "(408) 252-6380",
+    "website": "https://cupertinovet.com",
+    "address": "10026 Peninsula Avenue",
+    "city": "Cupertino",
+    "state": "CA",
+    "zip": "95014-1209",
+    "hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Cupertino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Provides vet services for dogs and cats.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+  }
+]

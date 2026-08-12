@@ -1,0 +1,267 @@
+[
+  {
+    "slug": "dr-boyd-s-pet-resort",
+    "name": "Dr Boyd’s Pet Resort",
+    "careType": "General Practice",
+    "is24_7": true,
+    "priority": 1,
+    "description": "Dr Boyd’s Pet Resort provides veterinary care for dogs in Lake Forest, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(949) 385-8737",
+    "website": "https://drboyds.com/",
+    "address": "Lake Forest, CA",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92618",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "24/7 Availability",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving Lake Forest",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "banfield-pet-hospital",
+    "name": "Banfield Pet Hospital",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Inside PetSmart. After hours emergency hospital info: Animal Urgent Care of South OC, @ 28085 Hillcrest Mission Viejo, 949-364-6228 | Blue Pearl, @ 1371 Reynolds Avenue Irvine, 949-833-9020",
+    "phone": "(949) 768-0148",
+    "website": "https://www.banfield.com/locations/veterinarians/ca/lake-forest/mvo",
+    "address": "23602 El Toro Road",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92630",
+    "hours": "Mo-Sa 09:00-18:00; Su off",
+    "hoursDetail": [
+      "Mo-Sa 09:00-18:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Lake Forest",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Inside PetSmart. After hours emergency hospital info: Animal Urgent Care of South OC, @ 28085 Hillcrest Mission Viejo, 949-364-6228 | Blue Pearl, @ 1371 Reynolds Avenue Irvine, 949-833-9020",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.024Z"
+  },
+  {
+    "slug": "aliso-niguel-animal-hospital",
+    "name": "Aliso Niguel Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Aliso Niguel Animal Hospital provides veterinary care for dogs in Lake Forest, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(949) 305-3700",
+    "website": "https://alisoniguelanimalhospital.info/",
+    "address": "27261 La Paz Road",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92677",
+    "hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Lake Forest",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "alisos-animal-hospital",
+    "name": "Alisos Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Alisos Animal Hospital provides veterinary care for dogs in Lake Forest, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(949) 768-8308",
+    "website": "https://alisosanimalhospital.net/",
+    "address": "22902 Los Alisos Boulevard",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92691",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Lake Forest",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.020Z"
+  },
+  {
+    "slug": "bliss-animal-hospital",
+    "name": "Bliss Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Bliss Animal Hospital provides veterinary care for dogs in Lake Forest, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(949) 354-5201",
+    "website": "https://blissanimalhospital.com/",
+    "address": "26741 Rancho Parkway",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92630",
+    "hours": "Mo-Fr 09:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Lake Forest",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+  },
+  {
+    "slug": "culver-pet-clinic",
+    "name": "Culver Pet Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Culver Pet Clinic provides veterinary care for dogs in Lake Forest, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(949) 559-8971",
+    "website": "https://culverpetclinic.com/",
+    "address": "Lake Forest, CA",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Lake Forest",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "portola-plaza-veterinary-hospital",
+    "name": "Portola Plaza Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Portola Plaza Veterinary Hospital provides veterinary care for dogs in Lake Forest, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(949) 859-2101",
+    "website": "https://www.portolaplazaveterinaryhosp.com/",
+    "address": "27752 Santa Margarita Parkway",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92691",
+    "hours": "Mo-Fr 07:00-17:00; Sa 07:00-14:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 07:00-17:00; Sa 07:00-14:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Lake Forest",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "quail-animal-hospital",
+    "name": "Quail Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Quail Animal Hospital provides veterinary care for dogs in Lake Forest, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(949) 387-0338",
+    "website": "https://quailanimalhospital.com/",
+    "address": "6513 Quail Hill Parkway",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92603",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Lake Forest",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  }
+]

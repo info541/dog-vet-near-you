@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "hk-animal-hospital",
+    "name": "HK Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "HK Animal Hospital provides veterinary care for dogs in Danville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 743-1015",
+    "website": "http://hkanimalhospital.com/",
+    "address": "5 Railroad Avenue",
+    "city": "Danville",
+    "state": "CA",
+    "zip": "94526",
+    "hours": "Mo-Tu 08:00-19:00; We 09:00-17:00; Th-Fr 08:00-19:00; Sa 09:00-17:00",
+    "hoursDetail": [
+      "Mo-Tu 08:00-19:00; We 09:00-17:00; Th-Fr 08:00-19:00; Sa 09:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Danville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.021Z"
+  },
+  {
+    "slug": "tassajara-veterinary-clinic",
+    "name": "Tassajara Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Tassajara Veterinary Clinic provides veterinary care for dogs in Danville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 736-8387",
+    "website": "https://www.tassajaravet.com/",
+    "address": "3436 Camino Tassajara",
+    "city": "Danville",
+    "state": "CA",
+    "zip": "94506",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Danville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.022Z"
+  },
+  {
+    "slug": "oak-tree-animal-hospital",
+    "name": "Oak Tree Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Oak Tree Animal Hospital provides veterinary care for dogs in Danville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://oaktreevet.com",
+    "address": "579 San Ramon Valley Boulevard",
+    "city": "Danville",
+    "state": "CA",
+    "zip": "94526",
+    "hours": "Mo-Fr 08:30-20:00; Sa 09:00-20:00",
+    "hoursDetail": [
+      "Mo-Fr 08:30-20:00; Sa 09:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Danville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.030Z"
+  },
+  {
+    "slug": "oak-tree-animal-hospital-2",
+    "name": "Oak Tree Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Oak Tree Animal Hospital provides veterinary care for dogs in Danville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://oaktreevet.com",
+    "address": "579 San Ramon Valley Boulevard",
+    "city": "Danville",
+    "state": "CA",
+    "zip": "94526",
+    "hours": "Mo-Fr 08:30-20:00; Sa 09:00-20:00",
+    "hoursDetail": [
+      "Mo-Fr 08:30-20:00; Sa 09:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Danville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+  }
+]

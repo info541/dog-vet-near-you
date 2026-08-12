@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "ambassador-long-beach-veterinary-hospital",
+    "name": "Ambassador Long Beach Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in La Palma, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 427-2889",
+    "website": "https://ambassadorvet.com",
+    "address": "2281 E Carson St",
+    "city": "La Palma",
+    "state": "CA",
+    "zip": "90807",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Palma",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "ambassador-long-beach-veterinary-hospital-2",
+    "name": "Ambassador Long Beach Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in La Palma, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 427-2889",
+    "website": "https://ambassadorvet.com",
+    "address": "2281 E Carson St",
+    "city": "La Palma",
+    "state": "CA",
+    "zip": "90807",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Palma",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "ambassador-long-beach-veterinary-hospital-3",
+    "name": "Ambassador Long Beach Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in La Palma, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 427-2889",
+    "website": "https://ambassadorvet.com",
+    "address": "2251 E Carson St",
+    "city": "La Palma",
+    "state": "CA",
+    "zip": "90807",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Palma",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "ambassador-long-beach-veterinary-hospital-4",
+    "name": "Ambassador Long Beach Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in La Palma, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 427-2889",
+    "website": "https://ambassadorvet.com",
+    "address": "2251 E Carson St",
+    "city": "La Palma",
+    "state": "CA",
+    "zip": "90807",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Palma",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  }
+]

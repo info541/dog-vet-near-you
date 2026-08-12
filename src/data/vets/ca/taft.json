@@ -1,0 +1,386 @@
+[
+  {
+    "slug": "vca-care-specialty-and-emergency-animal-hospital",
+    "name": "VCA Care Specialty and Emergency Animal Hospital",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 1,
+    "description": "VCA Care Specialty and Emergency Animal Hospital provides veterinary care for dogs in Taft, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 899-2273",
+    "website": "https://vcahospitals.com/care",
+    "address": "301 East Haley Street",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93101",
+    "hours": "off",
+    "hoursDetail": [
+      "off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Taft",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "adobe-pet-hospital",
+    "name": "Adobe Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Adobe Pet Hospital provides veterinary care for dogs in Taft, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 682-2555",
+    "website": "https://adobepethospitalsb.com/",
+    "address": "3230 State Street",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93105",
+    "hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Taft",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "cat-and-bird-clinic",
+    "name": "Cat & Bird Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Cat & Bird Clinic provides veterinary care for dogs in Taft, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 569-2287",
+    "website": "https://www.catandbirds.com/",
+    "address": "101 West Mission Street",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93101",
+    "hours": "Mo,Fr 08:00-12:00,12:45-15:00; Tu-Th 08:00-15:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo,Fr 08:00-12:00,12:45-15:00; Tu-Th 08:00-15:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Taft",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "goleta-airport-pet-hospital",
+    "name": "Goleta Airport Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Goleta Airport Pet Hospital provides veterinary care for dogs in Taft, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 968-4300",
+    "website": "https://www.goletapethospital.com/site/home",
+    "address": "300 Storke Road",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93117",
+    "hours": "Mo-Fr 09:00-17:30; Sa,Su off",
+    "hoursDetail": [
+      "Mo-Fr 09:00-17:30; Sa,Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Taft",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "goodland-pet-hospital",
+    "name": "Goodland Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Goodland Pet Hospital provides veterinary care for dogs in Taft, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 685-4513",
+    "website": "https://goodlandvet.com/",
+    "address": "7126 Hollister Avenue",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93117",
+    "hours": "Mo-Th 08:00-17:30; Fr 08:00-17:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Th 08:00-17:30; Fr 08:00-17:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Taft",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "la-cumbre-animal-hospital",
+    "name": "La Cumbre Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "La Cumbre Animal Hospital provides veterinary care for dogs in Taft, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 626-3388",
+    "website": "https://www.lcah.com/",
+    "address": "3910 State Street",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93105",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Taft",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "san-roque-pet-hospital",
+    "name": "San Roque Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "San Roque Pet Hospital provides veterinary care for dogs in Taft, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 682-2647",
+    "website": "https://www.sanroquepethospital.com",
+    "address": "3034 State Street",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93105",
+    "hours": "Mo-Sa 08:00-17:00; Su off",
+    "hoursDetail": [
+      "Mo-Sa 08:00-17:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Taft",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "santa-barbara-humane-clinic",
+    "name": "Santa Barbara Humane Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Santa Barbara Humane Clinic provides veterinary care for dogs in Taft, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 964-4777",
+    "website": "https://sbhumane.org/clinic/",
+    "address": "5399 Overpass Road",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93111",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Taft",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "st-francis-pet-clinic",
+    "name": "St. Francis Pet Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "St. Francis Pet Clinic provides veterinary care for dogs in Taft, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 963-0577",
+    "website": "https://www.stfrancispetclinic.com/",
+    "address": "138 West Ortega Street",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93101",
+    "hours": "Mo-Fr 08:00-18:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Taft",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "vca-noah-s-ark-animal-hospital",
+    "name": "VCA Noah's Ark Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "VCA Noah's Ark Animal Hospital provides veterinary care for dogs in Taft, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 683-7788",
+    "website": "https://vcahospitals.com/noahs-ark",
+    "address": "160 North Fairview Avenue",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93117",
+    "hours": "Mo-Fr 07:30-18:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 07:30-18:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Taft",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "wilder-animal-hospital",
+    "name": "Wilder Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "Wilder Animal Hospital provides veterinary care for dogs in Taft, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 695-8387",
+    "website": "https://wilderanimalhospital.com/",
+    "address": "5152 Hollister Avenue",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93111",
+    "hours": "Mo-Fr 08:00-19:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Taft",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "bonnie-mara-animal-hospital",
+    "name": "Bonnie Mara Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 12,
+    "description": "Bonnie Mara Animal Hospital provides veterinary care for dogs in Taft, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.bonniemaraah.com/",
+    "address": "4860 Calle Real",
+    "city": "Taft",
+    "state": "CA",
+    "zip": "93111",
+    "hours": "Mo-Fr 08:00-18:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Taft",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  }
+]

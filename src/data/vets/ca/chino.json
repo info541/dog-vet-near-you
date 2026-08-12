@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "diamond-bar-veterinary-clinic",
+    "name": "Diamond Bar Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Diamond Bar Veterinary Clinic provides veterinary care for dogs in Chino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(909) 861-9561",
+    "website": "https://www.diamondbarvetclinic.com",
+    "address": "1131 Grand Avenue",
+    "city": "Chino",
+    "state": "CA",
+    "zip": "91765",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Chino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "chino-hills-small-animal-hospital",
+    "name": "Chino Hills Small Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Chino Hills Small Animal Hospital provides veterinary care for dogs in Chino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.chinohillsanimalhospital.com/appointments/",
+    "address": "3415 Chino Avenue",
+    "city": "Chino",
+    "state": "CA",
+    "zip": "91010",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Chino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.021Z"
+  },
+  {
+    "slug": "grand-animal-hospital",
+    "name": "Grand Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Grand Animal Hospital provides veterinary care for dogs in Chino, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.grandvets.com/",
+    "address": "1114 Diamond Bar Boulevard",
+    "city": "Chino",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Chino",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  }
+]

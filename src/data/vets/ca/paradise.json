@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "evers-veterinary-clinic",
+    "name": "Evers Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Evers Veterinary Clinic provides veterinary care for dogs in Paradise, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(530) 343-0713",
+    "website": "https://www.eversvetclinic.com/",
+    "address": "1150 El Monte Avenue",
+    "city": "Paradise",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-12:00",
+    "hoursDetail": [
+      "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-12:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Paradise",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  }
+]

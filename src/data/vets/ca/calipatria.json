@@ -1,0 +1,1282 @@
+[
+  {
+    "slug": "stitch-veterinary-urgent-care-and-surgery",
+    "name": "Stitch Veterinary Urgent Care and Surgery",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Stitch Veterinary Urgent Care and Surgery provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 695-9996",
+    "website": "https://www.stitchvet.com",
+    "address": "10755 Scripps Poway Parkway",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92131",
+    "hours": "Mo-Fr 09:00-21:00; Sa-Su 08:00-20:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-21:00; Sa-Su 08:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "animal-care-clinic",
+    "name": "Animal Care Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Animal Care Clinic provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 670-8700",
+    "website": "https://www.animalcareclinicsandiego.com/",
+    "address": "2522 Jamacha Road",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92019",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "bastet-veterinary-hospital",
+    "name": "Bastet Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Bastet Veterinary Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 442-5571",
+    "website": "https://elcajonvets.com/",
+    "address": "1682 Greenfield Drive",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92021",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "bastet-veterinary-hospital-2",
+    "name": "Bastet Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Bastet Veterinary Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 442-5571",
+    "website": "https://elcajonvets.com/",
+    "address": "1682 Greenfield Drive",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92021",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "center-veterinary-clinic",
+    "name": "Center Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Center Veterinary Clinic provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 271-1152",
+    "website": "https://www.centerveterinaryclinic.com/",
+    "address": "9025 Mira Mesa Boulevard",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92126",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "center-veterinary-clinic-2",
+    "name": "Center Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Center Veterinary Clinic provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 271-1152",
+    "website": "https://www.centerveterinaryclinic.com/",
+    "address": "9025 Mira Mesa Boulevard",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92126",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "colina-veterinary-hospital",
+    "name": "Colina Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Colina Veterinary Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 286-3360",
+    "website": "https://www.colinaveterinary.com/",
+    "address": "5530 University Avenue",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92105",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "colina-veterinary-hospital-2",
+    "name": "Colina Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Colina Veterinary Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 286-3360",
+    "website": "https://www.colinaveterinary.com/",
+    "address": "5530 University Avenue",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92105",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "fletcher-hills-animal-hospital",
+    "name": "Fletcher Hills Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Fletcher Hills Animal Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 463-6604",
+    "website": "http://fletcherhillsanimalhospital.com/",
+    "address": "8807 Grossmont Boulevard",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "fletcher-hills-animal-hospital-2",
+    "name": "Fletcher Hills Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Fletcher Hills Animal Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 463-6604",
+    "website": "http://fletcherhillsanimalhospital.com/",
+    "address": "8807 Grossmont Boulevard",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "jamacha-pet-vets",
+    "name": "Jamacha Pet Vets",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "Jamacha Pet Vets provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 693-4700",
+    "website": "https://jamachapetvets.com/",
+    "address": "693 Jamacha Road",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92019",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "judy-veterinary-clinic",
+    "name": "Judy Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 12,
+    "description": "Judy Veterinary Clinic provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 449-3500",
+    "website": "https://www.judyvetclinicca.com/",
+    "address": "1764 North 2nd Street",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92036",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "judy-veterinary-clinic-2",
+    "name": "Judy Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 13,
+    "description": "Judy Veterinary Clinic provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 449-3500",
+    "website": "https://www.judyvetclinicca.com/",
+    "address": "1764 North 2nd Street",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92036",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "pe-asquitos-pet-clinic",
+    "name": "Peñasquitos Pet Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 14,
+    "description": "Peñasquitos Pet Clinic provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 360-7794",
+    "website": "https://www.pqpetclinic.com/",
+    "address": "Calipatria, CA",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 07:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "pet-hospital-of-la-mesa",
+    "name": "Pet Hospital of La Mesa",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 15,
+    "description": "Pet Hospital of La Mesa provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 469-0138",
+    "website": "https://pethospitaloflamesa.com/",
+    "address": "5336 Jackson Drive",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "pet-hospital-of-la-mesa-2",
+    "name": "Pet Hospital of La Mesa",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 16,
+    "description": "Pet Hospital of La Mesa provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 469-0138",
+    "website": "https://pethospitaloflamesa.com/",
+    "address": "5336 Jackson Drive",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "petco",
+    "name": "Petco",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 17,
+    "description": "Petco provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 762-8720",
+    "website": "https://stores.petco.com/ca/poway/pet-supplies-poway-ca-4502.html",
+    "address": "13375 Poway Road",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92064",
+    "hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "hoursDetail": [
+      "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "petco-2",
+    "name": "Petco",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 18,
+    "description": "Petco provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 762-8720",
+    "website": "https://stores.petco.com/ca/poway/pet-supplies-poway-ca-4502.html",
+    "address": "13375 Poway Road",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92064",
+    "hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "hoursDetail": [
+      "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "poway-animal-hospital",
+    "name": "Poway Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 19,
+    "description": "Poway Animal Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 748-3326",
+    "website": "https://www.powayah.com/",
+    "address": "12219 Poway Road",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92064",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "rancho-bernardo-pet-hospital",
+    "name": "Rancho Bernardo Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 20,
+    "description": "Rancho Bernardo Pet Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 451-1700",
+    "website": "https://www.bernardovet.com",
+    "address": "16495 Bernardo Center Drive",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92128",
+    "hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "rancho-bernardo-pet-hospital-2",
+    "name": "Rancho Bernardo Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 21,
+    "description": "Rancho Bernardo Pet Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 451-1700",
+    "website": "https://www.bernardovet.com",
+    "address": "16495 Bernardo Center Drive",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92128",
+    "hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "rancho-san-diego-animal-hospital",
+    "name": "Rancho San Diego Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 22,
+    "description": "Rancho San Diego Animal Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 660-6767",
+    "website": "https://www.rsdanimalhospital.com/",
+    "address": "2988 Jamacha Road",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92019",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "san-carlos-animal-hospital",
+    "name": "San Carlos Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 23,
+    "description": "San Carlos Animal Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 460-3100",
+    "website": "https://www.sdpetdoc.com/",
+    "address": "8618 Lake Murray Boulevard",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92119",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "san-carlos-animal-hospital-2",
+    "name": "San Carlos Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 24,
+    "description": "San Carlos Animal Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 460-3100",
+    "website": "https://www.sdpetdoc.com/",
+    "address": "8618 Lake Murray Boulevard",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92119",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "spring-valley-animal-medical-hospital",
+    "name": "Spring Valley Animal Medical Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 25,
+    "description": "Spring Valley Animal Medical Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 464-5125",
+    "website": "https://www.springvalleyvetclinic.com/",
+    "address": "704 Grand Avenue",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "91977",
+    "hours": "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off",
+    "hoursDetail": [
+      "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "spring-valley-animal-medical-hospital-2",
+    "name": "Spring Valley Animal Medical Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 26,
+    "description": "Spring Valley Animal Medical Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 464-5125",
+    "website": "https://www.springvalleyvetclinic.com/",
+    "address": "704 Grand Avenue",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "91977",
+    "hours": "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off",
+    "hoursDetail": [
+      "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "steele-canyon-veterinary-clinic",
+    "name": "Steele Canyon Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 27,
+    "description": "Steele Canyon Veterinary Clinic provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 669-7274",
+    "website": "https://www.steelecanyonvet.com/",
+    "address": "12930 Campo Road",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "91935",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "sunshine-animal-hospital",
+    "name": "Sunshine Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 28,
+    "description": "Sunshine Animal Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 326-2075",
+    "website": "https://mysunshinevet.com/",
+    "address": "13265 Midland Road",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92064",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "valley-center-veterinary-clinic",
+    "name": "Valley Center Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 29,
+    "description": "Valley Center Veterinary Clinic provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(760) 749-0560",
+    "website": "https://www.vcvets.com",
+    "address": "14219 Cool Valley Road",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92082",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "valley-center-veterinary-clinic-2",
+    "name": "Valley Center Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 30,
+    "description": "Valley Center Veterinary Clinic provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(760) 749-0560",
+    "website": "https://www.vcvets.com",
+    "address": "14219 Cool Valley Road",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92082",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "vca-acacia-animal-hospital-and-pet-resort",
+    "name": "VCA Acacia Animal Hospital and Pet Resort",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 31,
+    "description": "VCA Acacia Animal Hospital and Pet Resort provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(760) 745-8115",
+    "website": "https://vcahospitals.com/acacia",
+    "address": "655 West Citracado Parkway",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92025",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "vca-acacia-animal-hospital-and-pet-resort-2",
+    "name": "VCA Acacia Animal Hospital and Pet Resort",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 32,
+    "description": "VCA Acacia Animal Hospital and Pet Resort provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(760) 745-8115",
+    "website": "https://vcahospitals.com/acacia",
+    "address": "655 West Citracado Parkway",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92025",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "vca-grossmont-vetr",
+    "name": "VCA Grossmont Vetr",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 33,
+    "description": "VCA Grossmont Vetr provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 697-0082",
+    "website": "https://vcahospitals.com/grossmont",
+    "address": "8274 #106 Parkway Drive",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:30-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 08:30-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "vca-yucca-valley-animal-hospital",
+    "name": "VCA Yucca Valley Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 34,
+    "description": "VCA Yucca Valley Animal Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(760) 365-0641",
+    "website": "https://vcahospitals.com/yucca-valley",
+    "address": "57185 29 Palms Highway",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92284",
+    "hours": "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "veterinary-dental-specialties",
+    "name": "Veterinary Dental Specialties",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 35,
+    "description": "Veterinary Dental Specialties provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 279-2108",
+    "website": "https://www.vdspets.com/location/san-diego/",
+    "address": "5775 Chesapeake Court",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92123",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "banfield-pet-hospital",
+    "name": "Banfield Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 36,
+    "description": "Banfield Pet Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://banfield.com",
+    "address": "El Cajon Boulevard",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92115",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "companion-care-veterinary-hospital",
+    "name": "Companion Care Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 37,
+    "description": "Companion Care Veterinary Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://companioncareveterinaryhospital.com/",
+    "address": "Calipatria, CA",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "parkway-pet-clinic",
+    "name": "Parkway Pet Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 38,
+    "description": "Parkway Pet Clinic provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://parkwaypetclinic.vetsourceweb.com/",
+    "address": "855 East Valley Parkway",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92025",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "parkway-pet-clinic-2",
+    "name": "Parkway Pet Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 39,
+    "description": "Parkway Pet Clinic provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://parkwaypetclinic.vetsourceweb.com/",
+    "address": "855 East Valley Parkway",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "92025",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "rancho-village-veterinary-hospital",
+    "name": "Rancho Village Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 40,
+    "description": "Rancho Village Veterinary Hospital provides veterinary care for dogs in Calipatria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://www.ranchovillagevet.com/",
+    "address": "3647 Avocado Boulevard",
+    "city": "Calipatria",
+    "state": "CA",
+    "zip": "91941",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Calipatria",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  }
+]

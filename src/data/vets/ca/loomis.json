@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "penryn-pet-hospital",
+    "name": "Penryn Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Penryn Pet Hospital provides veterinary care for dogs in Loomis, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 692-9460",
+    "website": "https://www.penrynpet.com/",
+    "address": "3210 Boyington Road",
+    "city": "Loomis",
+    "state": "CA",
+    "zip": "95650",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Loomis",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+  }
+]

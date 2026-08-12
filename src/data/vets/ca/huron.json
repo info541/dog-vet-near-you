@@ -1,0 +1,514 @@
+[
+  {
+    "slug": "alfaro-aubrey-dvm",
+    "name": "Alfaro Aubrey DVM",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Alfaro Aubrey DVM provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 227-3596",
+    "website": "https://sanjoaquinveterinaryhospital.net/meet-our-team/",
+    "address": "4333 North Blackstone Avenue",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93726",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "animal-hospital-and-dental-clinic",
+    "name": "Animal Hospital & Dental Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Animal Hospital & Dental Clinic provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 227-5575",
+    "website": "https://www.theanimalhosp.com/",
+    "address": "5169 North Blackstone Avenue",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93710",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "bluepearl",
+    "name": "BluePearl",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "BluePearl provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 437-3766",
+    "website": "https://bluepearlvet.com/",
+    "address": "7375 North Palm Bluffs Avenue",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93711",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "bullard-marks-veterinary-medical-center",
+    "name": "Bullard Marks Veterinary Medical Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Bullard Marks Veterinary Medical Center provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 432-0887",
+    "website": "https://bullardmarksveterinarymedicalcenter.com/",
+    "address": "3098 West Bullard Avenue",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93711",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "care-veterinary-hospital",
+    "name": "Care Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Care Veterinary Hospital provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 322-7100",
+    "website": "https://careveterinaryhospital.com/",
+    "address": "8084 North Cedar Avenue",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93720",
+    "hours": "Mo-Fr 08:00-17:00; Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00; Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "companion-animal-hospital",
+    "name": "Companion Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Companion Animal Hospital provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 432-1110",
+    "website": "https://www.fresnopethospital.net/",
+    "address": "132 West Nees Avenue",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93711",
+    "hours": "Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su 09:00-13:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su 09:00-13:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "hope-animal-foundation",
+    "name": "HOPE Animal Foundation",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "HOPE Animal Foundation provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 271-0209",
+    "website": "https://www.hopeaf.com/",
+    "address": "5490 West Spruce Avenue",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93722",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "north-county-animal-hospital",
+    "name": "North County Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "North County Animal Hospital provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 238-5882",
+    "website": "https://pasonorthcountyanimalhosp.com/",
+    "address": "825 24th",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-17:30; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "north-county-animal-hospital-2",
+    "name": "North County Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "North County Animal Hospital provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 238-5882",
+    "website": "https://pasonorthcountyanimalhosp.com/",
+    "address": "825 24th",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-17:30; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "northpointe-animal-hospital",
+    "name": "Northpointe Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Northpointe Animal Hospital provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 434-5470",
+    "website": "https://www.northpointeanimalhospital.com/",
+    "address": "1916 East Copper Avenue",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93730",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "shepherd-pet-hospital",
+    "name": "Shepherd Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "Shepherd Pet Hospital provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 337-6009",
+    "website": "https://sphfresno.com/",
+    "address": "8941 North Chestnut Avenue",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93720",
+    "hours": "Mo-Fr 09:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "shield-stone-pet-hospital",
+    "name": "Shield Stone Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 12,
+    "description": "Shield Stone Pet Hospital provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 222-2800",
+    "website": "http://www.shieldstonepethospital.com/",
+    "address": "1610 East Shields Avenue",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93704",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "sierra-view-animal-hospital",
+    "name": "Sierra View Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 13,
+    "description": "Sierra View Animal Hospital provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 432-1200",
+    "website": "https://www.sierraviewanimalhospital.com/",
+    "address": "93 East Sierra Avenue",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93710",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "tulare-veterinary-hospital",
+    "name": "Tulare Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 14,
+    "description": "Tulare Veterinary Hospital provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 686-8544",
+    "website": "https://tularevet.com/",
+    "address": "861 North Blackstone Street",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93274",
+    "hours": "Mo-Fr 07:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 07:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "waterhouse-animal-hospital",
+    "name": "Waterhouse Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 15,
+    "description": "Waterhouse Animal Hospital provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 434-4000",
+    "website": "https://www.waterhouseanimalhospital.com/",
+    "address": "1115 East Champlain Drive",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93720",
+    "hours": "Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "waterhouse-animal-hospital-2",
+    "name": "Waterhouse Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 16,
+    "description": "Waterhouse Animal Hospital provides veterinary care for dogs in Huron, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 434-4000",
+    "website": "https://www.waterhouseanimalhospital.com/",
+    "address": "1115 East Champlain Drive",
+    "city": "Huron",
+    "state": "CA",
+    "zip": "93720",
+    "hours": "Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Huron",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  }
+]

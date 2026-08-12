@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "animal-care-hospital",
+    "name": "Animal Care Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Animal Care Hospital provides veterinary care for dogs in Buellton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 735-3602",
+    "website": "https://www.achlompoc.com/",
+    "address": "Buellton, CA",
+    "city": "Buellton",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Buellton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "village-veterinary-clinic",
+    "name": "Village Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Village Veterinary Clinic provides veterinary care for dogs in Buellton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 733-3548",
+    "website": "https://villagevet.us/",
+    "address": "Buellton, CA",
+    "city": "Buellton",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Buellton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  }
+]

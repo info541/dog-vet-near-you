@@ -1,0 +1,226 @@
+[
+  {
+    "slug": "alhambra-veterinary-hospital",
+    "name": "Alhambra Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Alhambra Veterinary Hospital provides veterinary care for dogs in Bell, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 289-9227",
+    "website": "https://alhambravets.com/",
+    "address": "1501 West Mission Road",
+    "city": "Bell",
+    "state": "CA",
+    "zip": "91803",
+    "hours": "Mo-Fr 08:00-18:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Bell",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "firestone-animal-hospital",
+    "name": "Firestone Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Firestone Animal Hospital provides veterinary care for dogs in Bell, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 528-0847",
+    "website": "https://firestoneanimalhospital.com/",
+    "address": "7539 Firestone Boulevard",
+    "city": "Bell",
+    "state": "CA",
+    "zip": "90241",
+    "hours": "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00",
+    "hoursDetail": [
+      "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Bell",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "firestone-animal-hospital-2",
+    "name": "Firestone Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Firestone Animal Hospital provides veterinary care for dogs in Bell, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 528-0847",
+    "website": "https://firestoneanimalhospital.com/",
+    "address": "7539 Firestone Boulevard",
+    "city": "Bell",
+    "state": "CA",
+    "zip": "90241",
+    "hours": "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00",
+    "hoursDetail": [
+      "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Bell",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "hollydale-veterinary-hospital",
+    "name": "Hollydale Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Hollydale Veterinary Hospital provides veterinary care for dogs in Bell, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 862-2159",
+    "website": "https://www.hollydalevethospital.com/",
+    "address": "11205 Garfield Avenue",
+    "city": "Bell",
+    "state": "CA",
+    "zip": "90280",
+    "hours": "Mo-We,Fr 09:00-12:00,14:00-17:00; Sa 09:00-15:00",
+    "hoursDetail": [
+      "Mo-We,Fr 09:00-12:00,14:00-17:00; Sa 09:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Bell",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "hollydale-veterinary-hospital-2",
+    "name": "Hollydale Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Hollydale Veterinary Hospital provides veterinary care for dogs in Bell, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 862-2159",
+    "website": "https://www.hollydalevethospital.com/",
+    "address": "11205 Garfield Avenue",
+    "city": "Bell",
+    "state": "CA",
+    "zip": "90280",
+    "hours": "Mo-We,Fr 09:00-12:00,14:00-17:00; Sa 09:00-15:00",
+    "hoursDetail": [
+      "Mo-We,Fr 09:00-12:00,14:00-17:00; Sa 09:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Bell",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "modern-animal",
+    "name": "Modern Animal",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Modern Animal provides veterinary care for dogs in Bell, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(866) 505-8755",
+    "website": "http://modernanimal.com",
+    "address": "301 West Olympic Boulevard",
+    "city": "Bell",
+    "state": "CA",
+    "zip": "90015",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Bell",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "monterey-park-animal-hospital",
+    "name": "Monterey Park Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Monterey Park Animal Hospital provides veterinary care for dogs in Bell, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 722-9692",
+    "website": "https://mpah.com",
+    "address": "2314 South Atlantic Boulevard",
+    "city": "Bell",
+    "state": "CA",
+    "zip": "91754",
+    "hours": "Mo-Fr 08:00-19:00; Sa 08:00-15:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00; Sa 08:00-15:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Bell",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  }
+]

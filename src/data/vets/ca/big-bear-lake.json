@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "banning-veterinary-hospital",
+    "name": "Banning Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Banning Veterinary Hospital provides veterinary care for dogs in Big Bear Lake, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(951) 849-3864",
+    "website": "https://banningvet.com/",
+    "address": "3559 West Ramsey Street",
+    "city": "Big Bear Lake",
+    "state": "CA",
+    "zip": "92220",
+    "hours": "Mo-Fr 08:00-17:00; Sa 08:00-12:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Big Bear Lake",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  }
+]

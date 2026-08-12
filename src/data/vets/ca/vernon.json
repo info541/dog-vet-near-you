@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "modern-animal",
+    "name": "Modern Animal",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Modern Animal provides veterinary care for dogs in Vernon, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(866) 505-8755",
+    "website": "http://modernanimal.com",
+    "address": "301 West Olympic Boulevard",
+    "city": "Vernon",
+    "state": "CA",
+    "zip": "90015",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Vernon",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+  },
+  {
+    "slug": "mohawk-alley-animal-hospital",
+    "name": "Mohawk Alley Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Mohawk Alley Animal Hospital provides veterinary care for dogs in Vernon, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(213) 201-7900",
+    "website": "https://www.mohawkalleyanimalhospital.com",
+    "address": "2162 Sunset Boulevard",
+    "city": "Vernon",
+    "state": "CA",
+    "zip": "90026",
+    "hours": "Su 08:00-18:00; Mo-Fr 07:00-19:00; Sa 08:00-18:00",
+    "hoursDetail": [
+      "Su 08:00-18:00; Mo-Fr 07:00-19:00; Sa 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Vernon",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.019Z"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "myrtle-avenue-veterinary-hospital",
+    "name": "Myrtle Avenue Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Myrtle Avenue Veterinary Hospital provides veterinary care for dogs in Eureka, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 443-8686",
+    "website": "http://m.mobilewebsiteserver.com/site/myrtleavevet#2624",
+    "address": "2715 Hubbard Lane",
+    "city": "Eureka",
+    "state": "CA",
+    "zip": "95501",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Eureka",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.018Z"
+  }
+]

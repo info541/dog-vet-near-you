@@ -1,0 +1,290 @@
+[
+  {
+    "slug": "animal-rescue-center",
+    "name": "Animal Rescue Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Animal Rescue Center provides veterinary care for dogs in Inglewood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 402-0039",
+    "website": "http://www.theanimalrescuecenter.org/",
+    "address": "2901 Exposition Boulevard",
+    "city": "Inglewood",
+    "state": "CA",
+    "zip": "90018",
+    "hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Inglewood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "animal-rescue-center-2",
+    "name": "Animal Rescue Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Animal Rescue Center provides veterinary care for dogs in Inglewood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 402-0039",
+    "website": "http://www.theanimalrescuecenter.org/",
+    "address": "2901 Exposition Boulevard",
+    "city": "Inglewood",
+    "state": "CA",
+    "zip": "90018",
+    "hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Inglewood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "california-veterinary-hospital",
+    "name": "California Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "California Veterinary Hospital provides veterinary care for dogs in Inglewood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(310) 323-6867",
+    "website": "https://www.californiavethospital.com/",
+    "address": "230 West Victoria Street",
+    "city": "Inglewood",
+    "state": "CA",
+    "zip": "90248",
+    "hours": "Mo-Fr 08:00-19:00, Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00, Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Inglewood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "california-veterinary-hospital-2",
+    "name": "California Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "California Veterinary Hospital provides veterinary care for dogs in Inglewood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(310) 323-6867",
+    "website": "https://www.californiavethospital.com/",
+    "address": "230 West Victoria Street",
+    "city": "Inglewood",
+    "state": "CA",
+    "zip": "90248",
+    "hours": "Mo-Fr 08:00-19:00, Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00, Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Inglewood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "modern-animal",
+    "name": "Modern Animal",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Modern Animal provides veterinary care for dogs in Inglewood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(866) 505-8755",
+    "website": "http://modernanimal.com",
+    "address": "301 West Olympic Boulevard",
+    "city": "Inglewood",
+    "state": "CA",
+    "zip": "90015",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Inglewood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "beverly-hills-small-animal-hospital",
+    "name": "Beverly Hills Small Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Beverly Hills Small Animal Hospital provides veterinary care for dogs in Inglewood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://www.bhsah.com",
+    "address": "353 N Foothill Rd",
+    "city": "Inglewood",
+    "state": "CA",
+    "zip": "90210",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Inglewood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "mar-vista-animal-medical-center",
+    "name": "Mar Vista Animal Medical Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Mar Vista Animal Medical Center provides veterinary care for dogs in Inglewood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://marvistavet.com/",
+    "address": "3850 Grand View Boulevard",
+    "city": "Inglewood",
+    "state": "CA",
+    "zip": "90066",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Inglewood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "paw-veterinary-center",
+    "name": "PAW Veterinary Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "PAW Veterinary Center provides veterinary care for dogs in Inglewood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://pawveterinarycenter.com/",
+    "address": "1436 Aviation Boulevard",
+    "city": "Inglewood",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Inglewood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "paw-veterinary-center-2",
+    "name": "PAW Veterinary Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "PAW Veterinary Center provides veterinary care for dogs in Inglewood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://pawveterinarycenter.com/",
+    "address": "1436 Aviation Boulevard",
+    "city": "Inglewood",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Inglewood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "monte-vista-small-animal-hospital",
+    "name": "Monte Vista Small Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Monte Vista Small Animal Hospital provides veterinary care for dogs in Newman, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 634-0023",
+    "website": "https://www.montevistavet.com/",
+    "address": "901 East Monte Vista Avenue",
+    "city": "Newman",
+    "state": "CA",
+    "zip": "95382",
+    "hours": "07:00-19:00",
+    "hoursDetail": [
+      "07:00-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Newman",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "monte-vista-small-animal-hospital-2",
+    "name": "Monte Vista Small Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Monte Vista Small Animal Hospital provides veterinary care for dogs in Newman, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 634-0023",
+    "website": "https://www.montevistavet.com/",
+    "address": "901 East Monte Vista Avenue",
+    "city": "Newman",
+    "state": "CA",
+    "zip": "95382",
+    "hours": "07:00-19:00",
+    "hoursDetail": [
+      "07:00-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Newman",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  }
+]

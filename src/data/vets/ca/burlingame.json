@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "animal-pet-cove",
+    "name": "Animal Pet Cove",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Animal Pet Cove provides veterinary care for dogs in Burlingame, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 377-0822",
+    "website": "https://www.animalcove.com/",
+    "address": "1940 Beach Park Boulevard",
+    "city": "Burlingame",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Burlingame",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "animal-pet-cove-2",
+    "name": "Animal Pet Cove",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Animal Pet Cove provides veterinary care for dogs in Burlingame, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 377-0822",
+    "website": "https://www.animalcove.com/",
+    "address": "1940 Beach Park Boulevard",
+    "city": "Burlingame",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Burlingame",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "oceana-pet-hospital",
+    "name": "Oceana Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Oceana Pet Hospital provides veterinary care for dogs in Burlingame, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 355-6600",
+    "website": "http://www.oceanapet.com/",
+    "address": "711 Oceana Boulevard",
+    "city": "Burlingame",
+    "state": "CA",
+    "zip": "94044",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Burlingame",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "pacifica-pet-hospital",
+    "name": "Pacifica Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Pacifica Pet Hospital provides veterinary care for dogs in Burlingame, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 359-3685",
+    "website": "https://www.pacificapet.com/",
+    "address": "4300 Cabrillo Highway",
+    "city": "Burlingame",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 07:00-19:00; Sa,Su 08:30-16:30",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa,Su 08:30-16:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Burlingame",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  }
+]

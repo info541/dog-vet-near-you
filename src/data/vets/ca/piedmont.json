@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "holistic-veterinary-care",
+    "name": "Holistic Veterinary Care",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Holistic Veterinary Care provides veterinary care for dogs in Piedmont, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(510) 339-2600",
+    "website": "https://holisticvetcare.com/",
+    "address": "4382 Piedmont Avenue",
+    "city": "Piedmont",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Piedmont",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.028Z"
+  },
+  {
+    "slug": "holistic-veterinary-care-2",
+    "name": "Holistic Veterinary Care",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Holistic Veterinary Care provides veterinary care for dogs in Piedmont, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(510) 339-2600",
+    "website": "https://holisticvetcare.com/",
+    "address": "4382 Piedmont Avenue",
+    "city": "Piedmont",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Piedmont",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+  },
+  {
+    "slug": "petvet-petfood-clinic",
+    "name": "Petvet Petfood Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Petvet Petfood Clinic provides veterinary care for dogs in Piedmont, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(510) 652-9822",
+    "website": "http://petvetpetfood.net/",
+    "address": "Piedmont, CA",
+    "city": "Piedmont",
+    "state": "CA",
+    "zip": "",
+    "hours": "Su-Mo 10:00-15:00",
+    "hoursDetail": [
+      "Su-Mo 10:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Piedmont",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.021Z"
+  },
+  {
+    "slug": "east-bay-veterinary-clinic",
+    "name": "East Bay Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "East Bay Veterinary Clinic provides veterinary care for dogs in Piedmont, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.eastbayvetclinic.com/site/home",
+    "address": "568 Grand Avenue",
+    "city": "Piedmont",
+    "state": "CA",
+    "zip": "",
+    "hours": "Su 10:00-17:00; Mo 08:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 08:00-19:00; Fr 08:00-19:00; Sa 10:00-17:00",
+    "hoursDetail": [
+      "Su 10:00-17:00; Mo 08:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 08:00-19:00; Fr 08:00-19:00; Sa 10:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Piedmont",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.019Z"
+  }
+]

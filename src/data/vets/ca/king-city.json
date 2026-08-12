@@ -1,0 +1,226 @@
+[
+  {
+    "slug": "avian-and-exotic-clinic",
+    "name": "Avian & Exotic Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Avian & Exotic Clinic provides veterinary care for dogs in King City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(831) 402-1792",
+    "website": "http://www.aecvets.com/",
+    "address": "459 Canyon del Rey Boulevard",
+    "city": "King City",
+    "state": "CA",
+    "zip": "93940",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving King City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "banfield-pet-hospital",
+    "name": "Banfield Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Banfield Pet Hospital provides veterinary care for dogs in King City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(831) 392-0102",
+    "website": "https://www.banfield.com/locations/veterinarians/ca/sand-city/scy/",
+    "address": "2020 California Avenue",
+    "city": "King City",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Sa 07:00-19:00; Su 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Sa 07:00-19:00; Su 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving King City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "north-county-animal-hospital",
+    "name": "North County Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "North County Animal Hospital provides veterinary care for dogs in King City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 238-5882",
+    "website": "https://pasonorthcountyanimalhosp.com/",
+    "address": "825 24th",
+    "city": "King City",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-17:30; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving King City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "north-county-animal-hospital-2",
+    "name": "North County Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "North County Animal Hospital provides veterinary care for dogs in King City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 238-5882",
+    "website": "https://pasonorthcountyanimalhosp.com/",
+    "address": "825 24th",
+    "city": "King City",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-17:30; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving King City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "toro-park-animal-hospital",
+    "name": "Toro Park Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Toro Park Animal Hospital provides veterinary care for dogs in King City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(831) 484-9744",
+    "website": "https://toroparkvet.com/",
+    "address": "22720 Portola Drive",
+    "city": "King City",
+    "state": "CA",
+    "zip": "93908",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving King City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "toro-park-animal-hospital-2",
+    "name": "Toro Park Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Toro Park Animal Hospital provides veterinary care for dogs in King City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(831) 484-9744",
+    "website": "https://toroparkvet.com/",
+    "address": "22720 Portola Drive",
+    "city": "King City",
+    "state": "CA",
+    "zip": "93908",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving King City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "las-tablas-animal-hospital",
+    "name": "Las Tablas Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Las Tablas Animal Hospital provides veterinary care for dogs in King City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://lastablasanimalhospital.com/",
+    "address": "959 Las Tablas Road",
+    "city": "King City",
+    "state": "CA",
+    "zip": "93465",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving King City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  }
+]

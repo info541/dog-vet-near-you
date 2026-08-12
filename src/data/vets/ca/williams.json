@@ -1,0 +1,361 @@
+[
+  {
+    "slug": "banfield-pet-hospital",
+    "name": "Banfield Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Banfield Pet Hospital provides veterinary care for dogs in Williams, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 721-0418",
+    "website": "https://www.banfield.com",
+    "address": "7917 Elverta Road",
+    "city": "Williams",
+    "state": "CA",
+    "zip": "95843",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Williams",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "cat-tales-feline-health-center",
+    "name": "Cat Tales Feline Health Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Cat Tales Feline Health Center, located in Davis, provides uniquely tailored health care for cats from across Northern California and the Sacramento Valley.",
+    "phone": "(530) 517-5100",
+    "website": "https://www.cattalesdavis.com/",
+    "address": "606 West Covell Boulevard",
+    "city": "Williams",
+    "state": "CA",
+    "zip": "95616",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Williams",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Cat Tales Feline Health Center, located in Davis, provides uniquely tailored health care for cats from across Northern California and the Sacramento Valley.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "evers-veterinary-clinic",
+    "name": "Evers Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Evers Veterinary Clinic provides veterinary care for dogs in Williams, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(530) 343-0713",
+    "website": "https://www.eversvetclinic.com/",
+    "address": "1150 El Monte Avenue",
+    "city": "Williams",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-12:00",
+    "hoursDetail": [
+      "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-12:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Williams",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "mendocino-animal-hospital",
+    "name": "Mendocino Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Mendocino Animal Hospital provides veterinary care for dogs in Williams, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 462-8833",
+    "website": "https://mendocinoanimalhospital.net/",
+    "address": "290 East Gobbi Street",
+    "city": "Williams",
+    "state": "CA",
+    "zip": "95482",
+    "hours": "Mo-Fr 07:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 07:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Williams",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "mendocino-animal-hospital-2",
+    "name": "Mendocino Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Mendocino Animal Hospital provides veterinary care for dogs in Williams, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 462-8833",
+    "website": "https://mendocinoanimalhospital.net/",
+    "address": "290 East Gobbi Street",
+    "city": "Williams",
+    "state": "CA",
+    "zip": "95482",
+    "hours": "Mo-Fr 07:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 07:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Williams",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "pawsh-place-veterinary-center-and-boutique",
+    "name": "Pawsh Place Veterinary Center & Boutique",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Pawsh Place Veterinary Center & Boutique provides veterinary care for dogs in Williams, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 451-0571",
+    "website": "https://pawshplace.com/",
+    "address": "218 Dobbins Street",
+    "city": "Williams",
+    "state": "CA",
+    "zip": "95688",
+    "hours": "Mo-Sa 08:00-20:00",
+    "hoursDetail": [
+      "Mo-Sa 08:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Williams",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "pawsh-place-veterinary-center-and-boutique-2",
+    "name": "Pawsh Place Veterinary Center & Boutique",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Pawsh Place Veterinary Center & Boutique provides veterinary care for dogs in Williams, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 451-0571",
+    "website": "https://pawshplace.com/",
+    "address": "218 Dobbins Street",
+    "city": "Williams",
+    "state": "CA",
+    "zip": "95688",
+    "hours": "Mo-Sa 08:00-20:00",
+    "hoursDetail": [
+      "Mo-Sa 08:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Williams",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "critter-creek",
+    "name": "Critter Creek",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Critter Creek provides veterinary care for dogs in Williams, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://crittercreekvet.com/",
+    "address": "Williams, CA",
+    "city": "Williams",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Williams",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "rocklin-ranch-veterinary-hospital-at-pacific-street",
+    "name": "Rocklin Ranch Veterinary Hospital at Pacific Street",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Rocklin Ranch Veterinary Hospital at Pacific Street provides veterinary care for dogs in Williams, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.rocklinranchvet.com/rrvh-pacific-street/",
+    "address": "5405 Pacific Street",
+    "city": "Williams",
+    "state": "CA",
+    "zip": "95677",
+    "hours": "Mo-Fr 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Williams",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "stonebridge-veterinary-wellness",
+    "name": "Stonebridge Veterinary Wellness",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Stonebridge Veterinary Wellness provides veterinary care for dogs in Williams, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://stonebridgevetwellness.com/",
+    "address": "254 Gibson Drive",
+    "city": "Williams",
+    "state": "CA",
+    "zip": "95678",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Williams",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "stonebridge-veterinary-wellness-2",
+    "name": "Stonebridge Veterinary Wellness",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "Stonebridge Veterinary Wellness provides veterinary care for dogs in Williams, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://stonebridgevetwellness.com/",
+    "address": "254 Gibson Drive",
+    "city": "Williams",
+    "state": "CA",
+    "zip": "95678",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Williams",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  }
+]

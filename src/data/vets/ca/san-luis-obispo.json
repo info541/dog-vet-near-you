@@ -1,0 +1,105 @@
+[
+  {
+    "slug": "cerro-alto-veterinary-specialty-and-emergency-hospital",
+    "name": "Cerro Alto Veterinary Specialty and Emergency Hospital",
+    "careType": "24/7 Emergency",
+    "is24_7": false,
+    "priority": 1,
+    "description": "24 hour vet",
+    "phone": "(805) 457-8724",
+    "website": "https://cerroaltovet.com",
+    "address": "2640 Broad Street",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "zip": "93401",
+    "hours": "Mo-Su 09:00-09:00",
+    "hoursDetail": [
+      "Mo-Su 09:00-09:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "24/7 Emergency",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Luis Obispo",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "24 hour vet",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.018Z"
+  },
+  {
+    "slug": "mission-animal-hospital",
+    "name": "Mission Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Mission Animal Hospital provides veterinary care for dogs in San Luis Obispo, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 781-8888",
+    "website": "https://www.thrivepetcare.com/locations/california/san-luis-obispo/mission-animal-hospital",
+    "address": "3973 South Higuera Street",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "zip": "93401",
+    "hours": "Mo-Fr 08:00-18:00; Sa 09:00-15:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 09:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Luis Obispo",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+  },
+  {
+    "slug": "mission-animal-hospital-2",
+    "name": "Mission Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Mission Animal Hospital provides veterinary care for dogs in San Luis Obispo, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 781-8888",
+    "website": "https://www.thrivepetcare.com/locations/california/san-luis-obispo/mission-animal-hospital",
+    "address": "3973 South Higuera Street",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "zip": "93401",
+    "hours": "Mo-Fr 08:00-18:00; Sa 09:00-15:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 09:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Luis Obispo",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+  }
+]

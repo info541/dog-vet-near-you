@@ -1,0 +1,164 @@
+[
+  {
+    "slug": "tri-county-veterinary-hospital",
+    "name": "Tri-County Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": true,
+    "priority": 1,
+    "description": "Tri-County Veterinary Hospital provides veterinary care for dogs in Watsonville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 848-8886",
+    "website": "http://www.tri-countyvethospital.com/",
+    "address": "2675 Pacheco Pass Highway",
+    "city": "Watsonville",
+    "state": "CA",
+    "zip": "95020",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "24/7 Availability",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving Watsonville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "soquel-animal-hospital",
+    "name": "Soquel Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Soquel Animal Hospital provides veterinary care for dogs in Watsonville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(831) 475-0432",
+    "website": "https://soquelvet.com/",
+    "address": "2651 Soquel Avenue",
+    "city": "Watsonville",
+    "state": "CA",
+    "zip": "95062",
+    "hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa-Su 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Watsonville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "soquel-animal-hospital-2",
+    "name": "Soquel Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Soquel Animal Hospital provides veterinary care for dogs in Watsonville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(831) 475-0432",
+    "website": "https://soquelvet.com/",
+    "address": "2651 Soquel Avenue",
+    "city": "Watsonville",
+    "state": "CA",
+    "zip": "95062",
+    "hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa-Su 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Watsonville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "vca-animal-hospital",
+    "name": "VCA Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "VCA Animal Hospital provides veterinary care for dogs in Watsonville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(831) 427-3345",
+    "website": "https://vcahospitals.com",
+    "address": "815 Mission Street",
+    "city": "Watsonville",
+    "state": "CA",
+    "zip": "95060",
+    "hours": "Mo-Fr 07:00-19:00, Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00, Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Watsonville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "vca-animal-hospital-2",
+    "name": "VCA Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "VCA Animal Hospital provides veterinary care for dogs in Watsonville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(831) 427-3345",
+    "website": "https://vcahospitals.com",
+    "address": "815 Mission Street",
+    "city": "Watsonville",
+    "state": "CA",
+    "zip": "95060",
+    "hours": "Mo-Fr 07:00-19:00, Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00, Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Watsonville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  }
+]

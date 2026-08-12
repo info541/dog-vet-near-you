@@ -1,0 +1,528 @@
+[
+  {
+    "slug": "apex-veterinary-specialists",
+    "name": "Apex Veterinary Specialists",
+    "careType": "Specialty",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Apex Veterinary Specialists provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://apexvetspecialists.com/",
+    "address": "19100 Cox Avenue",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95070",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Specialty",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  },
+  {
+    "slug": "cupertino-animal-hospital",
+    "name": "Cupertino Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Provides vet services for dogs and cats.",
+    "phone": "(408) 252-6380",
+    "website": "https://cupertinovet.com",
+    "address": "10026 Peninsula Avenue",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95014-1209",
+    "hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Provides vet services for dogs and cats.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  },
+  {
+    "slug": "pinnacle-animal-hospital",
+    "name": "Pinnacle Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Pinnacle Animal Hospital provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 264-9400",
+    "website": "https://pinnaclevets.com/",
+    "address": "4724 Meridian Avenue",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95118",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  },
+  {
+    "slug": "reed-animal-hospital",
+    "name": "Reed Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Reed Animal Hospital provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 369-1788",
+    "website": "https://www.reedanimalhospital.com/",
+    "address": "1657 South Bascom Avenue",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95008",
+    "hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa-Su 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  },
+  {
+    "slug": "serra-veterinary-hospital",
+    "name": "Serra Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Serra Veterinary Hospital provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 739-3545",
+    "website": "https://serravet.com/",
+    "address": "520 West Fremont Avenue",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "94087",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  },
+  {
+    "slug": "sunnyvale-veterinary-cat-clinic",
+    "name": "Sunnyvale Veterinary Cat Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Cat specific portion of Sunnyvale Vet Clinic.",
+    "phone": "(408) 736-8296",
+    "website": "https://sunnyvalevet.com/cat-clinic",
+    "address": "1010 West El Camino Real",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "94087",
+    "hours": "Mo-Sa 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Sa 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Cat specific portion of Sunnyvale Vet Clinic.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  },
+  {
+    "slug": "uni-pet-clinic-san-jose",
+    "name": "UNI Pet Clinic San Jose",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "UNI Pet Clinic San Jose provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 294-8887",
+    "website": "https://unipetclinic.com/locations/uni-pet-clinic-san-jose/",
+    "address": "595 North 1st Street",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95110",
+    "hours": "Mo-Fr 09:00-18:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 09:00-18:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  },
+  {
+    "slug": "vca-vets-and-pets-animal-hospital",
+    "name": "VCA Vets & Pets Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "VCA Vets & Pets Animal Hospital provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 246-1893",
+    "website": "https://vcahospitals.com/vets-pets",
+    "address": "3345 El Camino Real",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95051",
+    "hours": "Mo-Th 07:00-18:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Th 07:00-18:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.030Z"
+  },
+  {
+    "slug": "vca-vets-and-pets-animal-hospital-2",
+    "name": "VCA Vets & Pets Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "VCA Vets & Pets Animal Hospital provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 246-1893",
+    "website": "https://vcahospitals.com/vets-pets",
+    "address": "3345 El Camino Real",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95051",
+    "hours": "Mo-Th 07:00-18:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Th 07:00-18:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+  },
+  {
+    "slug": "vetco-vaccination-clinic",
+    "name": "Vetco Vaccination Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Vetco Vaccination Clinic provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 866-7387",
+    "website": "https://stores.petco.com/ca/san-jose/vaccinations-sanjose-ca-271.html",
+    "address": "500 El Paseo de Saratoga",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95130",
+    "hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00",
+    "hoursDetail": [
+      "Mo-Sa 09:00-21:00; Su 09:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  },
+  {
+    "slug": "archvet-animal-hospital",
+    "name": "ArchVet Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "ArchVet Animal Hospital provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://archvet.com/",
+    "address": "Santa Clara, CA",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.020Z"
+  },
+  {
+    "slug": "burbank-pet-hospital",
+    "name": "Burbank Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 12,
+    "description": "Burbank Pet Hospital provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.burbankpethospital.com/",
+    "address": "1819 West San Carlos Street",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95128",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  },
+  {
+    "slug": "murphy-avenue-pet-clinic",
+    "name": "Murphy Avenue Pet Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 13,
+    "description": "Murphy Avenue Pet Clinic provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://mapcvet.com/",
+    "address": "101 East Hendy Avenue",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  },
+  {
+    "slug": "san-jose-animal-hospital",
+    "name": "San Jose Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 14,
+    "description": "San Jose Animal Hospital provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://www.sanjoseanimalhospital.com/",
+    "address": "940 Berryessa Road",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95133",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  },
+  {
+    "slug": "sunnyvale-veterinary-clinic",
+    "name": "Sunnyvale Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 15,
+    "description": "Sunnyvale Veterinary Clinic provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.sunnyvalevet.com/",
+    "address": "Santa Clara, CA",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  },
+  {
+    "slug": "wildwood-veterinary-hospital",
+    "name": "Wildwood Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 16,
+    "description": "Wildwood Veterinary Hospital provides veterinary care for dogs in Santa Clara, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://wildwoodvet.com/",
+    "address": "1115 Luchessi Drive",
+    "city": "Santa Clara",
+    "state": "CA",
+    "zip": "95118",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Santa Clara",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+  }
+]

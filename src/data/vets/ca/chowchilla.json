@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "atwater-merced-veterinary-clinic-inc",
+    "name": "Atwater-Merced Veterinary Clinic, Inc.",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Atwater-Merced Veterinary Clinic, Inc. provides veterinary care for dogs in Chowchilla, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 358-6000",
+    "website": "https://atwatermercedvet.com/",
+    "address": "2100 Bell Drive",
+    "city": "Chowchilla",
+    "state": "CA",
+    "zip": "95301",
+    "hours": "Mo-Fr 07:30-19:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Chowchilla",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "atwater-merced-veterinary-clinic-inc-2",
+    "name": "Atwater-Merced Veterinary Clinic, Inc.",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Atwater-Merced Veterinary Clinic, Inc. provides veterinary care for dogs in Chowchilla, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 358-6000",
+    "website": "https://atwatermercedvet.com/",
+    "address": "2100 Bell Drive",
+    "city": "Chowchilla",
+    "state": "CA",
+    "zip": "95301",
+    "hours": "Mo-Fr 07:30-19:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Chowchilla",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "hope-animal-foundation",
+    "name": "HOPE Animal Foundation",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "HOPE Animal Foundation provides veterinary care for dogs in Chowchilla, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 271-0209",
+    "website": "https://www.hopeaf.com/",
+    "address": "5490 West Spruce Avenue",
+    "city": "Chowchilla",
+    "state": "CA",
+    "zip": "93722",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Chowchilla",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  }
+]

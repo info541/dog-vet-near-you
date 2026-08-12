@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "animal-rescue-center",
+    "name": "Animal Rescue Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Animal Rescue Center provides veterinary care for dogs in El Segundo, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 402-0039",
+    "website": "http://www.theanimalrescuecenter.org/",
+    "address": "2901 Exposition Boulevard",
+    "city": "El Segundo",
+    "state": "CA",
+    "zip": "90018",
+    "hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving El Segundo",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "animal-rescue-center-2",
+    "name": "Animal Rescue Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Animal Rescue Center provides veterinary care for dogs in El Segundo, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 402-0039",
+    "website": "http://www.theanimalrescuecenter.org/",
+    "address": "2901 Exposition Boulevard",
+    "city": "El Segundo",
+    "state": "CA",
+    "zip": "90018",
+    "hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving El Segundo",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "mar-vista-animal-medical-center",
+    "name": "Mar Vista Animal Medical Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Mar Vista Animal Medical Center provides veterinary care for dogs in El Segundo, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://marvistavet.com/",
+    "address": "3850 Grand View Boulevard",
+    "city": "El Segundo",
+    "state": "CA",
+    "zip": "90066",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving El Segundo",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "paw-veterinary-center",
+    "name": "PAW Veterinary Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "PAW Veterinary Center provides veterinary care for dogs in El Segundo, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://pawveterinarycenter.com/",
+    "address": "1436 Aviation Boulevard",
+    "city": "El Segundo",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving El Segundo",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "paw-veterinary-center-2",
+    "name": "PAW Veterinary Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "PAW Veterinary Center provides veterinary care for dogs in El Segundo, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://pawveterinarycenter.com/",
+    "address": "1436 Aviation Boulevard",
+    "city": "El Segundo",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving El Segundo",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  }
+]

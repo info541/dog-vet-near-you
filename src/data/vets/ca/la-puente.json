@@ -1,0 +1,105 @@
+[
+  {
+    "slug": "diamond-bar-veterinary-clinic",
+    "name": "Diamond Bar Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Diamond Bar Veterinary Clinic provides veterinary care for dogs in La Puente, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(909) 861-9561",
+    "website": "https://www.diamondbarvetclinic.com",
+    "address": "1131 Grand Avenue",
+    "city": "La Puente",
+    "state": "CA",
+    "zip": "91765",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Puente",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.040Z"
+  },
+  {
+    "slug": "socal-k9-clinic-city-of-industry",
+    "name": "SoCal K9 Clinic City of Industry",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "SoCal K9 Clinic City of Industry is a full-service veterinary hospital that provides comprehensive veterinary services for pets with the latest equipment and advanced techniques in City of Industry, CA, and the surrounding area.",
+    "phone": "(562) 203-1644",
+    "website": "https://socalk9cliniccoi.com",
+    "address": "La Puente, CA",
+    "city": "La Puente",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 09:00-17:00; Sa-Su 09:00-21:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-17:00; Sa-Su 09:00-21:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Puente",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "SoCal K9 Clinic City of Industry is a full-service veterinary hospital that provides comprehensive veterinary services for pets with the latest equipment and advanced techniques in City of Industry, CA, and the surrounding area.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.040Z"
+  },
+  {
+    "slug": "grand-animal-hospital",
+    "name": "Grand Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Grand Animal Hospital provides veterinary care for dogs in La Puente, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.grandvets.com/",
+    "address": "1114 Diamond Bar Boulevard",
+    "city": "La Puente",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Puente",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.040Z"
+  }
+]

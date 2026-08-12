@@ -1,0 +1,194 @@
+[
+  {
+    "slug": "above-and-beyond-animal-care",
+    "name": "Above and Beyond Animal Care",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Above and Beyond Animal Care provides veterinary care for dogs in Mount Shasta, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(530) 549-7044",
+    "website": "https://aboveandbeyondanimalcare.com",
+    "address": "22509 Old Alturas Road",
+    "city": "Mount Shasta",
+    "state": "CA",
+    "zip": "96008",
+    "hours": "Mo-Fr 07:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 07:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Mount Shasta",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.049Z"
+  },
+  {
+    "slug": "above-and-beyond-animal-care-2",
+    "name": "Above and Beyond Animal Care",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Above and Beyond Animal Care provides veterinary care for dogs in Mount Shasta, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(530) 549-7044",
+    "website": "https://aboveandbeyondanimalcare.com",
+    "address": "22509 Old Alturas Road",
+    "city": "Mount Shasta",
+    "state": "CA",
+    "zip": "96008",
+    "hours": "Mo-Fr 07:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 07:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Mount Shasta",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.049Z"
+  },
+  {
+    "slug": "millville-veterinary-clinic",
+    "name": "Millville Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Millville Veterinary Clinic provides veterinary care for dogs in Mount Shasta, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(530) 547-4457",
+    "website": "https://www.millvillevet.com/",
+    "address": "Mount Shasta, CA",
+    "city": "Mount Shasta",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Mount Shasta",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.049Z"
+  },
+  {
+    "slug": "millville-veterinary-clinic-2",
+    "name": "Millville Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Millville Veterinary Clinic provides veterinary care for dogs in Mount Shasta, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(530) 547-4457",
+    "website": "https://www.millvillevet.com/",
+    "address": "Mount Shasta, CA",
+    "city": "Mount Shasta",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Mount Shasta",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.049Z"
+  },
+  {
+    "slug": "dana-park-veterinary-hospital",
+    "name": "Dana Park Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Dana Park Veterinary Hospital provides veterinary care for dogs in Mount Shasta, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.danaparkvethospital.com/",
+    "address": "Mount Shasta, CA",
+    "city": "Mount Shasta",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Mount Shasta",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.049Z"
+  },
+  {
+    "slug": "dana-park-veterinary-hospital-2",
+    "name": "Dana Park Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Dana Park Veterinary Hospital provides veterinary care for dogs in Mount Shasta, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.danaparkvethospital.com/",
+    "address": "Mount Shasta, CA",
+    "city": "Mount Shasta",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Mount Shasta",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.049Z"
+  }
+]

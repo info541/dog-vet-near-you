@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "myrtle-avenue-veterinary-hospital",
+    "name": "Myrtle Avenue Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Myrtle Avenue Veterinary Hospital provides veterinary care for dogs in Crescent City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 443-8686",
+    "website": "http://m.mobilewebsiteserver.com/site/myrtleavevet#2624",
+    "address": "2715 Hubbard Lane",
+    "city": "Crescent City",
+    "state": "CA",
+    "zip": "95501",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Crescent City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "redwood-animal-hospital",
+    "name": "Redwood Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Redwood Animal Hospital provides veterinary care for dogs in Crescent City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://redwoodanimalmckinleyville.com/",
+    "address": "1585 School Road",
+    "city": "Crescent City",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Crescent City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "redwood-animal-hospital-2",
+    "name": "Redwood Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Redwood Animal Hospital provides veterinary care for dogs in Crescent City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://redwoodanimalmckinleyville.com/",
+    "address": "1585 School Road",
+    "city": "Crescent City",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Crescent City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  }
+]

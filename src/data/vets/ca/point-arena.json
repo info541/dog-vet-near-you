@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "mendocino-animal-hospital",
+    "name": "Mendocino Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Mendocino Animal Hospital provides veterinary care for dogs in Point Arena, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 462-8833",
+    "website": "https://mendocinoanimalhospital.net/",
+    "address": "290 East Gobbi Street",
+    "city": "Point Arena",
+    "state": "CA",
+    "zip": "95482",
+    "hours": "Mo-Fr 07:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 07:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Point Arena",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "mendocino-animal-hospital-2",
+    "name": "Mendocino Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Mendocino Animal Hospital provides veterinary care for dogs in Point Arena, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 462-8833",
+    "website": "https://mendocinoanimalhospital.net/",
+    "address": "290 East Gobbi Street",
+    "city": "Point Arena",
+    "state": "CA",
+    "zip": "95482",
+    "hours": "Mo-Fr 07:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 07:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Point Arena",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  }
+]

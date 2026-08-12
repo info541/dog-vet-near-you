@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "california-veterinary-hospital",
+    "name": "California Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "California Veterinary Hospital provides veterinary care for dogs in Gardena, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(310) 323-6867",
+    "website": "https://www.californiavethospital.com/",
+    "address": "230 West Victoria Street",
+    "city": "Gardena",
+    "state": "CA",
+    "zip": "90248",
+    "hours": "Mo-Fr 08:00-19:00, Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00, Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Gardena",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.029Z"
+  },
+  {
+    "slug": "california-veterinary-hospital-2",
+    "name": "California Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "California Veterinary Hospital provides veterinary care for dogs in Gardena, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(310) 323-6867",
+    "website": "https://www.californiavethospital.com/",
+    "address": "230 West Victoria Street",
+    "city": "Gardena",
+    "state": "CA",
+    "zip": "90248",
+    "hours": "Mo-Fr 08:00-19:00, Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00, Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Gardena",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+  }
+]

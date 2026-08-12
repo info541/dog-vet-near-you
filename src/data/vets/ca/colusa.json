@@ -1,0 +1,548 @@
+[
+  {
+    "slug": "all-about-pets",
+    "name": "All About Pets",
+    "careType": "24/7 Emergency",
+    "is24_7": true,
+    "priority": 1,
+    "description": "All About Pets provides veterinary care for dogs in Colusa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.allaboutpetsch.com/",
+    "address": "6104 San Juan Avenue",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95610",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "24/7 Emergency",
+      "24/7 Availability",
+      "Emergency Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "all-about-pets-2",
+    "name": "All About Pets",
+    "careType": "24/7 Emergency",
+    "is24_7": true,
+    "priority": 2,
+    "description": "All About Pets provides veterinary care for dogs in Colusa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.allaboutpetsch.com/",
+    "address": "6104 San Juan Avenue",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95610",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "24/7 Emergency",
+      "24/7 Availability",
+      "Emergency Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "marqueen-pet-emergency-and-specialty",
+    "name": "MarQueen Pet Emergency & Specialty",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 3,
+    "description": "MarQueen is the largest independently owned emergency and specialty veterinary practice serving the greater Roseville, Folsom, Rocklin, El Dorado Hills, and Sacramento, CA region.",
+    "phone": "(916) 757-6600",
+    "website": "https://marqueenanimalclinic.com",
+    "address": "9205 Sierra College Blvd",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95661",
+    "hours": "Mo-Su 08:00-24:00",
+    "hoursDetail": [
+      "Mo-Su 08:00-24:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "MarQueen is the largest independently owned emergency and specialty veterinary practice serving the greater Roseville, Folsom, Rocklin, El Dorado Hills, and Sacramento, CA region.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "banfield-pet-hospital",
+    "name": "Banfield Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Banfield Pet Hospital provides veterinary care for dogs in Colusa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 721-0418",
+    "website": "https://www.banfield.com",
+    "address": "7917 Elverta Road",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95843",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "blue-cross-pet-hospital",
+    "name": "Blue Cross Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Offers on-site boarding, surgery, and pharmacy.",
+    "phone": "(916) 944-3850",
+    "website": "https://bluecrosspethospital.net/",
+    "address": "7615 Fair Oaks Boulevard",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95608",
+    "hours": "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Offers on-site boarding, surgery, and pharmacy.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "blue-cross-pet-hospital-2",
+    "name": "Blue Cross Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Offers on-site boarding, surgery, and pharmacy.",
+    "phone": "(916) 944-3850",
+    "website": "https://bluecrosspethospital.net/",
+    "address": "7615 Fair Oaks Boulevard",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95608",
+    "hours": "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Offers on-site boarding, surgery, and pharmacy.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "cat-tales-feline-health-center",
+    "name": "Cat Tales Feline Health Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Cat Tales Feline Health Center, located in Davis, provides uniquely tailored health care for cats from across Northern California and the Sacramento Valley.",
+    "phone": "(530) 517-5100",
+    "website": "https://www.cattalesdavis.com/",
+    "address": "606 West Covell Boulevard",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95616",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Cat Tales Feline Health Center, located in Davis, provides uniquely tailored health care for cats from across Northern California and the Sacramento Valley.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "evers-veterinary-clinic",
+    "name": "Evers Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Evers Veterinary Clinic provides veterinary care for dogs in Colusa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(530) 343-0713",
+    "website": "https://www.eversvetclinic.com/",
+    "address": "1150 El Monte Avenue",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-12:00",
+    "hoursDetail": [
+      "Mo-Th 08:00-18:00; Fr 08:00-17:00; Sa 08:00-12:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "penryn-pet-hospital",
+    "name": "Penryn Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Penryn Pet Hospital provides veterinary care for dogs in Colusa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 692-9460",
+    "website": "https://www.penrynpet.com/",
+    "address": "3210 Boyington Road",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95650",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "vca-sacramento-animal-medical-group",
+    "name": "VCA Sacramento Animal Medical Group",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "VCA Sacramento Animal Medical Group provides veterinary care for dogs in Colusa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 331-7430",
+    "website": "https://vcahospitals.com/sacramento-animal-medical-group",
+    "address": "4990 Manzanita Avenue",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95608",
+    "hours": "Mo-Fr 07:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "vca-sacramento-animal-medical-group-2",
+    "name": "VCA Sacramento Animal Medical Group",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "VCA Sacramento Animal Medical Group provides veterinary care for dogs in Colusa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 331-7430",
+    "website": "https://vcahospitals.com/sacramento-animal-medical-group",
+    "address": "Colusa, CA",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95608",
+    "hours": "Mo-Fr 07:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "vca-sacramento-animal-medical-group-3",
+    "name": "VCA Sacramento Animal Medical Group",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 12,
+    "description": "VCA Sacramento Animal Medical Group provides veterinary care for dogs in Colusa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 331-7430",
+    "website": "https://vcahospitals.com/sacramento-animal-medical-group",
+    "address": "4990 Manzanita Avenue",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95608",
+    "hours": "Mo-Fr 07:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "critter-creek",
+    "name": "Critter Creek",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 13,
+    "description": "Critter Creek provides veterinary care for dogs in Colusa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://crittercreekvet.com/",
+    "address": "Colusa, CA",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 07:00-18:00; Sa 08:00-17:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "rocklin-ranch-veterinary-hospital-at-pacific-street",
+    "name": "Rocklin Ranch Veterinary Hospital at Pacific Street",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 14,
+    "description": "Rocklin Ranch Veterinary Hospital at Pacific Street provides veterinary care for dogs in Colusa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.rocklinranchvet.com/rrvh-pacific-street/",
+    "address": "5405 Pacific Street",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95677",
+    "hours": "Mo-Fr 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "stonebridge-veterinary-wellness",
+    "name": "Stonebridge Veterinary Wellness",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 15,
+    "description": "Stonebridge Veterinary Wellness provides veterinary care for dogs in Colusa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://stonebridgevetwellness.com/",
+    "address": "254 Gibson Drive",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95678",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "stonebridge-veterinary-wellness-2",
+    "name": "Stonebridge Veterinary Wellness",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 16,
+    "description": "Stonebridge Veterinary Wellness provides veterinary care for dogs in Colusa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://stonebridgevetwellness.com/",
+    "address": "254 Gibson Drive",
+    "city": "Colusa",
+    "state": "CA",
+    "zip": "95678",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Colusa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  }
+]

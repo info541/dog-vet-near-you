@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "east-bay-spca-spay-neuter-clinic",
+    "name": "East Bay SPCA Spay/Neuter Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "East Bay SPCA Spay/Neuter Clinic provides veterinary care for dogs in Livermore, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 479-9674",
+    "website": "https://eastbayspca.org/",
+    "address": "4651 Gleason Drive",
+    "city": "Livermore",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Livermore",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "town-and-county-veterinary-hospital",
+    "name": "Town & County Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Town & County Veterinary Hospital provides veterinary care for dogs in Livermore, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 462-1666",
+    "website": "https://www.tcvhosp.com",
+    "address": "923 Main Street",
+    "city": "Livermore",
+    "state": "CA",
+    "zip": "94566",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Livermore",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+  },
+  {
+    "slug": "animal-medical-center-of-livermore",
+    "name": "Animal Medical Center of Livermore",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Animal Medical Center of Livermore provides veterinary care for dogs in Livermore, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.livermoreamc.com/",
+    "address": "Livermore, CA",
+    "city": "Livermore",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Livermore",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.022Z"
+  }
+]

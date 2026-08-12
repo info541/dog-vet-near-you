@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "atwater-merced-veterinary-clinic-inc",
+    "name": "Atwater-Merced Veterinary Clinic, Inc.",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Atwater-Merced Veterinary Clinic, Inc. provides veterinary care for dogs in Gustine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 358-6000",
+    "website": "https://atwatermercedvet.com/",
+    "address": "2100 Bell Drive",
+    "city": "Gustine",
+    "state": "CA",
+    "zip": "95301",
+    "hours": "Mo-Fr 07:30-19:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Gustine",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "atwater-merced-veterinary-clinic-inc-2",
+    "name": "Atwater-Merced Veterinary Clinic, Inc.",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Atwater-Merced Veterinary Clinic, Inc. provides veterinary care for dogs in Gustine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 358-6000",
+    "website": "https://atwatermercedvet.com/",
+    "address": "2100 Bell Drive",
+    "city": "Gustine",
+    "state": "CA",
+    "zip": "95301",
+    "hours": "Mo-Fr 07:30-19:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Gustine",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "monte-vista-small-animal-hospital",
+    "name": "Monte Vista Small Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Monte Vista Small Animal Hospital provides veterinary care for dogs in Gustine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 634-0023",
+    "website": "https://www.montevistavet.com/",
+    "address": "901 East Monte Vista Avenue",
+    "city": "Gustine",
+    "state": "CA",
+    "zip": "95382",
+    "hours": "07:00-19:00",
+    "hoursDetail": [
+      "07:00-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Gustine",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "monte-vista-small-animal-hospital-2",
+    "name": "Monte Vista Small Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Monte Vista Small Animal Hospital provides veterinary care for dogs in Gustine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 634-0023",
+    "website": "https://www.montevistavet.com/",
+    "address": "901 East Monte Vista Avenue",
+    "city": "Gustine",
+    "state": "CA",
+    "zip": "95382",
+    "hours": "07:00-19:00",
+    "hoursDetail": [
+      "07:00-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Gustine",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  }
+]

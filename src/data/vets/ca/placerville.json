@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "lakeside-pet-hospital",
+    "name": "Lakeside Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Lakeside Pet Hospital provides veterinary care for dogs in Placerville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 983-7387",
+    "website": "https://lakesidepethospitalfolsom.com/",
+    "address": "Blue Ravine Road",
+    "city": "Placerville",
+    "state": "CA",
+    "zip": "95630",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Placerville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  }
+]

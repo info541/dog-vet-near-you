@@ -1,0 +1,784 @@
+[
+  {
+    "slug": "stitch-veterinary-urgent-care-and-surgery",
+    "name": "Stitch Veterinary Urgent Care and Surgery",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Stitch Veterinary Urgent Care and Surgery provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 695-9996",
+    "website": "https://www.stitchvet.com",
+    "address": "10755 Scripps Poway Parkway",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92131",
+    "hours": "Mo-Fr 09:00-21:00; Sa-Su 08:00-20:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-21:00; Sa-Su 08:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+  },
+  {
+    "slug": "american-animal-hospital",
+    "name": "American Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "American Animal Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 586-7387",
+    "website": "https://www.aahsandiego.com/",
+    "address": "8135 Mira Mesa Boulevard",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92126",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+  },
+  {
+    "slug": "banfield-pet-hospital",
+    "name": "Banfield Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Banfield Pet Hospital® - Point Loma provides quality and attentive health and wellness care for dog, cat and small animal pet patients in San Diego County.",
+    "phone": "(619) 225-0175",
+    "website": "https://www.banfield.com/locations/veterinarians/ca/san-diego/ssa/",
+    "address": "3361 Rosecrans St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Sa 07:00-18:00",
+    "hoursDetail": [
+      "Mo-Sa 07:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Banfield Pet Hospital® - Point Loma provides quality and attentive health and wellness care for dog, cat and small animal pet patients in San Diego County.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.019Z"
+  },
+  {
+    "slug": "center-veterinary-clinic",
+    "name": "Center Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Center Veterinary Clinic provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 271-1152",
+    "website": "https://www.centerveterinaryclinic.com/",
+    "address": "9025 Mira Mesa Boulevard",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92126",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+  },
+  {
+    "slug": "center-veterinary-clinic-2",
+    "name": "Center Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Center Veterinary Clinic provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 271-1152",
+    "website": "https://www.centerveterinaryclinic.com/",
+    "address": "9025 Mira Mesa Boulevard",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92126",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+  },
+  {
+    "slug": "colina-veterinary-hospital",
+    "name": "Colina Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Colina Veterinary Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 286-3360",
+    "website": "https://www.colinaveterinary.com/",
+    "address": "5530 University Avenue",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92105",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+  },
+  {
+    "slug": "colina-veterinary-hospital-2",
+    "name": "Colina Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Colina Veterinary Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 286-3360",
+    "website": "https://www.colinaveterinary.com/",
+    "address": "5530 University Avenue",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92105",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+  },
+  {
+    "slug": "colony-veterinary-hospital",
+    "name": "Colony Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Colony Veterinary Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 450-5047",
+    "website": "https://www.lajollacolonyvet.com",
+    "address": "7748 Regents Road",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92122",
+    "hours": "Mo-Fr 08:00-18:00; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.016Z"
+  },
+  {
+    "slug": "fletcher-hills-animal-hospital",
+    "name": "Fletcher Hills Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Fletcher Hills Animal Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 463-6604",
+    "website": "http://fletcherhillsanimalhospital.com/",
+    "address": "8807 Grossmont Boulevard",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+  },
+  {
+    "slug": "lifetime-animal-care-center",
+    "name": "Lifetime Animal Care Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Lifetime Animal Care Center provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 274-1760",
+    "website": "https://www.lifetimeanimalcare.com",
+    "address": "4250 Clairemont Mesa Boulevard",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92117",
+    "hours": "Mo-Fr 08:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 08:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.018Z"
+  },
+  {
+    "slug": "papaya-veterinary-care-carmel-valley",
+    "name": "Papaya Veterinary Care - Carmel Valley",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "We are a modern veterinary clinic that is focused on maintaining the health and well-being of our patients.",
+    "phone": "(619) 880-8986",
+    "website": "https://www.papayapet.com/locations/carmel-valley-sd/",
+    "address": "5980 Village Way",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92130",
+    "hours": "Mo-Fr 08:00-18:00, Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00, Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "We are a modern veterinary clinic that is focused on maintaining the health and well-being of our patients.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+  },
+  {
+    "slug": "pet-hospital-of-la-mesa",
+    "name": "Pet Hospital of La Mesa",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 12,
+    "description": "Pet Hospital of La Mesa provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 469-0138",
+    "website": "https://pethospitaloflamesa.com/",
+    "address": "5336 Jackson Drive",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+  },
+  {
+    "slug": "rancho-bernardo-pet-hospital",
+    "name": "Rancho Bernardo Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 13,
+    "description": "Rancho Bernardo Pet Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 451-1700",
+    "website": "https://www.bernardovet.com",
+    "address": "16495 Bernardo Center Drive",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92128",
+    "hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.028Z"
+  },
+  {
+    "slug": "rancho-bernardo-pet-hospital-2",
+    "name": "Rancho Bernardo Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 14,
+    "description": "Rancho Bernardo Pet Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 451-1700",
+    "website": "https://www.bernardovet.com",
+    "address": "16495 Bernardo Center Drive",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92128",
+    "hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+  },
+  {
+    "slug": "san-carlos-animal-hospital",
+    "name": "San Carlos Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 15,
+    "description": "San Carlos Animal Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 460-3100",
+    "website": "https://www.sdpetdoc.com/",
+    "address": "8618 Lake Murray Boulevard",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92119",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+  },
+  {
+    "slug": "san-carlos-animal-hospital-2",
+    "name": "San Carlos Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 16,
+    "description": "San Carlos Animal Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 460-3100",
+    "website": "https://www.sdpetdoc.com/",
+    "address": "8618 Lake Murray Boulevard",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92119",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+  },
+  {
+    "slug": "spring-valley-animal-medical-hospital",
+    "name": "Spring Valley Animal Medical Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 17,
+    "description": "Spring Valley Animal Medical Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 464-5125",
+    "website": "https://www.springvalleyvetclinic.com/",
+    "address": "704 Grand Avenue",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "91977",
+    "hours": "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off",
+    "hoursDetail": [
+      "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+  },
+  {
+    "slug": "tierramesa-veterinary-clinic",
+    "name": "Tierramesa Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 18,
+    "description": "Tierramesa Veterinary Clinic provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 268-0044",
+    "website": "https://www.tierramesavet.com/",
+    "address": "9353 Clairemont Mesa Boulevard",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92123",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.022Z"
+  },
+  {
+    "slug": "torrey-hills-pet-hospital",
+    "name": "Torrey Hills Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 19,
+    "description": "Torrey Hills Pet Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 755-8275",
+    "website": "https://www.torreyvet.com",
+    "address": "4653 Carmel Mountain Road",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92130",
+    "hours": "Mo-Fr 08:00-17:30",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+  },
+  {
+    "slug": "vca-grossmont-vetr",
+    "name": "VCA Grossmont Vetr",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 20,
+    "description": "VCA Grossmont Vetr provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 697-0082",
+    "website": "https://vcahospitals.com/grossmont",
+    "address": "8274 #106 Parkway Drive",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:30-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 08:30-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+  },
+  {
+    "slug": "veterinary-dental-specialties",
+    "name": "Veterinary Dental Specialties",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 21,
+    "description": "Veterinary Dental Specialties provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(858) 279-2108",
+    "website": "https://www.vdspets.com/location/san-diego/",
+    "address": "5775 Chesapeake Court",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92123",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+  },
+  {
+    "slug": "banfield-pet-hospital-2",
+    "name": "Banfield Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 22,
+    "description": "Banfield Pet Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://banfield.com",
+    "address": "El Cajon Boulevard",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92115",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+  },
+  {
+    "slug": "lindsey-veterinary-care",
+    "name": "Lindsey Veterinary Care",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 23,
+    "description": "Lindsey Veterinary Care provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.lindseyvetcare.com",
+    "address": "7740 Clairemont Mesa Boulevard",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92111",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.022Z"
+  },
+  {
+    "slug": "turquoise-animal-hospital",
+    "name": "Turquoise Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 24,
+    "description": "Turquoise Animal Hospital provides veterinary care for dogs in San Diego, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://turquoiseanimalhospital.com/",
+    "address": "950 Turquoise Street",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92109",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving San Diego",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+  }
+]

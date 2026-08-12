@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "sears-veterinary-hospital",
+    "name": "Sears Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Sears Veterinary Hospital provides veterinary care for dogs in Lancaster, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(661) 948-5911",
+    "website": "http://searshosp.com",
+    "address": "565 West Avenue I",
+    "city": "Lancaster",
+    "state": "CA",
+    "zip": "93534",
+    "hours": "Mo-Tu 08:00-20:00, We-Fr 08:00-18:00, Sa 08:00-14:00",
+    "hoursDetail": [
+      "Mo-Tu 08:00-20:00, We-Fr 08:00-18:00, Sa 08:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Lancaster",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.028Z"
+  },
+  {
+    "slug": "sears-veterinary-hospital-2",
+    "name": "Sears Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Sears Veterinary Hospital provides veterinary care for dogs in Lancaster, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(661) 948-5911",
+    "website": "http://searshosp.com",
+    "address": "565 West Avenue I",
+    "city": "Lancaster",
+    "state": "CA",
+    "zip": "93534",
+    "hours": "Mo-Tu 08:00-20:00, We-Fr 08:00-18:00, Sa 08:00-14:00",
+    "hoursDetail": [
+      "Mo-Tu 08:00-20:00, We-Fr 08:00-18:00, Sa 08:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Lancaster",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+  }
+]

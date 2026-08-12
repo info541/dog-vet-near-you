@@ -1,0 +1,137 @@
+[
+  {
+    "slug": "4-paws-veterinary-clinic",
+    "name": "4 Paws Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "4 Paws Veterinary Clinic provides veterinary care for dogs in Ojai, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 921-1000",
+    "website": "https://4pawsvet.vetstreet.com/",
+    "address": "1107 East Harvard Boulevard",
+    "city": "Ojai",
+    "state": "CA",
+    "zip": "93060",
+    "hours": "Mo-Fr 08:30-17:00; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:30-17:00; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Ojai",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "4-paws-veterinary-clinic-2",
+    "name": "4 Paws Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "4 Paws Veterinary Clinic provides veterinary care for dogs in Ojai, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 921-1000",
+    "website": "https://4pawsvet.vetstreet.com/",
+    "address": "1107 East Harvard Boulevard",
+    "city": "Ojai",
+    "state": "CA",
+    "zip": "93060",
+    "hours": "Mo-Fr 08:30-17:00; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:30-17:00; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Ojai",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "east-ventura-animal-hospital",
+    "name": "East Ventura Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "East Ventura Animal Hospital provides veterinary care for dogs in Ojai, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 647-8430",
+    "website": "https://www.eastventuraanimalhospital.com/",
+    "address": "10225 Telephone Road",
+    "city": "Ojai",
+    "state": "CA",
+    "zip": "93004",
+    "hours": "Mo-Fr 09:00-18:00, Sa 08:00-12:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-18:00, Sa 08:00-12:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Ojai",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  },
+  {
+    "slug": "hope-veterinary-oncology",
+    "name": "Hope Veterinary Oncology",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Hope Veterinary Oncology is an independent and woman-owned veterinary oncology practice in Ventura, CA. We provide expert care for pets with cancer and deliver personalized treatment and advanced cancer care with hospitality, kindness and compassion.",
+    "phone": "(805) 626-6551",
+    "website": "https://www.hopeveterinaryoncology.com/",
+    "address": "1885 Knoll Drive",
+    "city": "Ojai",
+    "state": "CA",
+    "zip": "93003",
+    "hours": "Mo-Th 07:30-17:30",
+    "hoursDetail": [
+      "Mo-Th 07:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Ojai",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Hope Veterinary Oncology is an independent and woman-owned veterinary oncology practice in Ventura, CA. We provide expert care for pets with cancer and deliver personalized treatment and advanced cancer care with hospitality, kindness and compassion.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.046Z"
+  }
+]

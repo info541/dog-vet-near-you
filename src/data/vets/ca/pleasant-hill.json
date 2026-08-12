@@ -1,0 +1,105 @@
+[
+  {
+    "slug": "alternatives-for-animals",
+    "name": "Alternatives for Animals",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Veterinarian",
+    "phone": "(925) 283-6160",
+    "website": "https://www.alternatives4animals.com/",
+    "address": "425 Gregory Lane",
+    "city": "Pleasant Hill",
+    "state": "CA",
+    "zip": "94523",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Pleasant Hill",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Veterinarian",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.020Z"
+  },
+  {
+    "slug": "sage-veterinary-centers",
+    "name": "Sage Veterinary Centers",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Sage Veterinary Centers provides veterinary care for dogs in Pleasant Hill, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 627-7243",
+    "website": "https://www.sagecenters.com/locations/concord",
+    "address": "Pleasant Hill, CA",
+    "city": "Pleasant Hill",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Pleasant Hill",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+  },
+  {
+    "slug": "lindsay-wildlife-hospital",
+    "name": "Lindsay Wildlife Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Lindsay Wildlife Hospital provides veterinary care for dogs in Pleasant Hill, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://wildlife-museum.org/hospital",
+    "address": "Pleasant Hill, CA",
+    "city": "Pleasant Hill",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Pleasant Hill",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.018Z"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "slug": "ambassador-long-beach-veterinary-hospital",
+    "name": "Ambassador Long Beach Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in Compton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 427-2889",
+    "website": "https://ambassadorvet.com",
+    "address": "2251 E Carson St",
+    "city": "Compton",
+    "state": "CA",
+    "zip": "90807",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Compton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "ambassador-long-beach-veterinary-hospital-2",
+    "name": "Ambassador Long Beach Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in Compton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 427-2889",
+    "website": "https://ambassadorvet.com",
+    "address": "2281 E Carson St",
+    "city": "Compton",
+    "state": "CA",
+    "zip": "90807",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Compton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "ambassador-long-beach-veterinary-hospital-3",
+    "name": "Ambassador Long Beach Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in Compton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 427-2889",
+    "website": "https://ambassadorvet.com",
+    "address": "2251 E Carson St",
+    "city": "Compton",
+    "state": "CA",
+    "zip": "90807",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Compton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "ambassador-long-beach-veterinary-hospital-4",
+    "name": "Ambassador Long Beach Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in Compton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 427-2889",
+    "website": "https://ambassadorvet.com",
+    "address": "2281 E Carson St",
+    "city": "Compton",
+    "state": "CA",
+    "zip": "90807",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Compton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "california-veterinary-hospital",
+    "name": "California Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "California Veterinary Hospital provides veterinary care for dogs in Compton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(310) 323-6867",
+    "website": "https://www.californiavethospital.com/",
+    "address": "230 West Victoria Street",
+    "city": "Compton",
+    "state": "CA",
+    "zip": "90248",
+    "hours": "Mo-Fr 08:00-19:00, Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00, Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Compton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "california-veterinary-hospital-2",
+    "name": "California Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "California Veterinary Hospital provides veterinary care for dogs in Compton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(310) 323-6867",
+    "website": "https://www.californiavethospital.com/",
+    "address": "230 West Victoria Street",
+    "city": "Compton",
+    "state": "CA",
+    "zip": "90248",
+    "hours": "Mo-Fr 08:00-19:00, Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00, Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Compton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "firestone-animal-hospital",
+    "name": "Firestone Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Firestone Animal Hospital provides veterinary care for dogs in Compton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 528-0847",
+    "website": "https://firestoneanimalhospital.com/",
+    "address": "7539 Firestone Boulevard",
+    "city": "Compton",
+    "state": "CA",
+    "zip": "90241",
+    "hours": "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00",
+    "hoursDetail": [
+      "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Compton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "firestone-animal-hospital-2",
+    "name": "Firestone Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Firestone Animal Hospital provides veterinary care for dogs in Compton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 528-0847",
+    "website": "https://firestoneanimalhospital.com/",
+    "address": "7539 Firestone Boulevard",
+    "city": "Compton",
+    "state": "CA",
+    "zip": "90241",
+    "hours": "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00",
+    "hoursDetail": [
+      "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Compton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "hollydale-veterinary-hospital",
+    "name": "Hollydale Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Hollydale Veterinary Hospital provides veterinary care for dogs in Compton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 862-2159",
+    "website": "https://www.hollydalevethospital.com/",
+    "address": "11205 Garfield Avenue",
+    "city": "Compton",
+    "state": "CA",
+    "zip": "90280",
+    "hours": "Mo-We,Fr 09:00-12:00,14:00-17:00; Sa 09:00-15:00",
+    "hoursDetail": [
+      "Mo-We,Fr 09:00-12:00,14:00-17:00; Sa 09:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Compton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "hollydale-veterinary-hospital-2",
+    "name": "Hollydale Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Hollydale Veterinary Hospital provides veterinary care for dogs in Compton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 862-2159",
+    "website": "https://www.hollydalevethospital.com/",
+    "address": "11205 Garfield Avenue",
+    "city": "Compton",
+    "state": "CA",
+    "zip": "90280",
+    "hours": "Mo-We,Fr 09:00-12:00,14:00-17:00; Sa 09:00-15:00",
+    "hoursDetail": [
+      "Mo-We,Fr 09:00-12:00,14:00-17:00; Sa 09:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Compton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "paw-veterinary-center",
+    "name": "PAW Veterinary Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "PAW Veterinary Center provides veterinary care for dogs in Compton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://pawveterinarycenter.com/",
+    "address": "1436 Aviation Boulevard",
+    "city": "Compton",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Compton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  },
+  {
+    "slug": "paw-veterinary-center-2",
+    "name": "PAW Veterinary Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 12,
+    "description": "PAW Veterinary Center provides veterinary care for dogs in Compton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://pawveterinarycenter.com/",
+    "address": "1436 Aviation Boulevard",
+    "city": "Compton",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Compton",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.036Z"
+  }
+]

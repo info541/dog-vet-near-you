@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "pawsh-place-veterinary-center-and-boutique",
+    "name": "Pawsh Place Veterinary Center & Boutique",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Pawsh Place Veterinary Center & Boutique provides veterinary care for dogs in Vacaville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 451-0571",
+    "website": "https://pawshplace.com/",
+    "address": "218 Dobbins Street",
+    "city": "Vacaville",
+    "state": "CA",
+    "zip": "95688",
+    "hours": "Mo-Sa 08:00-20:00",
+    "hoursDetail": [
+      "Mo-Sa 08:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Vacaville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.029Z"
+  },
+  {
+    "slug": "pawsh-place-veterinary-center-and-boutique-2",
+    "name": "Pawsh Place Veterinary Center & Boutique",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Pawsh Place Veterinary Center & Boutique provides veterinary care for dogs in Vacaville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 451-0571",
+    "website": "https://pawshplace.com/",
+    "address": "218 Dobbins Street",
+    "city": "Vacaville",
+    "state": "CA",
+    "zip": "95688",
+    "hours": "Mo-Sa 08:00-20:00",
+    "hoursDetail": [
+      "Mo-Sa 08:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Vacaville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+  }
+]

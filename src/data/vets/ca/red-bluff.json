@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "red-bluff-veterinary-clinic",
+    "name": "Red Bluff Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Red Bluff Veterinary Clinic provides veterinary care for dogs in Red Bluff, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(530) 527-1886",
+    "website": "https://redbluffveterinaryclinic.com/",
+    "address": "445",
+    "city": "Red Bluff",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Red Bluff",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.030Z"
+  },
+  {
+    "slug": "red-bluff-veterinary-clinic-2",
+    "name": "Red Bluff Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Red Bluff Veterinary Clinic provides veterinary care for dogs in Red Bluff, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(530) 527-1886",
+    "website": "https://redbluffveterinaryclinic.com/",
+    "address": "445",
+    "city": "Red Bluff",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Red Bluff",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "slug": "veterinary-emergency-group",
+    "name": "Veterinary Emergency Group",
+    "careType": "24/7 Emergency",
+    "is24_7": true,
+    "priority": 1,
+    "description": "Veterinary Emergency Group provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 999-3505",
+    "website": "https://www.veterinaryemergencygroup.com/locations/california/palo-alto",
+    "address": "3903 El Camino Real",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94306-3319",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "24/7 Emergency",
+      "24/7 Availability",
+      "Emergency Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "veterinary-emergency-group-2",
+    "name": "Veterinary Emergency Group",
+    "careType": "24/7 Emergency",
+    "is24_7": true,
+    "priority": 2,
+    "description": "Veterinary Emergency Group provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 999-3505",
+    "website": "https://www.veterinaryemergencygroup.com/locations/california/palo-alto",
+    "address": "3903 El Camino Real",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94306-3319",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "24/7 Emergency",
+      "24/7 Availability",
+      "Emergency Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "united-veterinary-speciality-and-emergency",
+    "name": "United Veterinary Speciality & Emergency",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 3,
+    "description": "United Veterinary Speciality & Emergency provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://unitedvet.com/",
+    "address": "601 Showers Drive",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94040",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "alpine-animal-hospital",
+    "name": "Alpine Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Alpine Animal Hospital provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 969-8555",
+    "website": "https://alpinevetonline.com/",
+    "address": "2460 West El Camino Real",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94040",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "alpine-animal-hospital-2",
+    "name": "Alpine Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Alpine Animal Hospital provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 969-8555",
+    "website": "https://alpinevetonline.com/",
+    "address": "2460 West El Camino Real",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94040",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "alta-view-animal-hospital",
+    "name": "Alta View Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Alta View Animal Hospital provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 948-1021",
+    "website": "https://altaviewvets.com/",
+    "address": "890 Showers Drive",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94040",
+    "hours": "Mo-Th 08:00-20:00; Fr,Sa 08:00-18:00; Su 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Th 08:00-20:00; Fr,Sa 08:00-18:00; Su 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "alta-view-animal-hospital-2",
+    "name": "Alta View Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Alta View Animal Hospital provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 948-1021",
+    "website": "https://altaviewvets.com/",
+    "address": "890 Showers Drive",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94040",
+    "hours": "Mo-Th 08:00-20:00; Fr,Sa 08:00-18:00; Su 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Th 08:00-20:00; Fr,Sa 08:00-18:00; Su 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "los-altos-veterinary-clinic",
+    "name": "Los Altos Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Los Altos Veterinary Clinic provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 848-8287",
+    "website": "https://losaltosvet.com",
+    "address": "1150 Riverside Drive",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94024",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "mid-peninsula-animal-hoapital",
+    "name": "Mid-Peninsula Animal Hoapital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Mid-Peninsula Animal Hoapital provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 325-5671",
+    "website": "https://www.midpen.com/",
+    "address": "2707 El Camino Real",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94061",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "shoreline-pet-hospital",
+    "name": "Shoreline Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Shoreline Pet Hospital provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 397-2877",
+    "website": "https://www.shorelinepethospital.com",
+    "address": "580 North Rengstorff Avenue",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94043",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "shoreline-pet-hospital-2",
+    "name": "Shoreline Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "Shoreline Pet Hospital provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 397-2877",
+    "website": "https://www.shorelinepethospital.com",
+    "address": "580 North Rengstorff Avenue",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94043",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "sunnyvale-veterinary-cat-clinic",
+    "name": "Sunnyvale Veterinary Cat Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 12,
+    "description": "Cat specific portion of Sunnyvale Vet Clinic.",
+    "phone": "(408) 736-8296",
+    "website": "https://sunnyvalevet.com/cat-clinic",
+    "address": "1010 West El Camino Real",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94087",
+    "hours": "Mo-Sa 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Sa 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Cat specific portion of Sunnyvale Vet Clinic.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "sunnyvale-veterinary-cat-clinic-2",
+    "name": "Sunnyvale Veterinary Cat Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 13,
+    "description": "Cat specific portion of Sunnyvale Vet Clinic.",
+    "phone": "(408) 736-8296",
+    "website": "https://sunnyvalevet.com/cat-clinic",
+    "address": "1010 West El Camino Real",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "94087",
+    "hours": "Mo-Sa 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Sa 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Cat specific portion of Sunnyvale Vet Clinic.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "sunnyvale-veterinary-clinic",
+    "name": "Sunnyvale Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 14,
+    "description": "Sunnyvale Veterinary Clinic provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.sunnyvalevet.com/",
+    "address": "East Palo Alto, CA",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  },
+  {
+    "slug": "sunnyvale-veterinary-clinic-2",
+    "name": "Sunnyvale Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 15,
+    "description": "Sunnyvale Veterinary Clinic provides veterinary care for dogs in East Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.sunnyvalevet.com/",
+    "address": "East Palo Alto, CA",
+    "city": "East Palo Alto",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving East Palo Alto",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.041Z"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "napa-valley-veterinary-hospital",
+    "name": "Napa Valley Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Napa Valley Veterinary Hospital provides veterinary care for dogs in Yountville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 224-8604",
+    "website": "https://napavalleyvets.com",
+    "address": "1325 West Imola Avenue",
+    "city": "Yountville",
+    "state": "CA",
+    "zip": "94559",
+    "hours": "Mo-Fr 08:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 08:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Yountville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  }
+]

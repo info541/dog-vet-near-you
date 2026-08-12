@@ -1,0 +1,368 @@
+[
+  {
+    "slug": "alternatives-for-animals",
+    "name": "Alternatives for Animals",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Veterinarian",
+    "phone": "(925) 283-6160",
+    "website": "https://www.alternatives4animals.com/",
+    "address": "425 Gregory Lane",
+    "city": "Rio Vista",
+    "state": "CA",
+    "zip": "94523",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Rio Vista",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Veterinarian",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "cat-tales-feline-health-center",
+    "name": "Cat Tales Feline Health Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Cat Tales Feline Health Center, located in Davis, provides uniquely tailored health care for cats from across Northern California and the Sacramento Valley.",
+    "phone": "(530) 517-5100",
+    "website": "https://www.cattalesdavis.com/",
+    "address": "606 West Covell Boulevard",
+    "city": "Rio Vista",
+    "state": "CA",
+    "zip": "95616",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Rio Vista",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Cat Tales Feline Health Center, located in Davis, provides uniquely tailored health care for cats from across Northern California and the Sacramento Valley.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "disney-pet-hospital",
+    "name": "Disney Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Disney Pet Hospital provides veterinary care for dogs in Rio Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 689-4244",
+    "website": "https://disneypethospital.com/",
+    "address": "3544 Concord Boulevard",
+    "city": "Rio Vista",
+    "state": "CA",
+    "zip": "94519",
+    "hours": "Mo-Fr 08:00-17:30; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Rio Vista",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "disney-pet-hospital-2",
+    "name": "Disney Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Disney Pet Hospital provides veterinary care for dogs in Rio Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 689-4244",
+    "website": "https://disneypethospital.com/",
+    "address": "3544 Concord Boulevard",
+    "city": "Rio Vista",
+    "state": "CA",
+    "zip": "94519",
+    "hours": "Mo-Fr 08:00-17:30; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Rio Vista",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "hatton-veterinary-hospital",
+    "name": "Hatton Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Hatton Veterinary Hospital provides veterinary care for dogs in Rio Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 689-1688",
+    "website": "http://www.hattonveterinaryhospital.com/",
+    "address": "7615 Sheldon Road",
+    "city": "Rio Vista",
+    "state": "CA",
+    "zip": "95758",
+    "hours": "Mo-Fr 08:00-18:00, Sa 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00, Sa 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Rio Vista",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "hatton-veterinary-hospital-2",
+    "name": "Hatton Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Hatton Veterinary Hospital provides veterinary care for dogs in Rio Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 689-1688",
+    "website": "http://www.hattonveterinaryhospital.com/",
+    "address": "7615 Sheldon Road",
+    "city": "Rio Vista",
+    "state": "CA",
+    "zip": "95758",
+    "hours": "Mo-Fr 08:00-18:00, Sa 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00, Sa 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Rio Vista",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "pawsh-place-veterinary-center-and-boutique",
+    "name": "Pawsh Place Veterinary Center & Boutique",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Pawsh Place Veterinary Center & Boutique provides veterinary care for dogs in Rio Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 451-0571",
+    "website": "https://pawshplace.com/",
+    "address": "218 Dobbins Street",
+    "city": "Rio Vista",
+    "state": "CA",
+    "zip": "95688",
+    "hours": "Mo-Sa 08:00-20:00",
+    "hoursDetail": [
+      "Mo-Sa 08:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Rio Vista",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "pawsh-place-veterinary-center-and-boutique-2",
+    "name": "Pawsh Place Veterinary Center & Boutique",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Pawsh Place Veterinary Center & Boutique provides veterinary care for dogs in Rio Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(707) 451-0571",
+    "website": "https://pawshplace.com/",
+    "address": "218 Dobbins Street",
+    "city": "Rio Vista",
+    "state": "CA",
+    "zip": "95688",
+    "hours": "Mo-Sa 08:00-20:00",
+    "hoursDetail": [
+      "Mo-Sa 08:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Rio Vista",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "sage-veterinary-centers",
+    "name": "Sage Veterinary Centers",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Sage Veterinary Centers provides veterinary care for dogs in Rio Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 627-7243",
+    "website": "https://www.sagecenters.com/locations/concord",
+    "address": "Rio Vista, CA",
+    "city": "Rio Vista",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Rio Vista",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "tassajara-veterinary-clinic",
+    "name": "Tassajara Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Tassajara Veterinary Clinic provides veterinary care for dogs in Rio Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 736-8387",
+    "website": "https://www.tassajaravet.com/",
+    "address": "3436 Camino Tassajara",
+    "city": "Rio Vista",
+    "state": "CA",
+    "zip": "94506",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Rio Vista",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  },
+  {
+    "slug": "lindsay-wildlife-hospital",
+    "name": "Lindsay Wildlife Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "Lindsay Wildlife Hospital provides veterinary care for dogs in Rio Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://wildlife-museum.org/hospital",
+    "address": "Rio Vista, CA",
+    "city": "Rio Vista",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Rio Vista",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.045Z"
+  }
+]

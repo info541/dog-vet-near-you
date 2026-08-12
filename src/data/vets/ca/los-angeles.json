@@ -1,0 +1,644 @@
+[
+  {
+    "slug": "tlc",
+    "name": "TLC",
+    "careType": "General Practice",
+    "is24_7": true,
+    "priority": 1,
+    "description": "TLC provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 441-8555",
+    "website": "https://vcahospitals.com/tlc-pasadena",
+    "address": "1412 Huntington Drive",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "91030",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.5,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "24/7 Availability",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "los-angeles-veterinary-specialists",
+    "name": "Los Angeles Veterinary Specialists",
+    "careType": "Specialty",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Los Angeles Veterinary Specialists provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(310) 659-5287",
+    "website": "https://vcahospitals.com/los-angeles-veterinary-specialists",
+    "address": "8723 Santa Monica Boulevard",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90069",
+    "hours": "Mo-Fr 09:00-17:00; Sa 09:00-16:30",
+    "hoursDetail": [
+      "Mo-Fr 09:00-17:00; Sa 09:00-16:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Specialty",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.019Z"
+  },
+  {
+    "slug": "alhambra-veterinary-hospital",
+    "name": "Alhambra Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Alhambra Veterinary Hospital provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 289-9227",
+    "website": "https://alhambravets.com/",
+    "address": "1501 West Mission Road",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "91803",
+    "hours": "Mo-Fr 08:00-18:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "ambassador-long-beach-veterinary-hospital",
+    "name": "Ambassador Long Beach Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 427-2889",
+    "website": "https://ambassadorvet.com",
+    "address": "2281 E Carson St",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90807",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+  },
+  {
+    "slug": "animal-rescue-center",
+    "name": "Animal Rescue Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Animal Rescue Center provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 402-0039",
+    "website": "http://www.theanimalrescuecenter.org/",
+    "address": "2901 Exposition Boulevard",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90018",
+    "hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.029Z"
+  },
+  {
+    "slug": "animal-rescue-center-2",
+    "name": "Animal Rescue Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Animal Rescue Center provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 402-0039",
+    "website": "http://www.theanimalrescuecenter.org/",
+    "address": "2901 Exposition Boulevard",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90018",
+    "hours": "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-20:00; Sa,Su 08:00-17:00; Su[1] off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+  },
+  {
+    "slug": "california-veterinary-hospital",
+    "name": "California Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "California Veterinary Hospital provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(310) 323-6867",
+    "website": "https://www.californiavethospital.com/",
+    "address": "230 West Victoria Street",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90248",
+    "hours": "Mo-Fr 08:00-19:00, Sa 08:00-15:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00, Sa 08:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "eagle-rock-pet-care",
+    "name": "Eagle Rock Pet Care",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Eagle Rock Pet Care provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 503-2400",
+    "website": "https://eaglerockpetcare.com/",
+    "address": "4000 Eagle Rock Boulevard",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 09:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "firestone-animal-hospital",
+    "name": "Firestone Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Firestone Animal Hospital provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 528-0847",
+    "website": "https://firestoneanimalhospital.com/",
+    "address": "7539 Firestone Boulevard",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90241",
+    "hours": "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00",
+    "hoursDetail": [
+      "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "hollydale-veterinary-hospital",
+    "name": "Hollydale Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Hollydale Veterinary Hospital provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(562) 862-2159",
+    "website": "https://www.hollydalevethospital.com/",
+    "address": "11205 Garfield Avenue",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90280",
+    "hours": "Mo-We,Fr 09:00-12:00,14:00-17:00; Sa 09:00-15:00",
+    "hoursDetail": [
+      "Mo-We,Fr 09:00-12:00,14:00-17:00; Sa 09:00-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "modern-animal",
+    "name": "Modern Animal",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "Modern Animal provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(866) 505-8755",
+    "website": "http://modernanimal.com",
+    "address": "301 West Olympic Boulevard",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90015",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "mohawk-alley-animal-hospital",
+    "name": "Mohawk Alley Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 12,
+    "description": "Mohawk Alley Animal Hospital provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(213) 201-7900",
+    "website": "https://www.mohawkalleyanimalhospital.com",
+    "address": "2162 Sunset Boulevard",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90026",
+    "hours": "Su 08:00-18:00; Mo-Fr 07:00-19:00; Sa 08:00-18:00",
+    "hoursDetail": [
+      "Su 08:00-18:00; Mo-Fr 07:00-19:00; Sa 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "monterey-park-animal-hospital",
+    "name": "Monterey Park Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 13,
+    "description": "Monterey Park Animal Hospital provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 722-9692",
+    "website": "https://mpah.com",
+    "address": "2314 South Atlantic Boulevard",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "91754",
+    "hours": "Mo-Fr 08:00-19:00; Sa 08:00-15:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-19:00; Sa 08:00-15:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "paw-priority",
+    "name": "Paw Priority",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 14,
+    "description": "Paw Priority provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(310) 776-5544",
+    "website": "https://pawpriority.vet",
+    "address": "8020 Melrose Avenue",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90046",
+    "hours": "Mo-Fr 09:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.024Z"
+  },
+  {
+    "slug": "vca-mission-animal-hospital",
+    "name": "VCA Mission Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 15,
+    "description": "VCA Mission Animal Hospital provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(626) 289-3643",
+    "website": "https://vcahospitals.com/mission-ca",
+    "address": "25 West Mission Road",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "91801",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su off",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-16:00; Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+  },
+  {
+    "slug": "village-vet",
+    "name": "Village Vet",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 16,
+    "description": "Village Vet provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(323) 666-9838",
+    "website": "https://www.thrivepetcare.com/locations/california/los-angeles/the-village-vet",
+    "address": "2833,2835,2837,2839,2841,2843 Hyperion Avenue",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90027",
+    "hours": "Mo-Fr 08:00-18:00; Sa 09:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "west-hollywood-animal-hospital",
+    "name": "West Hollywood Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 17,
+    "description": "West Hollywood Animal Hospital provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(310) 275-0055",
+    "website": "https://wh-ah.com/",
+    "address": "9000 Santa Monica Boulevard",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90069",
+    "hours": "Mo-Su 08:00-20:00",
+    "hoursDetail": [
+      "Mo-Su 08:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+  },
+  {
+    "slug": "beverly-hills-small-animal-hospital",
+    "name": "Beverly Hills Small Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 18,
+    "description": "Beverly Hills Small Animal Hospital provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://www.bhsah.com",
+    "address": "353 N Foothill Rd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90210",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+  },
+  {
+    "slug": "mar-vista-animal-medical-center",
+    "name": "Mar Vista Animal Medical Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 19,
+    "description": "Mar Vista Animal Medical Center provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://marvistavet.com/",
+    "address": "3850 Grand View Boulevard",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90066",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.023Z"
+  },
+  {
+    "slug": "paw-veterinary-center",
+    "name": "PAW Veterinary Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 20,
+    "description": "PAW Veterinary Center provides veterinary care for dogs in Los Angeles, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://pawveterinarycenter.com/",
+    "address": "1436 Aviation Boulevard",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00",
+    "hoursDetail": [
+      "Mo-Fr 09:00-12:30,13:30-17:00; Sa 09:00-12:30,13:30-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Los Angeles",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  }
+]

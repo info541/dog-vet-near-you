@@ -1,0 +1,361 @@
+[
+  {
+    "slug": "banfield-pet-hospital-2",
+    "name": "Banfield Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Banfield Pet Hospital® - Point Loma provides quality and attentive health and wellness care for dog, cat and small animal pet patients in San Diego County.",
+    "phone": "(619) 225-0175",
+    "website": "https://www.banfield.com/locations/veterinarians/ca/san-diego/ssa/",
+    "address": "3361 Rosecrans St",
+    "city": "National City",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Sa 07:00-18:00",
+    "hoursDetail": [
+      "Mo-Sa 07:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving National City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Banfield Pet Hospital® - Point Loma provides quality and attentive health and wellness care for dog, cat and small animal pet patients in San Diego County.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "colina-veterinary-hospital",
+    "name": "Colina Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Colina Veterinary Hospital provides veterinary care for dogs in National City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 286-3360",
+    "website": "https://www.colinaveterinary.com/",
+    "address": "5530 University Avenue",
+    "city": "National City",
+    "state": "CA",
+    "zip": "92105",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving National City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "colina-veterinary-hospital-2",
+    "name": "Colina Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Colina Veterinary Hospital provides veterinary care for dogs in National City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 286-3360",
+    "website": "https://www.colinaveterinary.com/",
+    "address": "5530 University Avenue",
+    "city": "National City",
+    "state": "CA",
+    "zip": "92105",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving National City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "fletcher-hills-animal-hospital",
+    "name": "Fletcher Hills Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Fletcher Hills Animal Hospital provides veterinary care for dogs in National City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 463-6604",
+    "website": "http://fletcherhillsanimalhospital.com/",
+    "address": "8807 Grossmont Boulevard",
+    "city": "National City",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving National City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "fletcher-hills-animal-hospital-2",
+    "name": "Fletcher Hills Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Fletcher Hills Animal Hospital provides veterinary care for dogs in National City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 463-6604",
+    "website": "http://fletcherhillsanimalhospital.com/",
+    "address": "8807 Grossmont Boulevard",
+    "city": "National City",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving National City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "pet-hospital-of-la-mesa",
+    "name": "Pet Hospital of La Mesa",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Pet Hospital of La Mesa provides veterinary care for dogs in National City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 469-0138",
+    "website": "https://pethospitaloflamesa.com/",
+    "address": "5336 Jackson Drive",
+    "city": "National City",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving National City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "pet-hospital-of-la-mesa-2",
+    "name": "Pet Hospital of La Mesa",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Pet Hospital of La Mesa provides veterinary care for dogs in National City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 469-0138",
+    "website": "https://pethospitaloflamesa.com/",
+    "address": "5336 Jackson Drive",
+    "city": "National City",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving National City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "spring-valley-animal-medical-hospital",
+    "name": "Spring Valley Animal Medical Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Spring Valley Animal Medical Hospital provides veterinary care for dogs in National City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 464-5125",
+    "website": "https://www.springvalleyvetclinic.com/",
+    "address": "704 Grand Avenue",
+    "city": "National City",
+    "state": "CA",
+    "zip": "91977",
+    "hours": "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off",
+    "hoursDetail": [
+      "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving National City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "spring-valley-animal-medical-hospital-2",
+    "name": "Spring Valley Animal Medical Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Spring Valley Animal Medical Hospital provides veterinary care for dogs in National City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 464-5125",
+    "website": "https://www.springvalleyvetclinic.com/",
+    "address": "704 Grand Avenue",
+    "city": "National City",
+    "state": "CA",
+    "zip": "91977",
+    "hours": "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off",
+    "hoursDetail": [
+      "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving National City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "vca-grossmont-vetr",
+    "name": "VCA Grossmont Vetr",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "VCA Grossmont Vetr provides veterinary care for dogs in National City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 697-0082",
+    "website": "https://vcahospitals.com/grossmont",
+    "address": "8274 #106 Parkway Drive",
+    "city": "National City",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:30-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 08:30-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving National City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  },
+  {
+    "slug": "banfield-pet-hospital",
+    "name": "Banfield Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "Banfield Pet Hospital provides veterinary care for dogs in National City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://banfield.com",
+    "address": "El Cajon Boulevard",
+    "city": "National City",
+    "state": "CA",
+    "zip": "92115",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving National City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.038Z"
+  }
+]

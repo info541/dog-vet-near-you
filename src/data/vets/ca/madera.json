@@ -1,0 +1,194 @@
+[
+  {
+    "slug": "bluepearl",
+    "name": "BluePearl",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "BluePearl provides veterinary care for dogs in Madera, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 437-3766",
+    "website": "https://bluepearlvet.com/",
+    "address": "7375 North Palm Bluffs Avenue",
+    "city": "Madera",
+    "state": "CA",
+    "zip": "93711",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Madera",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "companion-animal-hospital",
+    "name": "Companion Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Companion Animal Hospital provides veterinary care for dogs in Madera, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 432-1110",
+    "website": "https://www.fresnopethospital.net/",
+    "address": "132 West Nees Avenue",
+    "city": "Madera",
+    "state": "CA",
+    "zip": "93711",
+    "hours": "Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su 09:00-13:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00; Sa 08:00-13:00; Su 09:00-13:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Madera",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "hope-animal-foundation",
+    "name": "HOPE Animal Foundation",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "HOPE Animal Foundation provides veterinary care for dogs in Madera, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 271-0209",
+    "website": "https://www.hopeaf.com/",
+    "address": "5490 West Spruce Avenue",
+    "city": "Madera",
+    "state": "CA",
+    "zip": "93722",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Madera",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "northpointe-animal-hospital",
+    "name": "Northpointe Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Northpointe Animal Hospital provides veterinary care for dogs in Madera, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 434-5470",
+    "website": "https://www.northpointeanimalhospital.com/",
+    "address": "1916 East Copper Avenue",
+    "city": "Madera",
+    "state": "CA",
+    "zip": "93730",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Madera",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "waterhouse-animal-hospital",
+    "name": "Waterhouse Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Waterhouse Animal Hospital provides veterinary care for dogs in Madera, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 434-4000",
+    "website": "https://www.waterhouseanimalhospital.com/",
+    "address": "1115 East Champlain Drive",
+    "city": "Madera",
+    "state": "CA",
+    "zip": "93720",
+    "hours": "Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Madera",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "waterhouse-animal-hospital-2",
+    "name": "Waterhouse Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Waterhouse Animal Hospital provides veterinary care for dogs in Madera, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 434-4000",
+    "website": "https://www.waterhouseanimalhospital.com/",
+    "address": "1115 East Champlain Drive",
+    "city": "Madera",
+    "state": "CA",
+    "zip": "93720",
+    "hours": "Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Madera",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  }
+]

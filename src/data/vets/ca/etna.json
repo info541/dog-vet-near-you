@@ -1,0 +1,258 @@
+[
+  {
+    "slug": "above-and-beyond-animal-care",
+    "name": "Above and Beyond Animal Care",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Above and Beyond Animal Care provides veterinary care for dogs in Etna, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(530) 549-7044",
+    "website": "https://aboveandbeyondanimalcare.com",
+    "address": "22509 Old Alturas Road",
+    "city": "Etna",
+    "state": "CA",
+    "zip": "96008",
+    "hours": "Mo-Fr 07:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 07:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Etna",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "above-and-beyond-animal-care-2",
+    "name": "Above and Beyond Animal Care",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Above and Beyond Animal Care provides veterinary care for dogs in Etna, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(530) 549-7044",
+    "website": "https://aboveandbeyondanimalcare.com",
+    "address": "22509 Old Alturas Road",
+    "city": "Etna",
+    "state": "CA",
+    "zip": "96008",
+    "hours": "Mo-Fr 07:30-17:30",
+    "hoursDetail": [
+      "Mo-Fr 07:30-17:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Etna",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "dana-park-veterinary-hospital",
+    "name": "Dana Park Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Dana Park Veterinary Hospital provides veterinary care for dogs in Etna, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.danaparkvethospital.com/",
+    "address": "Etna, CA",
+    "city": "Etna",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Etna",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "dana-park-veterinary-hospital-2",
+    "name": "Dana Park Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Dana Park Veterinary Hospital provides veterinary care for dogs in Etna, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.danaparkvethospital.com/",
+    "address": "Etna, CA",
+    "city": "Etna",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Etna",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "haven-humane-society",
+    "name": "Haven Humane Society",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Haven Humane Society provides veterinary care for dogs in Etna, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.havenhumane.org/",
+    "address": "7449 Eastside Road",
+    "city": "Etna",
+    "state": "CA",
+    "zip": "96007",
+    "hours": "Mo-Fr 07:30-13:00,14:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-13:00,14:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Etna",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "haven-humane-society-2",
+    "name": "Haven Humane Society",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Haven Humane Society provides veterinary care for dogs in Etna, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.havenhumane.org/",
+    "address": "7449 Eastside Road",
+    "city": "Etna",
+    "state": "CA",
+    "zip": "96007",
+    "hours": "Mo-Fr 07:30-13:00,14:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-13:00,14:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Etna",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "redwood-animal-hospital",
+    "name": "Redwood Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Redwood Animal Hospital provides veterinary care for dogs in Etna, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://redwoodanimalmckinleyville.com/",
+    "address": "1585 School Road",
+    "city": "Etna",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Etna",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  },
+  {
+    "slug": "redwood-animal-hospital-2",
+    "name": "Redwood Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Redwood Animal Hospital provides veterinary care for dogs in Etna, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://redwoodanimalmckinleyville.com/",
+    "address": "1585 School Road",
+    "city": "Etna",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Etna",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.052Z"
+  }
+]

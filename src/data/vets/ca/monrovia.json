@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "dr-domotor-s-animal-house-veterinary-hospita",
+    "name": "Dr. Domotor's Animal House Veterinary Hospita",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Dr. Domotor's Animal House Veterinary Hospita provides veterinary care for dogs in Monrovia, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.drdomotor.net/",
+    "address": "135 West Foothill Boulevard",
+    "city": "Monrovia",
+    "state": "CA",
+    "zip": "91016",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monrovia",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.018Z"
+  }
+]

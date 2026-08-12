@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "apex-veterinary-specialists",
+    "name": "Apex Veterinary Specialists",
+    "careType": "Specialty",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Apex Veterinary Specialists provides veterinary care for dogs in Saratoga, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://apexvetspecialists.com/",
+    "address": "19100 Cox Avenue",
+    "city": "Saratoga",
+    "state": "CA",
+    "zip": "95070",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Specialty",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Saratoga",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.022Z"
+  }
+]

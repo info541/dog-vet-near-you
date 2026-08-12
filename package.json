@@ -1,17 +1,21 @@
 {
-  "name": "web",
+  "name": "paw-harbor",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "enrich": "node scripts/enrich-city.mjs",
+    "enrich:osm": "node scripts/enrich-osm-ca.cjs",
+    "enrich:reviews": "node scripts/enrich-reviews.cjs"
   },
   "dependencies": {
     "next": "16.3.0",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-dom": "19.2.8",
+    "server-only": "^0.0.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "sage-centers-for-veterinary-specialty-and-emergency-care",
+    "name": "SAGE Centers for Veterinary Specialty & Emergency Care",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 1,
+    "description": "SAGE Centers for Veterinary Specialty & Emergency Care provides veterinary care for dogs in Dublin, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 574-7243",
+    "website": "https://www.sagecenters.com/",
+    "address": "7121 Amador Plaza Road",
+    "city": "Dublin",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Dublin",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.020Z"
+  },
+  {
+    "slug": "dublin-veterinary-hospital",
+    "name": "Dublin Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Dublin Veterinary Hospital provides veterinary care for dogs in Dublin, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 828-5520",
+    "website": "https://dublinvethospital.com/",
+    "address": "7410 Amador Valley Boulevard",
+    "city": "Dublin",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-18:30;Sa 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:30;Sa 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Dublin",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.021Z"
+  },
+  {
+    "slug": "east-bay-spca-spay-neuter-clinic",
+    "name": "East Bay SPCA Spay/Neuter Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "East Bay SPCA Spay/Neuter Clinic provides veterinary care for dogs in Dublin, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 479-9674",
+    "website": "https://eastbayspca.org/",
+    "address": "4651 Gleason Drive",
+    "city": "Dublin",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Dublin",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.021Z"
+  },
+  {
+    "slug": "ironhorse-vetcare",
+    "name": "IronHorse VetCare",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "IronHorse VetCare provides veterinary care for dogs in Dublin, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 556-1234",
+    "website": "http://ironhorsevetcare.com/",
+    "address": "7660 Amador Valley Boulevard",
+    "city": "Dublin",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Dublin",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.020Z"
+  },
+  {
+    "slug": "parkway-veterinary-hospital",
+    "name": "Parkway Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Parkway Veterinary Hospital provides veterinary care for dogs in Dublin, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 828-0455",
+    "website": "http://www.parkwayvet.net/",
+    "address": "6851 Village Parkway",
+    "city": "Dublin",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 07:30-18:00;Sa 08:00-12:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-18:00;Sa 08:00-12:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Dublin",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.018Z"
+  }
+]

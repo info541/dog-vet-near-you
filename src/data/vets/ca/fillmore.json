@@ -1,0 +1,226 @@
+[
+  {
+    "slug": "4-paws-veterinary-clinic",
+    "name": "4 Paws Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "4 Paws Veterinary Clinic provides veterinary care for dogs in Fillmore, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 921-1000",
+    "website": "https://4pawsvet.vetstreet.com/",
+    "address": "1107 East Harvard Boulevard",
+    "city": "Fillmore",
+    "state": "CA",
+    "zip": "93060",
+    "hours": "Mo-Fr 08:30-17:00; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:30-17:00; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fillmore",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "4-paws-veterinary-clinic-2",
+    "name": "4 Paws Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "4 Paws Veterinary Clinic provides veterinary care for dogs in Fillmore, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 921-1000",
+    "website": "https://4pawsvet.vetstreet.com/",
+    "address": "1107 East Harvard Boulevard",
+    "city": "Fillmore",
+    "state": "CA",
+    "zip": "93060",
+    "hours": "Mo-Fr 08:30-17:00; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:30-17:00; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fillmore",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "angeles-animal-hospital",
+    "name": "Angeles Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Angeles Animal Hospital provides veterinary care for dogs in Fillmore, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 527-6877",
+    "website": "https://www.angelesanimalhospital.com",
+    "address": "1778 East Los Angeles Avenue",
+    "city": "Fillmore",
+    "state": "CA",
+    "zip": "93065",
+    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 07:00-19:00; Sa 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fillmore",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "pet-pawzitive",
+    "name": "Pet PAWZitive",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Pet PAWZitive provides veterinary care for dogs in Fillmore, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(844) 469-7299",
+    "website": "https://petpawzitive.com",
+    "address": "1925 Erringer Road",
+    "city": "Fillmore",
+    "state": "CA",
+    "zip": "93065",
+    "hours": "Tu-Fr 14:00-20:00; Sa 10:00-13:30",
+    "hoursDetail": [
+      "Tu-Fr 14:00-20:00; Sa 10:00-13:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fillmore",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "simi-valley-animal-hospital",
+    "name": "Simi Valley Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Simi Valley Animal Hospital provides veterinary care for dogs in Fillmore, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 527-0042",
+    "website": "https://simivet.com",
+    "address": "1317 East Los Angeles Avenue",
+    "city": "Fillmore",
+    "state": "CA",
+    "zip": "93065",
+    "hours": "Mo-Fr 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fillmore",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "simi-valley-non-profit-spay-and-neuter-clinic",
+    "name": "Simi Valley Non-Profit Spay and Neuter Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Simi Valley Non-Profit Spay and Neuter Clinic provides veterinary care for dogs in Fillmore, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 584-3823",
+    "website": "https://simivalleynonprofitspayandneuter.com",
+    "address": "1659 East Los Angeles Avenue",
+    "city": "Fillmore",
+    "state": "CA",
+    "zip": "93065",
+    "hours": "Tu-Th 08:00-14:30",
+    "hoursDetail": [
+      "Tu-Th 08:00-14:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fillmore",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "valley-veterinary-clinic",
+    "name": "Valley Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Valley Veterinary Clinic provides veterinary care for dogs in Fillmore, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 526-0917",
+    "website": "http://www.valleyveterinaryclinic.com",
+    "address": "845 East Los Angeles Avenue",
+    "city": "Fillmore",
+    "state": "CA",
+    "zip": "93065",
+    "hours": "Mo-Fr 07:00-17:00; Sa 07:00-12:30",
+    "hoursDetail": [
+      "Mo-Fr 07:00-17:00; Sa 07:00-12:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Fillmore",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  }
+]

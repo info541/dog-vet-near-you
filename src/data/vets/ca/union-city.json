@@ -1,0 +1,290 @@
+[
+  {
+    "slug": "sage-centers-for-veterinary-specialty-and-emergency-care",
+    "name": "SAGE Centers for Veterinary Specialty & Emergency Care",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 1,
+    "description": "SAGE Centers for Veterinary Specialty & Emergency Care provides veterinary care for dogs in Union City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 574-7243",
+    "website": "https://www.sagecenters.com/",
+    "address": "7121 Amador Plaza Road",
+    "city": "Union City",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Union City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "animal-pet-cove",
+    "name": "Animal Pet Cove",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Animal Pet Cove provides veterinary care for dogs in Union City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 377-0822",
+    "website": "https://www.animalcove.com/",
+    "address": "1940 Beach Park Boulevard",
+    "city": "Union City",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Union City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "animal-pet-cove-2",
+    "name": "Animal Pet Cove",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Animal Pet Cove provides veterinary care for dogs in Union City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 377-0822",
+    "website": "https://www.animalcove.com/",
+    "address": "1940 Beach Park Boulevard",
+    "city": "Union City",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Union City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "dublin-veterinary-hospital",
+    "name": "Dublin Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Dublin Veterinary Hospital provides veterinary care for dogs in Union City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 828-5520",
+    "website": "https://dublinvethospital.com/",
+    "address": "7410 Amador Valley Boulevard",
+    "city": "Union City",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-18:30;Sa 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:30;Sa 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Union City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "ironhorse-vetcare",
+    "name": "IronHorse VetCare",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "IronHorse VetCare provides veterinary care for dogs in Union City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 556-1234",
+    "website": "http://ironhorsevetcare.com/",
+    "address": "7660 Amador Valley Boulevard",
+    "city": "Union City",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Union City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "mid-peninsula-animal-hoapital",
+    "name": "Mid-Peninsula Animal Hoapital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Mid-Peninsula Animal Hoapital provides veterinary care for dogs in Union City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(650) 325-5671",
+    "website": "https://www.midpen.com/",
+    "address": "2707 El Camino Real",
+    "city": "Union City",
+    "state": "CA",
+    "zip": "94061",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Union City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "parkway-veterinary-hospital",
+    "name": "Parkway Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Parkway Veterinary Hospital provides veterinary care for dogs in Union City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 828-0455",
+    "website": "http://www.parkwayvet.net/",
+    "address": "6851 Village Parkway",
+    "city": "Union City",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 07:30-18:00;Sa 08:00-12:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-18:00;Sa 08:00-12:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Union City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "town-and-county-veterinary-hospital",
+    "name": "Town & County Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Town & County Veterinary Hospital provides veterinary care for dogs in Union City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 462-1666",
+    "website": "https://www.tcvhosp.com",
+    "address": "923 Main Street",
+    "city": "Union City",
+    "state": "CA",
+    "zip": "94566",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Union City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "town-and-county-veterinary-hospital-2",
+    "name": "Town & County Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Town & County Veterinary Hospital provides veterinary care for dogs in Union City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 462-1666",
+    "website": "https://www.tcvhosp.com",
+    "address": "923 Main Street",
+    "city": "Union City",
+    "state": "CA",
+    "zip": "94566",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Union City",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  }
+]

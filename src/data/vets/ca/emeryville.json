@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "oakvet-animal-specialty-hospital",
+    "name": "OakVet Animal Specialty Hospital",
+    "careType": "Specialty",
+    "is24_7": false,
+    "priority": 1,
+    "description": "OakVet Animal Specialty Hospital provides veterinary care for dogs in Emeryville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(510) 879-4888",
+    "website": "https://www.oakvetash.com/",
+    "address": "1133 7th Street",
+    "city": "Emeryville",
+    "state": "CA",
+    "zip": "",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Specialty",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Emeryville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.030Z"
+  },
+  {
+    "slug": "oakvet-animal-specialty-hospital-2",
+    "name": "OakVet Animal Specialty Hospital",
+    "careType": "Specialty",
+    "is24_7": false,
+    "priority": 2,
+    "description": "OakVet Animal Specialty Hospital provides veterinary care for dogs in Emeryville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(510) 879-4888",
+    "website": "https://www.oakvetash.com/",
+    "address": "1133 7th Street",
+    "city": "Emeryville",
+    "state": "CA",
+    "zip": "",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Specialty",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Emeryville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+  },
+  {
+    "slug": "emeryville-vet-hospital",
+    "name": "Emeryville Vet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Emeryville Vet Hospital provides veterinary care for dogs in Emeryville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(510) 338-3473",
+    "website": "http://www.emeryvillevet.com/",
+    "address": "3997 Emery Street",
+    "city": "Emeryville",
+    "state": "CA",
+    "zip": "94608",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Emeryville",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.022Z"
+  }
+]

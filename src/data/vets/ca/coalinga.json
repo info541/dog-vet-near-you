@@ -1,0 +1,363 @@
+[
+  {
+    "slug": "atascadero-pet-hospital",
+    "name": "Atascadero Pet Hospital",
+    "careType": "24/7 Emergency",
+    "is24_7": true,
+    "priority": 1,
+    "description": "24 Hour Emergency Care",
+    "phone": "(805) 466-3880",
+    "website": "https://apetcenter.com/",
+    "address": "9575 El Camino Real",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "",
+    "hours": "24/7",
+    "hoursDetail": [
+      "24/7"
+    ],
+    "rating": 4.5,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "24/7 Emergency",
+      "24/7 Availability",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Emergency-oriented",
+      "Serving Coalinga",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "24 Hour Emergency Care",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "alfaro-aubrey-dvm",
+    "name": "Alfaro Aubrey DVM",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Alfaro Aubrey DVM provides veterinary care for dogs in Coalinga, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 227-3596",
+    "website": "https://sanjoaquinveterinaryhospital.net/meet-our-team/",
+    "address": "4333 North Blackstone Avenue",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "93726",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Coalinga",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "animal-hospital-and-dental-clinic",
+    "name": "Animal Hospital & Dental Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Animal Hospital & Dental Clinic provides veterinary care for dogs in Coalinga, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 227-5575",
+    "website": "https://www.theanimalhosp.com/",
+    "address": "5169 North Blackstone Avenue",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "93710",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Coalinga",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "bluepearl",
+    "name": "BluePearl",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "BluePearl provides veterinary care for dogs in Coalinga, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 437-3766",
+    "website": "https://bluepearlvet.com/",
+    "address": "7375 North Palm Bluffs Avenue",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "93711",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Coalinga",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "bullard-marks-veterinary-medical-center",
+    "name": "Bullard Marks Veterinary Medical Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Bullard Marks Veterinary Medical Center provides veterinary care for dogs in Coalinga, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 432-0887",
+    "website": "https://bullardmarksveterinarymedicalcenter.com/",
+    "address": "3098 West Bullard Avenue",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "93711",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Coalinga",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "hope-animal-foundation",
+    "name": "HOPE Animal Foundation",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "HOPE Animal Foundation provides veterinary care for dogs in Coalinga, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 271-0209",
+    "website": "https://www.hopeaf.com/",
+    "address": "5490 West Spruce Avenue",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "93722",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Coalinga",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "north-county-animal-hospital",
+    "name": "North County Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "North County Animal Hospital provides veterinary care for dogs in Coalinga, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 238-5882",
+    "website": "https://pasonorthcountyanimalhosp.com/",
+    "address": "825 24th",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-17:30; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Coalinga",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "north-county-animal-hospital-2",
+    "name": "North County Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "North County Animal Hospital provides veterinary care for dogs in Coalinga, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(805) 238-5882",
+    "website": "https://pasonorthcountyanimalhosp.com/",
+    "address": "825 24th",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-17:30; Sa 09:00-14:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa 09:00-14:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Coalinga",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "shield-stone-pet-hospital",
+    "name": "Shield Stone Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Shield Stone Pet Hospital provides veterinary care for dogs in Coalinga, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 222-2800",
+    "website": "http://www.shieldstonepethospital.com/",
+    "address": "1610 East Shields Avenue",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "93704",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Coalinga",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "sierra-view-animal-hospital",
+    "name": "Sierra View Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Sierra View Animal Hospital provides veterinary care for dogs in Coalinga, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(559) 432-1200",
+    "website": "https://www.sierraviewanimalhospital.com/",
+    "address": "93 East Sierra Avenue",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "93710",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Coalinga",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  },
+  {
+    "slug": "las-tablas-animal-hospital",
+    "name": "Las Tablas Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "Las Tablas Animal Hospital provides veterinary care for dogs in Coalinga, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://lastablasanimalhospital.com/",
+    "address": "959 Las Tablas Road",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "93465",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Coalinga",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.044Z"
+  }
+]

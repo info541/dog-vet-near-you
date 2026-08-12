@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "the-pet-advocate",
+    "name": "The Pet Advocate",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "The Pet Advocate provides veterinary care for dogs in Tracy, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 879-9367",
+    "website": "https://www.thepetadvocatevet.com",
+    "address": "1973 North Tracy Boulevard",
+    "city": "Tracy",
+    "state": "CA",
+    "zip": "95376",
+    "hours": "Mo-Fr 08:00-16:30",
+    "hoursDetail": [
+      "Mo-Fr 08:00-16:30"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Tracy",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+  }
+]

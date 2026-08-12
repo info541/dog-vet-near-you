@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "am-pm-veterinary-hospital",
+    "name": "AM/PM Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "AM/PM Veterinary Hospital provides veterinary care for dogs in Yorba Linda, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(714) 779-1400",
+    "website": "https://ampmvet.com/",
+    "address": "4872 Olinda Street",
+    "city": "Yorba Linda",
+    "state": "CA",
+    "zip": "92886",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Yorba Linda",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.021Z"
+  }
+]

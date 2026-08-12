@@ -1,0 +1,368 @@
+[
+  {
+    "slug": "banfield-pet-hospital",
+    "name": "Banfield Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Previously known as Danville Veterinary Hospital",
+    "phone": "(925) 837-4264",
+    "website": "https://www.banfield.com/locations/veterinarians/ca/danville/dvh",
+    "address": "812 Camino Ramon",
+    "city": "Brentwood",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Brentwood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Previously known as Danville Veterinary Hospital",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "banfield-pet-hospital-2",
+    "name": "Banfield Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Previously known as Danville Veterinary Hospital",
+    "phone": "(925) 837-4264",
+    "website": "https://www.banfield.com/locations/veterinarians/ca/danville/dvh",
+    "address": "812 Camino Ramon",
+    "city": "Brentwood",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Brentwood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Previously known as Danville Veterinary Hospital",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "bollinger-canyon-animal-hospital",
+    "name": "Bollinger Canyon Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Bollinger Canyon Animal Hospital provides veterinary care for dogs in Brentwood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 866-8500",
+    "website": "https://mycaringvet.com/",
+    "address": "400 Montgomery Street",
+    "city": "Brentwood",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Brentwood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "diablo-valley-animal-hospital",
+    "name": "Diablo Valley Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Diablo Valley Animal Hospital provides veterinary care for dogs in Brentwood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 263-2528",
+    "website": "https://diablovalleyvets.com",
+    "address": "Brentwood, CA",
+    "city": "Brentwood",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Brentwood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "disney-pet-hospital",
+    "name": "Disney Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Disney Pet Hospital provides veterinary care for dogs in Brentwood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 689-4244",
+    "website": "https://disneypethospital.com/",
+    "address": "3544 Concord Boulevard",
+    "city": "Brentwood",
+    "state": "CA",
+    "zip": "94519",
+    "hours": "Mo-Fr 08:00-17:30; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Brentwood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "disney-pet-hospital-2",
+    "name": "Disney Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Disney Pet Hospital provides veterinary care for dogs in Brentwood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 689-4244",
+    "website": "https://disneypethospital.com/",
+    "address": "3544 Concord Boulevard",
+    "city": "Brentwood",
+    "state": "CA",
+    "zip": "94519",
+    "hours": "Mo-Fr 08:00-17:30; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Brentwood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "east-bay-spca-spay-neuter-clinic",
+    "name": "East Bay SPCA Spay/Neuter Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "East Bay SPCA Spay/Neuter Clinic provides veterinary care for dogs in Brentwood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 479-9674",
+    "website": "https://eastbayspca.org/",
+    "address": "4651 Gleason Drive",
+    "city": "Brentwood",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Brentwood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "tassajara-veterinary-clinic",
+    "name": "Tassajara Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Tassajara Veterinary Clinic provides veterinary care for dogs in Brentwood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(925) 736-8387",
+    "website": "https://www.tassajaravet.com/",
+    "address": "3436 Camino Tassajara",
+    "city": "Brentwood",
+    "state": "CA",
+    "zip": "94506",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Brentwood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "animal-medical-center-of-livermore",
+    "name": "Animal Medical Center of Livermore",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Animal Medical Center of Livermore provides veterinary care for dogs in Brentwood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.livermoreamc.com/",
+    "address": "Brentwood, CA",
+    "city": "Brentwood",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Brentwood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "oak-tree-animal-hospital",
+    "name": "Oak Tree Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Oak Tree Animal Hospital provides veterinary care for dogs in Brentwood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://oaktreevet.com",
+    "address": "579 San Ramon Valley Boulevard",
+    "city": "Brentwood",
+    "state": "CA",
+    "zip": "94526",
+    "hours": "Mo-Fr 08:30-20:00; Sa 09:00-20:00",
+    "hoursDetail": [
+      "Mo-Fr 08:30-20:00; Sa 09:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Brentwood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  },
+  {
+    "slug": "oak-tree-animal-hospital-2",
+    "name": "Oak Tree Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "Oak Tree Animal Hospital provides veterinary care for dogs in Brentwood, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://oaktreevet.com",
+    "address": "579 San Ramon Valley Boulevard",
+    "city": "Brentwood",
+    "state": "CA",
+    "zip": "94526",
+    "hours": "Mo-Fr 08:30-20:00; Sa 09:00-20:00",
+    "hoursDetail": [
+      "Mo-Fr 08:30-20:00; Sa 09:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Brentwood",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.037Z"
+  }
+]

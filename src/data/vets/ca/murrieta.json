@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "care-animal-hospital-veterinary",
+    "name": "Care Animal Hospital (Veterinary)",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Care Animal Hospital (Veterinary) provides veterinary care for dogs in Murrieta, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(951) 676-4690",
+    "website": "https://www.careah.com/",
+    "address": "29738 Rancho California Road",
+    "city": "Murrieta",
+    "state": "CA",
+    "zip": "92591",
+    "hours": "Mo-Fr 08:00-18:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Murrieta",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.035Z"
+  }
+]

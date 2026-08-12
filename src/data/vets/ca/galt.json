@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "hatton-veterinary-hospital",
+    "name": "Hatton Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Hatton Veterinary Hospital provides veterinary care for dogs in Galt, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 689-1688",
+    "website": "http://www.hattonveterinaryhospital.com/",
+    "address": "7615 Sheldon Road",
+    "city": "Galt",
+    "state": "CA",
+    "zip": "95758",
+    "hours": "Mo-Fr 08:00-18:00, Sa 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00, Sa 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Galt",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.043Z"
+  },
+  {
+    "slug": "hatton-veterinary-hospital-2",
+    "name": "Hatton Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Hatton Veterinary Hospital provides veterinary care for dogs in Galt, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(916) 689-1688",
+    "website": "http://www.hattonveterinaryhospital.com/",
+    "address": "7615 Sheldon Road",
+    "city": "Galt",
+    "state": "CA",
+    "zip": "95758",
+    "hours": "Mo-Fr 08:00-18:00, Sa 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00, Sa 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Galt",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.043Z"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "codornices-veterinary-clinic",
+    "name": "Codornices Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Codornices Veterinary Clinic provides veterinary care for dogs in Hercules, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(510) 524-3062",
+    "website": "https://codornicesveterinaryclinic.com/",
+    "address": "944",
+    "city": "Hercules",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:00-17:30; Sa 08:00-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:30; Sa 08:00-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Hercules",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.042Z"
+  },
+  {
+    "slug": "kensington-veterinary-hospital",
+    "name": "Kensington Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Kensington Veterinary Hospital provides veterinary care for dogs in Hercules, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(510) 528-0797",
+    "website": "https://www.thrivepetcare.com/locations/california/kensington/kensington-veterinary-hospital",
+    "address": "Hercules, CA",
+    "city": "Hercules",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Fr 08:30-18:00; Sa 08:00-13:00",
+    "hoursDetail": [
+      "Mo-Fr 08:30-18:00; Sa 08:00-13:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Hercules",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.042Z"
+  },
+  {
+    "slug": "banfield-pet-hospital",
+    "name": "Banfield Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Banfield Pet Hospital provides veterinary care for dogs in Hercules, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.banfield.com/",
+    "address": "Hercules, CA",
+    "city": "Hercules",
+    "state": "CA",
+    "zip": "",
+    "hours": "Mo-Sa 08:00-19:00; Su 09:00-18:00",
+    "hoursDetail": [
+      "Mo-Sa 08:00-19:00; Su 09:00-18:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Hercules",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.042Z"
+  }
+]

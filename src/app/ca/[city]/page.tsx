@@ -1,0 +1,118 @@
+import type { Metadata } from "next";
+import Link from "next/link";
+import { notFound } from "next/navigation";
+import { VetDirectory } from "@/components/VetDirectory";
+import {
+  cityHasListings,
+  cityPath,
+  defaultCityDescription,
+  getCities,
+  getCity,
+  getVetsForCity,
+  vetPath,
+} from "@/lib/directory";
+import { telHref } from "@/lib/vets";
+
+type Props = {
+  params: Promise<{ city: string }>;
+};
+
+export async function generateStaticParams() {
+  return getCities("ca").map((city) => ({ city: city.slug }));
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { city: citySlug } = await params;
+  const city = getCity("ca", citySlug);
+  if (!city) return { title: "City not found" };
+  return {
+    title: `${city.name} Dog Vets & 24/7 Emergency Care`,
+    description: defaultCityDescription(city),
+  };
+}
+
+export default async function CityPage({ params }: Props) {
+  const { city: citySlug } = await params;
+  const city = getCity("ca", citySlug);
+  if (!city) notFound();
+
+  const vets = getVetsForCity("ca", citySlug);
+  const emergency = vets.filter(
+    (v) => v.is24_7 || v.careType === "24/7 Emergency",
+  );
+  const urgent = vets.filter((v) => v.careType === "Urgent Care");
+  const isLive = cityHasListings("ca", citySlug);
+
+  return (
+    <div className="site-wrap">
+      <section className="page-hero">
+        <p className="page-kicker">
+          <Link href="/ca">California</Link>
+          {" / "}
+          {city.county} County
+        </p>
+        <h1>{city.name}</h1>
+        <p className="lede">
+          Dog veterinarians near you
+          {isLive
+            ? ` — ${vets.length} clinic${vets.length === 1 ? "" : "s"}.`
+            : "."}{" "}
+          Emergency and urgent care appear first.
+        </p>
+          <div className="meta-row">
+          {isLive ? (
+            <>
+              <span>{vets.length} clinics</span>
+              {emergency.length ? (
+                <span>{emergency.length} emergency / 24/7</span>
+              ) : null}
+              {urgent.length ? <span>{urgent.length} urgent care</span> : null}
+            </>
+          ) : (
+            <span>Clinics coming soon</span>
+          )}
+        </div>
+      </section>
+
+      {isLive ? (
+        <>
+          {emergency.length > 0 ? (
+            <aside className="emergency-strip" id="emergency">
+              <p>
+                Need help now?{" "}
+                {emergency.slice(0, 3).map((v, i) => (
+                  <span key={v.slug}>
+                    {i > 0 ? " · " : null}
+                    <a href={telHref(v.phone)}>
+                      {v.shortName ?? v.name}: {v.phone}
+                    </a>
+                  </span>
+                ))}
+              </p>
+              <Link
+                className="btn btn-emergency"
+                href={vetPath("ca", citySlug, emergency[0].slug)}
+              >
+                Emergency profile
+              </Link>
+            </aside>
+          ) : null}
+          <VetDirectory vets={vets} stateSlug="ca" citySlug={citySlug} />
+        </>
+      ) : (
+        <section className="panel pending-panel">
+          <h2>Clinics not online yet</h2>
+          <p>
+            {city.name} is in the directory, but clinic data hasn’t been loaded
+            yet. Try another California city from the list.
+          </p>
+          <div className="detail-actions">
+            <Link className="btn btn-primary" href="/ca">
+              Browse California cities
+            </Link>
+          </div>
+        </section>
+      )}
+    </div>
+  );
+}

@@ -1,0 +1,194 @@
+[
+  {
+    "slug": "fletcher-hills-animal-hospital",
+    "name": "Fletcher Hills Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Fletcher Hills Animal Hospital provides veterinary care for dogs in La Mesa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 463-6604",
+    "website": "http://fletcherhillsanimalhospital.com/",
+    "address": "8807 Grossmont Boulevard",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Mesa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+  },
+  {
+    "slug": "fletcher-hills-animal-hospital-2",
+    "name": "Fletcher Hills Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Fletcher Hills Animal Hospital provides veterinary care for dogs in La Mesa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 463-6604",
+    "website": "http://fletcherhillsanimalhospital.com/",
+    "address": "8807 Grossmont Boulevard",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Mesa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+  },
+  {
+    "slug": "pet-hospital-of-la-mesa",
+    "name": "Pet Hospital of La Mesa",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Pet Hospital of La Mesa provides veterinary care for dogs in La Mesa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 469-0138",
+    "website": "https://pethospitaloflamesa.com/",
+    "address": "5336 Jackson Drive",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Mesa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+  },
+  {
+    "slug": "pet-hospital-of-la-mesa-2",
+    "name": "Pet Hospital of La Mesa",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Pet Hospital of La Mesa provides veterinary care for dogs in La Mesa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 469-0138",
+    "website": "https://pethospitaloflamesa.com/",
+    "address": "5336 Jackson Drive",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Mesa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+  },
+  {
+    "slug": "vca-grossmont-vetr",
+    "name": "VCA Grossmont Vetr",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "VCA Grossmont Vetr provides veterinary care for dogs in La Mesa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(619) 697-0082",
+    "website": "https://vcahospitals.com/grossmont",
+    "address": "8274 #106 Parkway Drive",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91942",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:30-16:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa 08:30-16:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Mesa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+  },
+  {
+    "slug": "rancho-village-veterinary-hospital",
+    "name": "Rancho Village Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Rancho Village Veterinary Hospital provides veterinary care for dogs in La Mesa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://www.ranchovillagevet.com/",
+    "address": "3647 Avocado Boulevard",
+    "city": "La Mesa",
+    "state": "CA",
+    "zip": "91941",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving La Mesa",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.023Z"
+  }
+]

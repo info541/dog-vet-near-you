@@ -1,0 +1,592 @@
+[
+  {
+    "slug": "apex-veterinary-specialists",
+    "name": "Apex Veterinary Specialists",
+    "careType": "Specialty",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Apex Veterinary Specialists provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://apexvetspecialists.com/",
+    "address": "19100 Cox Avenue",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95070",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Specialty",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "cupertino-animal-hospital",
+    "name": "Cupertino Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Provides vet services for dogs and cats.",
+    "phone": "(408) 252-6380",
+    "website": "https://cupertinovet.com",
+    "address": "10026 Peninsula Avenue",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95014-1209",
+    "hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Provides vet services for dogs and cats.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "cupertino-animal-hospital-2",
+    "name": "Cupertino Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Provides vet services for dogs and cats.",
+    "phone": "(408) 252-6380",
+    "website": "https://cupertinovet.com",
+    "address": "10026 Peninsula Avenue",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95014-1209",
+    "hours": "Mo-Fr 08:00-17:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "Provides vet services for dogs and cats.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "pinnacle-animal-hospital",
+    "name": "Pinnacle Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Pinnacle Animal Hospital provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 264-9400",
+    "website": "https://pinnaclevets.com/",
+    "address": "4724 Meridian Avenue",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95118",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "princeton-veterinary-clinic",
+    "name": "Princeton Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Princeton Veterinary Clinic provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 264-3550",
+    "website": "https://www.princetonvetclinic.com/",
+    "address": "1378 Blossom Hill Road",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95118",
+    "hours": "Su 09:00-15:00, Mo-Fr 08:30-18:00, Sa 08:30-15:00",
+    "hoursDetail": [
+      "Su 09:00-15:00, Mo-Fr 08:30-18:00, Sa 08:30-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "princeton-veterinary-clinic-2",
+    "name": "Princeton Veterinary Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Princeton Veterinary Clinic provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 264-3550",
+    "website": "https://www.princetonvetclinic.com/",
+    "address": "1378 Blossom Hill Road",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95118",
+    "hours": "Su 09:00-15:00, Mo-Fr 08:30-18:00, Sa 08:30-15:00",
+    "hoursDetail": [
+      "Su 09:00-15:00, Mo-Fr 08:30-18:00, Sa 08:30-15:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "reed-animal-hospital",
+    "name": "Reed Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Reed Animal Hospital provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 369-1788",
+    "website": "https://www.reedanimalhospital.com/",
+    "address": "1657 South Bascom Avenue",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95008",
+    "hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa-Su 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "reed-animal-hospital-2",
+    "name": "Reed Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Reed Animal Hospital provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 369-1788",
+    "website": "https://www.reedanimalhospital.com/",
+    "address": "1657 South Bascom Avenue",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95008",
+    "hours": "Mo-Fr 08:00-18:00; Sa-Su 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-18:00; Sa-Su 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "serra-veterinary-hospital",
+    "name": "Serra Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Serra Veterinary Hospital provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 739-3545",
+    "website": "https://serravet.com/",
+    "address": "520 West Fremont Avenue",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "94087",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "serra-veterinary-hospital-2",
+    "name": "Serra Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Serra Veterinary Hospital provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 739-3545",
+    "website": "https://serravet.com/",
+    "address": "520 West Fremont Avenue",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "94087",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "vca-vets-and-pets-animal-hospital",
+    "name": "VCA Vets & Pets Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "VCA Vets & Pets Animal Hospital provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 246-1893",
+    "website": "https://vcahospitals.com/vets-pets",
+    "address": "3345 El Camino Real",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95051",
+    "hours": "Mo-Th 07:00-18:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Th 07:00-18:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "vca-vets-and-pets-animal-hospital-2",
+    "name": "VCA Vets & Pets Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 12,
+    "description": "VCA Vets & Pets Animal Hospital provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 246-1893",
+    "website": "https://vcahospitals.com/vets-pets",
+    "address": "3345 El Camino Real",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95051",
+    "hours": "Mo-Th 07:00-18:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Th 07:00-18:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "vetco-vaccination-clinic",
+    "name": "Vetco Vaccination Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 13,
+    "description": "Vetco Vaccination Clinic provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 866-7387",
+    "website": "https://stores.petco.com/ca/san-jose/vaccinations-sanjose-ca-271.html",
+    "address": "500 El Paseo de Saratoga",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95130",
+    "hours": "Mo-Sa 09:00-21:00; Su 09:00-20:00",
+    "hoursDetail": [
+      "Mo-Sa 09:00-21:00; Su 09:00-20:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "archvet-animal-hospital",
+    "name": "ArchVet Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 14,
+    "description": "ArchVet Animal Hospital provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://archvet.com/",
+    "address": "Monte Sereno, CA",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "burbank-pet-hospital",
+    "name": "Burbank Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 15,
+    "description": "Burbank Pet Hospital provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.burbankpethospital.com/",
+    "address": "1819 West San Carlos Street",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95128",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "burbank-pet-hospital-2",
+    "name": "Burbank Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 16,
+    "description": "Burbank Pet Hospital provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.burbankpethospital.com/",
+    "address": "1819 West San Carlos Street",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95128",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "wildwood-veterinary-hospital",
+    "name": "Wildwood Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 17,
+    "description": "Wildwood Veterinary Hospital provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://wildwoodvet.com/",
+    "address": "1115 Luchessi Drive",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95118",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  },
+  {
+    "slug": "wildwood-veterinary-hospital-2",
+    "name": "Wildwood Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 18,
+    "description": "Wildwood Veterinary Hospital provides veterinary care for dogs in Monte Sereno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://wildwoodvet.com/",
+    "address": "1115 Luchessi Drive",
+    "city": "Monte Sereno",
+    "state": "CA",
+    "zip": "95118",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Monte Sereno",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.048Z"
+  }
+]

@@ -1,0 +1,361 @@
+[
+  {
+    "slug": "atwater-merced-veterinary-clinic-inc",
+    "name": "Atwater-Merced Veterinary Clinic, Inc.",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Atwater-Merced Veterinary Clinic, Inc. provides veterinary care for dogs in Sonora, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 358-6000",
+    "website": "https://atwatermercedvet.com/",
+    "address": "2100 Bell Drive",
+    "city": "Sonora",
+    "state": "CA",
+    "zip": "95301",
+    "hours": "Mo-Fr 07:30-19:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sonora",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "atwater-merced-veterinary-clinic-inc-2",
+    "name": "Atwater-Merced Veterinary Clinic, Inc.",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Atwater-Merced Veterinary Clinic, Inc. provides veterinary care for dogs in Sonora, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 358-6000",
+    "website": "https://atwatermercedvet.com/",
+    "address": "2100 Bell Drive",
+    "city": "Sonora",
+    "state": "CA",
+    "zip": "95301",
+    "hours": "Mo-Fr 07:30-19:00",
+    "hoursDetail": [
+      "Mo-Fr 07:30-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sonora",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "monte-vista-small-animal-hospital",
+    "name": "Monte Vista Small Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Monte Vista Small Animal Hospital provides veterinary care for dogs in Sonora, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 634-0023",
+    "website": "https://www.montevistavet.com/",
+    "address": "901 East Monte Vista Avenue",
+    "city": "Sonora",
+    "state": "CA",
+    "zip": "95382",
+    "hours": "07:00-19:00",
+    "hoursDetail": [
+      "07:00-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sonora",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "monte-vista-small-animal-hospital-2",
+    "name": "Monte Vista Small Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "Monte Vista Small Animal Hospital provides veterinary care for dogs in Sonora, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 634-0023",
+    "website": "https://www.montevistavet.com/",
+    "address": "901 East Monte Vista Avenue",
+    "city": "Sonora",
+    "state": "CA",
+    "zip": "95382",
+    "hours": "07:00-19:00",
+    "hoursDetail": [
+      "07:00-19:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sonora",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "northgate-veterinary-hospital",
+    "name": "Northgate Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "Northgate Veterinary Hospital provides veterinary care for dogs in Sonora, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 825-6060",
+    "website": "http://www.forpetcare.com/practice-information/locations/northgate-veterinary-hospital.html",
+    "address": "296 Northgate Drive",
+    "city": "Sonora",
+    "state": "CA",
+    "zip": "95336",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sonora",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "standiford-veterinary-center",
+    "name": "Standiford Veterinary Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Standiford Veterinary Center provides veterinary care for dogs in Sonora, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 577-3481",
+    "website": "https://www.standifordveterinary.com",
+    "address": "1520 Standiford Avenue",
+    "city": "Sonora",
+    "state": "CA",
+    "zip": "95350",
+    "hours": "00:00-24:00",
+    "hoursDetail": [
+      "00:00-24:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sonora",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "standiford-veterinary-center-2",
+    "name": "Standiford Veterinary Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Standiford Veterinary Center provides veterinary care for dogs in Sonora, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(209) 577-3481",
+    "website": "https://www.standifordveterinary.com",
+    "address": "1520 Standiford Avenue",
+    "city": "Sonora",
+    "state": "CA",
+    "zip": "95350",
+    "hours": "00:00-24:00",
+    "hoursDetail": [
+      "00:00-24:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sonora",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "murieta-pet-hospital",
+    "name": "Murieta Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "At Murieta Pet Hospital in Rancho Murieta, CA, we have the latest technology to provide the highest quality medicine to ensure your pet’s safety and care comes first.",
+    "phone": "Call for number",
+    "website": "https://murietapethospital.com/",
+    "address": "7245 Murieta Drive",
+    "city": "Sonora",
+    "state": "CA",
+    "zip": "95683",
+    "hours": "Mo-Fr 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Fr 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 1,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sonora",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [
+      {
+        "author": "OpenStreetMap",
+        "rating": 5,
+        "text": "At Murieta Pet Hospital in Rancho Murieta, CA, we have the latest technology to provide the highest quality medicine to ensure your pet’s safety and care comes first.",
+        "source": "OpenStreetMap"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "northgate-veterinary-hospital-2",
+    "name": "Northgate Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Northgate Veterinary Hospital provides veterinary care for dogs in Sonora, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://www.forpetcare.com/practice-information/locations/northgate-veterinary-hospital.html",
+    "address": "296 Northgate Drive",
+    "city": "Sonora",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sonora",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "northgate-veterinary-hospital-3",
+    "name": "Northgate Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "Northgate Veterinary Hospital provides veterinary care for dogs in Sonora, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://www.forpetcare.com/practice-information/locations/northgate-veterinary-hospital.html",
+    "address": "296 Northgate Drive",
+    "city": "Sonora",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sonora",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  },
+  {
+    "slug": "river-oak-veterinary-hospital",
+    "name": "River Oak Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "River Oak Veterinary Hospital provides veterinary care for dogs in Sonora, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.riveroakvet.com",
+    "address": "2369 Patterson Road",
+    "city": "Sonora",
+    "state": "CA",
+    "zip": "95367",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sonora",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.047Z"
+  }
+]

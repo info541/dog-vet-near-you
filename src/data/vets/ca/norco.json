@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "animal-and-bird-veterinary-medical-center",
+    "name": "Animal & Bird Veterinary Medical Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Animal & Bird Veterinary Medical Center provides veterinary care for dogs in Norco, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(951) 371-7120",
+    "website": "http://abvmc.com/abvmc/",
+    "address": "3119 Hamner Avenue",
+    "city": "Norco",
+    "state": "CA",
+    "zip": "92860",
+    "hours": "07:00-23:00",
+    "hoursDetail": [
+      "07:00-23:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Norco",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.028Z"
+  },
+  {
+    "slug": "animal-and-bird-veterinary-medical-center-2",
+    "name": "Animal & Bird Veterinary Medical Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Animal & Bird Veterinary Medical Center provides veterinary care for dogs in Norco, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(951) 371-7120",
+    "website": "http://abvmc.com/abvmc/",
+    "address": "3119 Hamner Avenue",
+    "city": "Norco",
+    "state": "CA",
+    "zip": "92860",
+    "hours": "07:00-23:00",
+    "hoursDetail": [
+      "07:00-23:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Norco",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+  },
+  {
+    "slug": "critter-care-center",
+    "name": "Critter Care Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "Critter Care Center provides veterinary care for dogs in Norco, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(951) 406-2127",
+    "website": "https://thecrittercarecenter.com/",
+    "address": "2440 River Road",
+    "city": "Norco",
+    "state": "CA",
+    "zip": "92860",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Norco",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+  }
+]

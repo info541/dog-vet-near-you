@@ -1,0 +1,354 @@
+[
+  {
+    "slug": "uni-pet-clinic-san-jose",
+    "name": "UNI Pet Clinic San Jose",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 1,
+    "description": "UNI Pet Clinic San Jose provides veterinary care for dogs in Milpitas, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 294-8887",
+    "website": "https://unipetclinic.com/locations/uni-pet-clinic-san-jose/",
+    "address": "595 North 1st Street",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "95110",
+    "hours": "Mo-Fr 09:00-18:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 09:00-18:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Milpitas",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.036Z"
+  },
+  {
+    "slug": "uni-pet-clinic-san-jose-2",
+    "name": "UNI Pet Clinic San Jose",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "UNI Pet Clinic San Jose provides veterinary care for dogs in Milpitas, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 294-8887",
+    "website": "https://unipetclinic.com/locations/uni-pet-clinic-san-jose/",
+    "address": "595 North 1st Street",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "95110",
+    "hours": "Mo-Fr 09:00-18:00; Sa-Su off",
+    "hoursDetail": [
+      "Mo-Fr 09:00-18:00; Sa-Su off"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Milpitas",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.036Z"
+  },
+  {
+    "slug": "vca-vets-and-pets-animal-hospital",
+    "name": "VCA Vets & Pets Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 3,
+    "description": "VCA Vets & Pets Animal Hospital provides veterinary care for dogs in Milpitas, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 246-1893",
+    "website": "https://vcahospitals.com/vets-pets",
+    "address": "3345 El Camino Real",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "95051",
+    "hours": "Mo-Th 07:00-18:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Th 07:00-18:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Milpitas",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.036Z"
+  },
+  {
+    "slug": "vca-vets-and-pets-animal-hospital-2",
+    "name": "VCA Vets & Pets Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 4,
+    "description": "VCA Vets & Pets Animal Hospital provides veterinary care for dogs in Milpitas, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "(408) 246-1893",
+    "website": "https://vcahospitals.com/vets-pets",
+    "address": "3345 El Camino Real",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "95051",
+    "hours": "Mo-Th 07:00-18:00; Sa 08:00-17:00",
+    "hoursDetail": [
+      "Mo-Th 07:00-18:00; Sa 08:00-17:00"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Milpitas",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.036Z"
+  },
+  {
+    "slug": "archvet-animal-hospital",
+    "name": "ArchVet Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 5,
+    "description": "ArchVet Animal Hospital provides veterinary care for dogs in Milpitas, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://archvet.com/",
+    "address": "Milpitas, CA",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Milpitas",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.036Z"
+  },
+  {
+    "slug": "burbank-pet-hospital",
+    "name": "Burbank Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Burbank Pet Hospital provides veterinary care for dogs in Milpitas, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.burbankpethospital.com/",
+    "address": "1819 West San Carlos Street",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "95128",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Milpitas",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.036Z"
+  },
+  {
+    "slug": "burbank-pet-hospital-2",
+    "name": "Burbank Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 7,
+    "description": "Burbank Pet Hospital provides veterinary care for dogs in Milpitas, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://www.burbankpethospital.com/",
+    "address": "1819 West San Carlos Street",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "95128",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Milpitas",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.036Z"
+  },
+  {
+    "slug": "murphy-avenue-pet-clinic",
+    "name": "Murphy Avenue Pet Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 8,
+    "description": "Murphy Avenue Pet Clinic provides veterinary care for dogs in Milpitas, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://mapcvet.com/",
+    "address": "101 East Hendy Avenue",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Milpitas",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.036Z"
+  },
+  {
+    "slug": "murphy-avenue-pet-clinic-2",
+    "name": "Murphy Avenue Pet Clinic",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 9,
+    "description": "Murphy Avenue Pet Clinic provides veterinary care for dogs in Milpitas, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "https://mapcvet.com/",
+    "address": "101 East Hendy Avenue",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Milpitas",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.036Z"
+  },
+  {
+    "slug": "san-jose-animal-hospital",
+    "name": "San Jose Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 10,
+    "description": "San Jose Animal Hospital provides veterinary care for dogs in Milpitas, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://www.sanjoseanimalhospital.com/",
+    "address": "940 Berryessa Road",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "95133",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Milpitas",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.036Z"
+  },
+  {
+    "slug": "san-jose-animal-hospital-2",
+    "name": "San Jose Animal Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 11,
+    "description": "San Jose Animal Hospital provides veterinary care for dogs in Milpitas, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "phone": "Call for number",
+    "website": "http://www.sanjoseanimalhospital.com/",
+    "address": "940 Berryessa Road",
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "95133",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Milpitas",
+      "Sourced from OpenStreetMap"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-12T03:17:35.036Z"
+  }
+]
