@@ -6,7 +6,7 @@
     "is24_7": false,
     "priority": 1,
     "description": "Rocklin Ranch Veterinary Hospital at Pacific Street provides veterinary care for dogs in Rocklin, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(916) 624-7387",
     "website": "https://www.rocklinranchvet.com/rrvh-pacific-street/",
     "address": "5405 Pacific Street",
     "city": "Rocklin",
@@ -17,7 +17,7 @@
       "Mo-Fr 08:00-17:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,15 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Kaedyn H.",
+        "rating": 5,
+        "text": "Hands down the best vet experiences I've ever had. All staff have been helpful and kind and will answer any and all questions. Appreciate all of their love and care for our pets.\u201d",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(916) 624-3322"
   }
 ]

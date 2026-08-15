@@ -73,6 +73,11 @@ export default async function VetDetailPage({ params }: Props) {
               Call {vet.phone}
             </a>
           ) : null}
+          {vet.phoneSecondary ? (
+            <a className="btn btn-ghost" href={telHref(vet.phoneSecondary)}>
+              Alt {vet.phoneSecondary}
+            </a>
+          ) : null}
           <a
             className="btn btn-ghost"
             href={mapsHref(vet)}
@@ -171,7 +176,11 @@ export default async function VetDetailPage({ params }: Props) {
         </div>
       </div>
 
-      <ReviewList reviews={vet.reviews} clinicName={vet.name} />
+      <ReviewList
+        reviews={vet.reviews}
+        clinicName={vet.name}
+        website={vet.website}
+      />
     </div>
   );
 }

@@ -6,7 +6,7 @@
     "is24_7": false,
     "priority": 1,
     "description": "Dana Park Veterinary Hospital provides veterinary care for dogs in Redding, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(530) 221-6733",
     "website": "https://www.danaparkvethospital.com/site/home",
     "address": "Redding, CA",
     "city": "Redding",
@@ -17,7 +17,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "From Our Clients Find out what our clients have to say about their experience with Dana Park Veterinary Hospital .",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -38,7 +45,7 @@
     "is24_7": false,
     "priority": 2,
     "description": "Haven Humane Society provides veterinary care for dogs in Redding, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(530) 241-1653",
     "website": "https://www.havenhumane.org",
     "address": "7449 Eastside Road",
     "city": "Redding",
@@ -61,6 +68,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(530) 241-2550"
   }
 ]

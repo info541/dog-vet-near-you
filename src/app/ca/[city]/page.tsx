@@ -1,17 +1,16 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { EmergencyContactStrip } from "@/components/EmergencyContactStrip";
 import { VetDirectory } from "@/components/VetDirectory";
 import {
   cityHasListings,
-  cityPath,
   defaultCityDescription,
   getCities,
   getCity,
   getVetsForCity,
   vetPath,
 } from "@/lib/directory";
-import { telHref } from "@/lib/vets";
 
 type Props = {
   params: Promise<{ city: string }>;
@@ -59,7 +58,7 @@ export default async function CityPage({ params }: Props) {
             : "."}{" "}
           Emergency and urgent care appear first.
         </p>
-          <div className="meta-row">
+        <div className="meta-row">
           {isLive ? (
             <>
               <span>{vets.length} clinics</span>
@@ -76,27 +75,15 @@ export default async function CityPage({ params }: Props) {
 
       {isLive ? (
         <>
-          {emergency.length > 0 ? (
-            <aside className="emergency-strip" id="emergency">
-              <p>
-                Need help now?{" "}
-                {emergency.slice(0, 3).map((v, i) => (
-                  <span key={v.slug}>
-                    {i > 0 ? " · " : null}
-                    <a href={telHref(v.phone)}>
-                      {v.shortName ?? v.name}: {v.phone}
-                    </a>
-                  </span>
-                ))}
-              </p>
-              <Link
-                className="btn btn-emergency"
-                href={vetPath("ca", citySlug, emergency[0].slug)}
-              >
-                Emergency profile
-              </Link>
-            </aside>
-          ) : null}
+          <EmergencyContactStrip
+            vets={vets}
+            cityName={city.name}
+            emergencyProfileHref={
+              emergency[0]
+                ? vetPath("ca", citySlug, emergency[0].slug)
+                : undefined
+            }
+          />
           <VetDirectory vets={vets} stateSlug="ca" citySlug={citySlug} />
         </>
       ) : (

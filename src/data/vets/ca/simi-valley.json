@@ -145,7 +145,7 @@
       "Tu-Fr 14:00-20:00; Sa 10:00-13:30"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -156,8 +156,16 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Love this place! Everyone who works there are caring, professional and thorough. Prices were reasonable and most times your pet will be seen within 30 min. You will love this place because your pet will most likely like it",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(805) 424-8376"
   },
   {
     "slug": "rancho-sequoia-veterinary-hospital",
@@ -253,7 +261,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(823) 195-4582"
   },
   {
     "slug": "sycamore-veterinary-hospital",
@@ -285,7 +294,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(254) 535-2419"
   },
   {
     "slug": "valley-veterinary-clinic",
@@ -317,6 +327,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(805) 584-0918"
   }
 ]

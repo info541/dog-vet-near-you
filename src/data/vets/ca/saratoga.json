@@ -6,7 +6,7 @@
     "is24_7": false,
     "priority": 1,
     "description": "Apex Veterinary Specialists provides veterinary care for dogs in Saratoga, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(178) 586-0075",
     "website": "https://apexvetspecialists.com",
     "address": "19100 Cox Avenue",
     "city": "Saratoga",
@@ -17,7 +17,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 3,
     "services": [
       "Dog Care",
       "Specialty",
@@ -28,7 +28,27 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Dr. Block is the most compassionate, knowledgeable and patient veterinary specialist we\u2019ve had the pleasure of working with. Thanks to her exceptional care our beloved Oreo a now 15 year old Japanese Chin is thriving. Dr. Block has expertly managed Oreo\u2019s heart failure through her knowledge and expertise. We are beyond grateful for her care and so fortunate to have her practicing in our community!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Dr Chloe Block gave my cat Inky (heart condition) twice the life expected with her treatments and guidance. His life quality was excellent to the very end. I know my cat (and myself) could not have been cared for better. My heartfelt thanks to Dr Block!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I was referred to Apex for my senior kitty who had recently been treated in the ER but needed more information on his heart to determine the course for his continued care, and an echo was necessary as the next step. From the first interaction of calling to book the appointment, to the online forms, to the tech/nurse assessment, and visit, exam, and conversation with Dr. Block, this experience of going to Apex was one of the best I\u2019ve ever had in the veterinary field and animal specialty community.",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(178) 115-4929"
   }
 ]

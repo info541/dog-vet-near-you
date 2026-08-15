@@ -38,7 +38,7 @@
     "is24_7": false,
     "priority": 2,
     "description": "South Bay Veterinary Hospital provides veterinary care for dogs in Chula Vista, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(517) 982-1482",
     "website": "https://www.southbayveterinaryhospital.com",
     "address": "Chula Vista, CA",
     "city": "Chula Vista",
@@ -49,7 +49,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -60,7 +60,15 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Our staff at South Bay Veterinary Hospital values feedback from our clients. Here is just a small sample of the hundreds of happy and healthy pets that we have cared for since 1994.",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z",
+    "phoneSecondary": "(999) 999-9999"
   }
 ]

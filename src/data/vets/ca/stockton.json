@@ -29,7 +29,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z",
+    "shortName": "Pacific"
   },
   {
     "slug": "sierra-veterinary-hospital",
@@ -38,7 +39,7 @@
     "is24_7": false,
     "priority": 2,
     "description": "Sierra Veterinary Hospital provides veterinary care for dogs in Stockton, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(209) 477-4841",
     "website": "https://sierraveterinary.com",
     "address": "Stockton, CA",
     "city": "Stockton",
@@ -70,7 +71,7 @@
     "is24_7": false,
     "priority": 3,
     "description": "Walker Veterinary Hospital provides veterinary care for dogs in Stockton, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(209) 478-8883",
     "website": "https://walkervet.com",
     "address": "Stockton, CA",
     "city": "Stockton",
@@ -81,7 +82,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 4,
     "services": [
       "Dog Care",
       "General Practice",
@@ -92,7 +93,32 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "The worst day of our life happened\u2026 our boxer Bo\u2019s life came to an end, he was unable to walk anymore. He could barely breathe, and it was time we went to Walker vet, and they took care of things. Someone was really paying attention because they realize the level of grief we were experiencing today in the mail unexpectedly, we received a pair of paw prints Words cannot express how heartfelt this is. Read more",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "This site saved my dog\u2019s life. My ESA and best friend was limping one day and we went to another site around town, and they prescribed him carprofen. It made things worse. We went to get a second opinion as things worsened at Walker. The doctor walked through symptoms with us, had me feel the lymph nodes in his back leg, and he was diagnosed with Immune-Mediated Hemolytic Anemia (IMHA). We don\u2019t know what caused it but his body was destroying its own red blood cells. After this was identified he was put on steroids and antibiotics and he is in full recovery! He is back to his normal personalit",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "We visited Walker Vet because we heard Dr. Hung was familiar with FIP in cats. Her knowledge, and her care, put us at ease and saved our cat\u2019s life. She explained the details to us like a friend. She was genuinely concerned about his life, and helping us to build a strong at-home care regimen. The front office staff is professional and friendly. They operate smoothly and support the doctors well. Of my many phone calls, even on very busy days, I never received any attitude. Just good people helping other people and their pets. Read more",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "My dog has always received the best care from Dr. Connie. My boy can be a handful at times, and Dr. Connie is always very patient with him, as well as with me, in answering all my questions and concerns regarding my fur baby's care. All the staff have always treated us with respect and care. I recommend Wallker Vet, especially Dr. Connie, to all my friends and family! Thank you for all your care, Dr. Connie! We appreciate you. Read more",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   }
 ]

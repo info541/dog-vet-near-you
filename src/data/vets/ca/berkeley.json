@@ -31,16 +31,17 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "shortName": "PETS Referral"
   },
   {
     "slug": "berkeley-dog-and-cat-hospital",
     "name": "Berkeley Dog and Cat Hospital",
-    "careType": "General Practice",
+    "careType": "24/7 Emergency",
     "is24_7": true,
     "priority": 2,
     "description": "Berkeley Dog and Cat Hospital provides veterinary care for dogs in Berkeley, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(510) 848-5041",
     "website": "https://www.berkeleydogandcat.com/site/home",
     "address": "2126 Haste Street",
     "city": "Berkeley",
@@ -65,7 +66,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "shortName": "Berkeley Dog"
   },
   {
     "slug": "berkeley-humane",
@@ -97,7 +99,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(178) 658-4760"
   },
   {
     "slug": "university-veterinary-hospital",
@@ -129,7 +132,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(510) 841-3019"
   },
   {
     "slug": "berkeley-animal-hospital",
@@ -138,7 +142,7 @@
     "is24_7": false,
     "priority": 5,
     "description": "Berkeley Animal Hospital provides veterinary care for dogs in Berkeley, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(510) 455-2226",
     "website": "https://www.banimalhospital.com",
     "address": "2709 San Pablo Avenue",
     "city": "Berkeley",
@@ -149,7 +153,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 3,
     "services": [
       "Dog Care",
       "General Practice",
@@ -160,7 +164,26 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "We value our clients' experience at Berkeley Animal Hospital. If your pet or animal is currently a patient, please feel free to post to our social media pages or email us on our contact page. Dr. Jessica Holiday",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Wow! Thanks to all the staff at Anderson Vet Clinic. I feel like you all truly love what you do! My kitty, Lola and I always have such a pleasant experience when we come in. I would not leave Lola in anyone else\u2019s hands but yours!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I have benefited tremendously from the care my pet received from Dr. Anderson. I cannot thank him and his team enough for the treatment we received when my puppy suddenly became ill.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

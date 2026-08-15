@@ -17,7 +17,7 @@
       "Mo-Fr 08:30-17:30"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 2,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,20 @@
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201cIncredibly wonderful! Dr. Jeff Northrup and the team at NV Veterinary Hospital is professional and friendly. From Elizabeth at the front desk, to Lisa who is everywhere and Mayra who can do just about anything\u2013they are all down-to-earth, knowledgeable and empathetic. They are helping my cat Jack with his newly-diagnosed diabetes, and taking me by the hand to educate me about the disease and how to care for Jack. It\u2019s also a treat to say hello to Stella the office dog and scratch her behind the ears. You\u2019ll get focused, one-on-one care here.\u201d",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201cI have had 2 dogs and a cat over the years and Dr. Northrup has always come through for us. He\u2019s very thorough and patient with both the animals and myself. I am most appreciative with Dr. Northrup for not shoving procedures down my throat that the animals do not necessarily need. He is great at giving you the decision as to which direction/treatment you want to follow for most non-emergency/non-life threatening situations. I completely trust him with my animals.\u201d",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:33:27Z"
   }
 ]

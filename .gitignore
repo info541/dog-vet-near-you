@@ -42,3 +42,7 @@ scripts/.places-review-cache.json
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+__pycache__/
+*.py[cod]
+scripts/.places-review-cache.json

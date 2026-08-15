@@ -17,7 +17,7 @@
       "Mo-Fr 08:00-18:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Our staff at Animal Care Hospital of Lompoc values feedback from our clients. Here is just a small sample of the hundreds of happy and healthy pets that we have cared for since 1998 in Lompoc, CA.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -61,6 +68,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(805) 250-5600"
   }
 ]

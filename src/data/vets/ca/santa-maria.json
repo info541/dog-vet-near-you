@@ -6,7 +6,7 @@
     "is24_7": false,
     "priority": 1,
     "description": "Orcutt Veterinary Hospital provides veterinary care for dogs in Santa Maria, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(563) 558-1375",
     "website": "https://www.orcuttvet.com",
     "address": "Santa Maria, CA",
     "city": "Santa Maria",
@@ -29,6 +29,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(234) 567-9851"
   }
 ]

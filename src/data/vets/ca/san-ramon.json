@@ -17,7 +17,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "Urgent Care",
@@ -28,8 +28,16 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"I had looked at each puppy cage with care but the puppy eyes staring out at me had yet to melt my heart. That is until I came to the cage of one sad looking pup. His eyes told a story of sorrow and I reached out to his cage, opened it, and stuck my hand in. Instantly I was met with one exuberant puppy; he was licking my arms, wagging his tail and I soon found him in my arms. He was the one.\"",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "shortName": "Bishop Ranch"
   },
   {
     "slug": "bollinger-canyon-animal-hospital",
@@ -49,7 +57,7 @@
       "Mo-Fr 08:00-18:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -60,7 +68,38 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\" You are all so professional, knowledgeable, friendly and handle my Eddie as if he were the most important cat in the world. Best doctor I've encountered. \"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\" I appreciated the knowledgeable and friendly staff, who welcomed our huge crew of family: three kids a puppy and myself, all at one time without even batting an eye. \"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\" Dr. Sandy and the staff are the best!! Mr. Wiggles is given \"VIR\" (very important rabbit) treatment. \"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\" There are no words adequate enough to say how wonderful Bollinger Canyon Animal Hospital is. The caring Dr. Block has given our two cats the very best care. \"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\" There are no words adequate enough to say how wonderful Bollinger Canyon Animal Hospital is. The caring Dr. Block and Dr Atkin have given our two cats the very best care. \"",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -70,7 +109,7 @@
     "is24_7": false,
     "priority": 3,
     "description": "ABC Pet Clinic provides veterinary care for dogs in San Ramon, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(925) 855-8195",
     "website": "https://www.abcpetsanramon.com",
     "address": "2259 San Ramon Valley Boulevard",
     "city": "San Ramon",

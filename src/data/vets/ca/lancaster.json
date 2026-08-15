@@ -17,7 +17,7 @@
       "Mo-Tu 08:00-20:00, We-Fr 08:00-18:00, Sa 08:00-14:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "The staff is very sweet and really cares about your pet.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

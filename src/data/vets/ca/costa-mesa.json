@@ -6,7 +6,7 @@
     "is24_7": false,
     "priority": 1,
     "description": "Newport Harbor Animal Hospital provides veterinary care for dogs in Costa Mesa, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(949) 612-2756",
     "website": "https://www.newportharborvets.com/",
     "address": "125 Mesa Drive",
     "city": "Costa Mesa",
@@ -17,7 +17,7 @@
       "Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su 09:00-17:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,39 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Very professional staff that lovingly take care of your pet like it was their own. My family has been taking our Labradors there for years and have always had a positive experience. Appointments are on time and vets are all very knowledgeable and professional. Jock",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Some of my favorite vets! I've been coming here for over 30 years. The doctors and staff are very helpful, kind, and caring. Keeping my senior dogs happy and healthy. Several of my neighbors take their pets here too. Dominique",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I brought my Cavalier King Charles Spaniel for an annual with Dr. Wind. Her exam was impressive and so thorough. She not only listened to my concerns, but, in addition, researched my queries in order to address them while at the appointment! I am so appreciative of her sincere, caring, and therapeutic manner. Dr. Wind's attentive ear and sincerity is extremely welcome and embraced. I am so grateful my Cavalier has such a dedicated veterinarian to address his current needs and future ones, as well. Thank you Dr. Wind :)) Simone",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Excellent care, docs provide comprehensive explanations of suggested treatments, caring and effective technicians, do not up-sell; good communications/easy to book appointments/good follow-up. Highly recommended. Dave",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Dr. Wind and her staff take excellent care of my senior kitty! They respond to emails or texts promptly. They definitely care about my pet. Sheri",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(949) 631-3354"
   }
 ]

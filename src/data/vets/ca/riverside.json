@@ -17,7 +17,7 @@
       "Open 24 hours"
     ],
     "rating": 4.5,
-    "reviewCount": 0,
+    "reviewCount": 3,
     "services": [
       "Dog Care",
       "24/7 Emergency",
@@ -30,8 +30,28 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "We value our clients' experience at Riverside Regional Veterinary Group. If your pet or animal is currently a patient, please feel free to post to our social media pages or email us on our contact page. Dr. Roy Saldanha",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Wow! Thanks to all the staff at Anderson Vet Clinic. I feel like you all truly love what you do! My kitty, Lola and I always have such a pleasant experience when we come in. Fortunately, it\u2019s usually just for a check-up, but I would not leave Lola in anyone else\u2019s hands but yours. Thank you for your caring commitment! ...",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I have benefited tremendously from the care my pet received from Dr. Anderson.",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z",
+    "shortName": "Riverside Regional"
   },
   {
     "slug": "riverside-animal-hospital",

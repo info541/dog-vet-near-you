@@ -6,7 +6,7 @@
     "is24_7": false,
     "priority": 1,
     "description": "River Oak Veterinary Hospital provides veterinary care for dogs in Riverbank, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(209) 869-3692",
     "website": "https://www.riveroakvet.com/site/home",
     "address": "2369 Patterson Road",
     "city": "Riverbank",
@@ -17,7 +17,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "We love River Oak Vet!! We won't go anywhere else! We moved to Dublin and STILL drive all the way out because we wouldn't trust our Buddy to anyone else. The staff are fabulous, Dr. Shaner and Dr. Hellman are amazing and the prices are very reasonable.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

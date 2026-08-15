@@ -17,7 +17,7 @@
       "Mo-Fr 09:00-21:00; Sa-Su 08:00-20:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 3,
     "services": [
       "Dog Care",
       "Urgent Care",
@@ -28,8 +28,28 @@
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:35:07Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"Stitch Urgent Care is truly a class act... I had to rush my dog to an after hours urgent care and, seeing how very sick he was, they took him immediately. The entire staff is obviously made up of very knowledgeable professionals who truly love animals.\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"We brought our puppy here for an eye infection, same day appointment. They were professional, kind, and even called the next day to check on our pup. His eye quickly cleared up after getting the care he needed.\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"There are not enough words to express mine and my family's appreciation and gratitude for the amount of care, empathy and transparency provided by Dr. Gabourel and her team.\"",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:35:07Z",
+    "shortName": "Stitch Surgery"
   },
   {
     "slug": "american-animal-hospital",
@@ -93,7 +113,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(877) 656-7146"
   },
   {
     "slug": "center-veterinary-clinic",
@@ -113,7 +134,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -124,7 +145,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "The team was wonderful! They were able to get Indy in for a same-day appointment, and everyone was kind, caring, and professional. They took great care of him, and I truly appreciate their prompt attention and excellent service. Thank you for making a stressful situation so much easier!",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -177,7 +205,7 @@
       "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -188,7 +216,38 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Staff was great, doctor was great, pricing was about standard which was a pleasant surprise to find in La Jolla. Stuart S.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I took my Cat there for a tooth removal and they were all so nice and caring. I felt very comfortable leaving my cat there even for the whole day. She's much better now and I couldn't be more thankful. Abiana V.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Dr. Vineyard and her staff are exceptional. We were clients for 3 years before my nearly 15 year old Puggle, Diesel, passed. From the front desk with a chalkboard welcoming your pet\u2019s visit to the technicians in the back, they all obviously enjoy their jobs and love our fur babies. They were extremely kind and empathic when my dog became ill and I was a slobbering devastated mess. Dr. Vineyard was the best veterinarian my family ever had and we had been to many on both coasts. Justine L.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Colony Veterinary Hospital has taken such great care of my Golden Retriever. They are thorough and really take their time to listen to what is going on with your pet. Their prices are affordable and they work very hard to get your pet scheduled the same day if there is an issue and you want to be seen. Joseph D.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I recently moved to LA to San Diego and are so happy we found colony vet hospital for our pup! I was very nervous as our dog has extreme anxiety both when meeting new people and going to the vet - I made the staff aware of this before and they were so incredibly patient with her & knew exactly how to interact with her. Amanda M.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -209,7 +268,7 @@
       "Mo-Fr 08:30-17:30"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -220,8 +279,16 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Our staff at Lifetime Animal Care Center values feedback from our clients. Here is just a small sample of the hundreds of happy and healthy pets that we have cared for since 1973.",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(999) 999-9999"
   },
   {
     "slug": "pe-asquitos-pet-clinic",
@@ -317,7 +384,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(928) 833-8191"
   },
   {
     "slug": "torrey-hills-pet-hospital",
@@ -381,7 +449,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(972) 366-6794"
   },
   {
     "slug": "companion-care-veterinary-hospital",
@@ -390,7 +459,7 @@
     "is24_7": false,
     "priority": 13,
     "description": "Companion Care Veterinary Hospital provides veterinary care for dogs in San Diego, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(858) 451-0990",
     "website": "https://companioncareveterinaryhospital.com",
     "address": "San Diego, CA",
     "city": "San Diego",
@@ -422,7 +491,7 @@
     "is24_7": false,
     "priority": 14,
     "description": "Lindsey Veterinary Care provides veterinary care for dogs in San Diego, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(858) 459-1516",
     "website": "https://lindseyvetcare.com/",
     "address": "7740 Clairemont Mesa Boulevard",
     "city": "San Diego",
@@ -454,7 +523,7 @@
     "is24_7": false,
     "priority": 15,
     "description": "Torrey Pines Animal Hospital provides veterinary care for dogs in San Diego, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(858) 720-8724",
     "website": "https://torreypinesvets.com/",
     "address": "San Diego, CA",
     "city": "San Diego",
@@ -465,7 +534,7 @@
       "Mo-Fr 08:00-18:00; Sa,Su 09:00-17:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 4,
     "services": [
       "Dog Care",
       "General Practice",
@@ -476,7 +545,32 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c Jade D. \u201c Our current dogs come here and they are our favorite vet office we\u2019ve ever worked with in the 25 years that we\u2019ve been pet owners. Thank you TPAH! Hands down the best in San Diego. \u201d",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c Kirk R. \u201c Our kitty Millie always gets her medical needs met @ Torrey Pines Animal Hospital. They very kind and professional looking after our little kitty family member! \u201d",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c Ron L. \u201c As a puppy, he felt the love from the vets and staff. We had lots of questions and got good advice over the past couple of years. As a result, my yellow Labrador is a very healthy and happy dog. \u201d",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c Simone P. \u201c The place I was longing for to take care of my poodle. A nice collaboration of vets . There is always someone to take care of your pet. The fact they are open 7 days a week makes you feel comfortable . You know you will always find someone when your pet needs. Highly recommend. \u201d",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -486,7 +580,7 @@
     "is24_7": false,
     "priority": 16,
     "description": "Turquoise Animal Hospital provides veterinary care for dogs in San Diego, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(858) 488-0658",
     "website": "https://turquoiseanimalhospital.com",
     "address": "950 Turquoise Street",
     "city": "San Diego",
@@ -497,7 +591,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -508,7 +602,38 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Friendly staff, fantastic care of my fur baby, Cupcake. They even personalized her medicine bag. The little things count! THANK YOU!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "If you want the very best care for your pet, then look no further.!!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "My little Cavalier has boarded several times with the wonderful ladies at Turquoise...they care for her as if she were their own. I highly recommend all the vets and the staff...they all love what they do, it\u2019s obvious in the way they treat their animals. Thanks to everyone!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Such a wonderful, friendly, professional vet clinic! From the front desk to the vets themselves, the best animal care anywhere!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "The most amazing animal loving angels. I\u2019m so happy our kitties are taken care of here. Everyone is so kind; compassionate and truly care about our pets. Thank you for all you do in our community!!",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

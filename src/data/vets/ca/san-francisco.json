@@ -2,7 +2,7 @@
   {
     "slug": "sage-veterinary-center",
     "name": "Sage veterinary center",
-    "careType": "General Practice",
+    "careType": "24/7 Emergency",
     "is24_7": true,
     "priority": 1,
     "description": "Emergency veterinary care",
@@ -31,7 +31,9 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(202) 211-3000",
+    "shortName": "Sage"
   },
   {
     "slug": "animal-farm-pet-hospital",
@@ -115,7 +117,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -126,7 +128,38 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "The bark of the town We are proud to be the highest rated veterinary hospital on Yelp in the 7.7 mile radius of San Francisco!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"Awesome and awesome after all these years! I would not go to any other vet! Caring, personable and treat all my fur babies like their own! Thank you, Dr. Fong.\" Mit T.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"So glad I found this place to take my baby cat to! From the initial phone call to schedule the appointment to the day of our arrival into the office, everyone was just super friendly and attentive. They were really excited to see my little tigerbalm the Scottish fold haha. The vet who did the first exam for tigerbalm since we got him was so gentle and sweet to him! She did all the exams in front of me and answered all my questions during the exam and it eased any worries I had and reassuring me that I was taking good care of my fur child!\" Kaman C.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"Really great service. They helped me with my dog who had eaten something potentially dangerous. Their team was kind and precise and I am grateful to this clinic. Thank you.\" C Taj",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "The doctors and assistants are very friendly and they truly care about your pet. My dog has seen two different vets here and they were both knowledgeable and caring. The lobby and rooms are clean. They provide leashes or carriers if you need to use one. They are open until 7 most days. Athena Karantzalis",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -191,7 +224,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(650) 608-0802"
   },
   {
     "slug": "omega",
@@ -223,7 +257,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(650) 781-4239"
   },
   {
     "slug": "park-animal-hospital",
@@ -328,7 +363,7 @@
     "is24_7": false,
     "priority": 11,
     "description": "Arguello Pet Hospital provides veterinary care for dogs in San Francisco, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(415) 751-3242",
     "website": "https://www.arguellopet.com",
     "address": "530 Arguello Boulevard",
     "city": "San Francisco",
@@ -392,7 +427,7 @@
     "is24_7": false,
     "priority": 13,
     "description": "Healthy Pets provides veterinary care for dogs in San Francisco, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(333) 333-3333",
     "website": "https://sfhealthypets.com/",
     "address": "373 West Portal Avenue",
     "city": "San Francisco",
@@ -415,7 +450,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(666) 666-6666"
   },
   {
     "slug": "nob-hill-cat-clinic",
@@ -424,7 +460,7 @@
     "is24_7": false,
     "priority": 14,
     "description": "Nob Hill Cat Clinic provides veterinary care for dogs in San Francisco, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(415) 776-6122",
     "website": "https://nobhillcatclinic.com",
     "address": "1540 California Street",
     "city": "San Francisco",

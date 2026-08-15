@@ -37,6 +37,37 @@ function readEnrichedVets(
 function prioritizeVets(vets: VetListing[]): VetListing[] {
   return [...vets]
     .filter(hasWebsite)
+    .map((vet) => {
+      const is24 = Boolean(vet.is24_7 || vet.careType === "24/7 Emergency");
+      let careType = vet.careType;
+      if (is24 && careType === "General Practice") {
+        careType = "24/7 Emergency";
+      }
+      let shortName = vet.shortName;
+      if (
+        !shortName &&
+        (is24 || careType === "Urgent Care" || careType === "24/7 Emergency")
+      ) {
+        const cleaned = vet.name
+          .replace(
+            /\b(animal|veterinary|veterinarian|pet|hospital|clinic|center|centre|specialty|and|emergency|urgent|care|of|the)\b/gi,
+            " ",
+          )
+          .replace(/\s+/g, " ")
+          .trim();
+        const parts = cleaned.split(" ").filter(Boolean);
+        shortName =
+          parts.slice(0, 2).join(" ").slice(0, 22) ||
+          vet.name.split(/\s+/).slice(0, 2).join(" ");
+      }
+      return {
+        ...vet,
+        careType,
+        is24_7: is24 || vet.is24_7,
+        shortName,
+        reviews: vet.reviews || [],
+      };
+    })
     .sort((a, b) => {
       const score = (v: VetListing) =>
         (v.is24_7 || v.careType === "24/7 Emergency" ? 1000 : 0) +

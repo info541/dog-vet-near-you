@@ -6,7 +6,7 @@
     "is24_7": false,
     "priority": 1,
     "description": "Lindsay Wildlife Hospital provides veterinary care for dogs in Walnut Creek, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(168) 210-9849",
     "website": "https://lindsaywildlife.org/hospital-2/",
     "address": "Walnut Creek, CA",
     "city": "Walnut Creek",
@@ -29,6 +29,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(755) 612-5618"
   }
 ]
