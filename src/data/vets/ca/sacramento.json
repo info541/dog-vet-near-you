@@ -29,7 +29,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z",
+    "shortName": "Del Paso"
   },
   {
     "slug": "broadway-veterinary-hospital",
@@ -81,7 +82,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -92,7 +93,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"Thank you for almost 20 years of great care of Meechi and Tessie. Love you all!\" Jane",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
@@ -125,7 +133,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(113) 428-1396"
   },
   {
     "slug": "east-sacramento-veterinary-center",
@@ -134,7 +143,7 @@
     "is24_7": false,
     "priority": 5,
     "description": "East Sacramento Veterinary Center provides veterinary care for dogs in Sacramento, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(916) 737-5670",
     "website": "https://www.eastsacvet.com",
     "address": "East Sacramento, CA",
     "city": "Sacramento",
@@ -157,7 +166,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z",
+    "phoneSecondary": "(916) 737-5673"
   },
   {
     "slug": "veterinary-medical-center",
@@ -166,7 +176,7 @@
     "is24_7": false,
     "priority": 6,
     "description": "Veterinary Medical Center provides veterinary care for dogs in Sacramento, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(916) 222-3220",
     "website": "https://sacvethospital.com",
     "address": "Sacramento, CA",
     "city": "Sacramento",

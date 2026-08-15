@@ -17,7 +17,7 @@
       "Mo-Fr 08:30-17:00; Sa 09:00-14:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,15 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Beau is a handsome boy and is always dressed to impressed with his black and white tuxedo! You can hear whenever Beau is in the clinic because he has the loudest howl of any pooch out there!",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(407) 536-1540"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "slug": "dr-boyd-s-pet-resort",
     "name": "Dr Boyd\u2019s Pet Resort",
-    "careType": "General Practice",
+    "careType": "24/7 Emergency",
     "is24_7": true,
     "priority": 1,
     "description": "Dr Boyd\u2019s Pet Resort provides veterinary care for dogs in Irvine, CA. Confirm hours and services directly with the clinic.",
@@ -17,7 +17,7 @@
       "24/7"
     ],
     "rating": 4.5,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -30,8 +30,16 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"Love this practice. The vets are very knowledgeable and everyone on the staff has been so nice. Facility is clean and they have lots of space in the waiting area to keep everyone in their own space. Love watching the doggy day care cameras too.\" Jaimie McClintock",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "shortName": "Dr Boyd\u2019s"
   },
   {
     "slug": "culver-pet-clinic",

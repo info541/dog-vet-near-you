@@ -17,7 +17,7 @@
       "Mon\u2013Fri 8 AM \u2013 7 PM; Sat\u2013Sun 8 AM \u2013 6 PM"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "Urgent Care",
@@ -28,8 +28,40 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I am beyond so grateful for the amazing staff and Jessica for helping us through this very difficult time. Very professional and empathetic. Putting a pet down is never an easy decision, they gave us options and put us at ease with the decision we made. Thank you again for helping us with our old lady. ...",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "We recently took our German Shepard pup in for her first check up. The assistants were extremely sweet and very informative. They gave us a perfect price breakdown of everything before preceding, and patiently answered all our questions while also giving us additional advice. Definitely going back. Our pup Panini was very happy as well, thanks to this clinic! ...",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I took my dog in after getting attacked by a couple of dogs. They took me right away and explained all the facts to me rather than trying to give me all this other information. They didn't try to rip me off their prices are very good. Stephanie was the one who came out to get the dog and explain the bill. I'm very thankful for everyone! Thank you :) ...",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "The staff here are always welcoming and give excellent care and communication. It's clear they care about the animals a lot.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I\u2019m so glad I discovered this clinic years ago. The staff are all so friendly and caring. I always feel like the health and well-being of my dogs is their main goal. The dr\u2019s always explain the suggestions for treatment and the costs to each service. They also help me to decide which services are the most important and which ones that can be elective. I trust them! I\u2019m so glad I discovered this clinic years ago. The staff are all so friendly and caring. I always feel like the health and well-being of my dogs is their main goal. The dr\u2019s always explain the suggestions for treatment and the cost",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z",
+    "shortName": "Bixby &"
   },
   {
     "slug": "lbc-vets",
@@ -61,7 +93,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z",
+    "shortName": "LBC Vets"
   },
   {
     "slug": "ambassador-long-beach-veterinary-hospital",
@@ -81,7 +114,7 @@
       "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -92,7 +125,38 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "We love love love them , we have been bring our dogs here since they were 3 months old , the doctors are amazing and the staff are sooo sweet , wouldn't go any where else",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Very happy with the service! My puppy Pomeranian was shaking her head and her left ear was droopy. They were able to see me right ways without an appointment. Thank you Marisol & staff",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I am so happy with the service they provided for me and my pet. All staff is very nice and attentive and keep you informed on everything going on.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I\u2019ve been coming to ambassador vet hospital for quite a while now and at first I must say I had mixed opinions about some of my first experiences. The front desk and vet techs have sometimes been a bit short in what\u2019s already an uncomfortable time for a pet parent however I\u2019m also aware that this can\u2019t be an easy job. In recent times I\u2019ve had the pleasure of meeting Dr. Michael who has truthfully made my vet visits much more enjoyable with his kindness and compassion. He truly seems like he loves what he\u2019s doing and has helped me and my dogs in times of stress and uncertainty. He is one of the",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I have been taking my dogs here since '21, Dr. Meina and Dr. Angelos are our favorites but everyone is friendly. They've always helped us through every step in an accident or illness and made sure we understood what was happening. I did have an incident a couple months back with a newer worker that accidentally let my dog run into the lobby. She was fine just scary to think what if the door was open and she ran into the street.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -166,7 +230,7 @@
     "is24_7": false,
     "priority": 6,
     "description": "Parkview Pet Hospital provides veterinary care for dogs in Long Beach, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(562) 425-8140",
     "website": "https://parkviewpetvet.com",
     "address": "Long Beach, CA",
     "city": "Long Beach",

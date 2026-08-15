@@ -29,7 +29,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "shortName": "MarQueen &"
   },
   {
     "slug": "stonebridge-veterinary-wellness",
@@ -38,7 +39,7 @@
     "is24_7": false,
     "priority": 2,
     "description": "Stonebridge Veterinary Wellness provides veterinary care for dogs in Roseville, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(916) 773-8578",
     "website": "https://stonebridgevetwellness.com",
     "address": "254 Gibson Drive",
     "city": "Roseville",

@@ -17,7 +17,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,39 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Reed Animal Hospital always treats our pets like family. Compassionate, thorough, and so gentle at every visit.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Dr. Reed and his team went above and beyond during a scary emergency. Our dog is here today because of them.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "We\u2019ve trusted Reed Animal Hospital for years. Consistent, compassionate care from every doctor and every staff member.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "From check\u2011in to follow\u2011up calls, the staff is warm, patient, and professional. We won\u2019t go anywhere else.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Dr. Johnson and the staff treated our anxious pup with so much patience and empathy. Truly 5\u2011star care.",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(408) 647-2906"
   }
 ]

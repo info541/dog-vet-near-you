@@ -2,7 +2,7 @@
   {
     "slug": "vca-animal-care-center-of-sonoma-county",
     "name": "VCA Animal Care Center of Sonoma County",
-    "careType": "General Practice",
+    "careType": "24/7 Emergency",
     "is24_7": true,
     "priority": 1,
     "description": "Emergency & Critical Care",
@@ -31,6 +31,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(112) 693-3456",
+    "shortName": "VCA Sonoma"
   }
 ]

@@ -29,7 +29,9 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(323) 302-5200",
+    "shortName": "AUC"
   },
   {
     "slug": "bastet-cat-hospital",
@@ -81,7 +83,7 @@
       "Mo-Fr 08:00-12:30,13:00-17:30; Sa 08:00-12:30,13:00-17:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 4,
     "services": [
       "Dog Care",
       "General Practice",
@@ -92,7 +94,32 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "The veterinary staff at Toluca Burbank are wonderful. Dr. Skaar & Dr. Levitt are both very informative, knowledgeable, and patient, and care deeply for the well being of all pets they see. Every experience I\u2019ve had with them has been positive, from affordability, to scheduling, to overall team efficiency. To keep your pet happy and healthy, there is no option better than Toluca Burbank Dog & Cat Hospital!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Great experience at Toluca Dog & Cat Hospital! Dr Hannah Gum made our dogs feel so relaxed and calm during the exam and she explained everything to us. She gave us good recommendations to help with our pitty\u2019s skin issues. We didn\u2019t feel pressured to add more services or tests. Prices were very reasonable, considering the high cost of other concierge type vet clinics. Staff was very warm and friendly. So happy to have our furry family under Dr Gum\u2019s care \u2764\ufe0f",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Nicest most conscientious veterinarians out there. Not some large group trying to take you for every penny. The staff is lovely and the doctors are great. They know their medicine, and really care about the animals. Very happy to have found them.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I love this vet, she\u2019s compassionate, caring and very thorough.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

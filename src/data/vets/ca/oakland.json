@@ -49,7 +49,7 @@
       "Mo,Tu,Th,Fr 9:00-12:00, 14:00-17:00; We, Sa 9:00-13:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 2,
     "services": [
       "Dog Care",
       "General Practice",
@@ -60,8 +60,22 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Feline Focused Independent clinic focused on providing personalized care that recognizes the unique needs of every cat and cat parent. Clinic Hours: MON | TUE | WED | THUR | FRI 9AM - 5PM 510.530.1010",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Contact Clinic Hours: MON | TUE | WED | THUR | FRI 9AM - 5PM Our cancellation policy: We try to accommodate all of our clients and ask that they give 24 hours notice when cancelling an appointment. Otherwise, a cancellation fee will be enforced.",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(152) 256-3146"
   },
   {
     "slug": "holistic-veterinary-care",
@@ -81,7 +95,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -92,8 +106,40 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Jack is a handsome 5-year-old chocolate Labrador that came to us with an immensely swollen leg and a defeated spirit. Diagnosed with what seemed to be a black widow spider bite on his rear leg, Jack was referred to us for hyperbaric oxygen treatment to reduce swelling. After just a few treatments, Jack began feeling better and significant improvements were seen as the swelling began to go down. By the end of Jack\u2019s treatments, he went from a lethargic and depressed Labrador to a healthy and energetic one. He bounded into Holistic Vet Care for a re-check from Dr. Richter and was like a complete",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Athena is a gorgeous husky mix that was becoming highly anemic due to the side effects of a large number of medications she was given to treat an auto-immune disorder. While she never lost her spunk or her love for treats, she began to experience the negative side effects of her anemic reaction. After several treatments in our hyperbaric chamber, Athena not only felt better but was less anemic and we were able to successfully reduce her prescription dosages. Athena was a staff favorite because of her beautiful coat and her sweet nature. Her parents were amazed by the improvements they saw and ",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Last August Jeff and I excitedly moved to the Bay Area, for his dream job and my happy retirement. We did not ship, nor fly, our beloved elderly dogs to California. Instead, we left them in good care and waited until we could drive them across the country during the Christmas holiday. Gizmo, a Pekingese, is now 15. Simon, a Shi-Tzu, is 13. They have the normal aging concerns and I researched the Bay area to find (what I KNEW was here somewhere) a Vet that was forward thinking and used integrative means to treat. HolyCowHolyMoses!!!!! When I found Holistic Vet Care and Dr. Richter, it was so mu",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Boomer, my 9-year-old Standard Poodle had been diagnosed with Chronic Hepatitis about four years ago. His liver was enlarged, making him uncomfortable and listless. He was no longer his usual, playful self, and his liver enzymes were extremely elevated. I realized at this point, that traditional \u201cWestern\u201d medicine modalities were not helping my poor baby. I really had no idea what to expect when I took Boomer to see Dr. Richter. I just figured it couldn\u2019t hurt, and hopefully, it would help. Dr. Richter and his staff made us feel\u2026",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Iris was a rescue who spent her whole life in a cage. Her right hip was very weak with a funny gait. After her first adjustment, I was very excited about how her gait changed and how much further she could walk and get around without as much pain. I feel like every animal should get chiropractic care because it works so well.",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(178) 049-4644"
   },
   {
     "slug": "oakland-veterinary-hospital",
@@ -157,7 +203,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(510) 215-5101"
   },
   {
     "slug": "the-grand-lake-veterinary-hospital",
@@ -189,7 +236,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z",
+    "phoneSecondary": "(510) 607-8490"
   },
   {
     "slug": "thornhill-pet-hospital",
@@ -262,7 +310,7 @@
     "is24_7": false,
     "priority": 9,
     "description": "East Bay SPCA Spay and Neuter Center provides veterinary care for dogs in Oakland, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(510) 569-0702",
     "website": "https://eastbayspca.org",
     "address": "410 Hegenberger Road",
     "city": "Oakland",
@@ -285,7 +333,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(815) 780-6396"
   },
   {
     "slug": "east-bay-veterinary-clinic",
@@ -294,7 +343,7 @@
     "is24_7": false,
     "priority": 10,
     "description": "East Bay Veterinary Clinic provides veterinary care for dogs in Oakland, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(510) 891-1514",
     "website": "https://www.eastbayvetclinic.com/site/home",
     "address": "568 Grand Avenue",
     "city": "Oakland",
@@ -305,7 +354,7 @@
       "Su 10:00-17:00; Mo 08:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 08:00-19:00; Fr 08:00-19:00; Sa 10:00-17:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -316,7 +365,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"I was very happy with the service at this clinic. You can tell everybody there just loves animals, from the way they would all tell me that my golden reminded them of one of their coworker's dog, to just the way they interacted with my pup.\"",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -326,7 +382,7 @@
     "is24_7": false,
     "priority": 11,
     "description": "Jack London Pet Hospital provides veterinary care for dogs in Oakland, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(510) 279-6774",
     "website": "https://www.jacklondonpethospital.com",
     "address": "Oakland, CA",
     "city": "Oakland",
@@ -358,7 +414,7 @@
     "is24_7": false,
     "priority": 12,
     "description": "VCA Bay Area Animal Hospital provides veterinary care for dogs in Oakland, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(112) 693-3456",
     "website": "https://vcahospitals.com/bay-area",
     "address": "4501 Shattuck Avenue",
     "city": "Oakland",
@@ -381,6 +437,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(113) 428-1396"
   }
 ]

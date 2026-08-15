@@ -38,7 +38,7 @@
     "is24_7": false,
     "priority": 2,
     "description": "Banfield Pet Hospital provides veterinary care for dogs in Thousand Oaks, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(805) 379-3114",
     "website": "https://www.banfield.com/locations/veterinarians/ca/thousand-oaks/tpo",
     "address": "Thousand Oaks, CA",
     "city": "Thousand Oaks",
@@ -61,7 +61,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(877) 656-7146"
   },
   {
     "slug": "caring-hands-veterinary-hospital",

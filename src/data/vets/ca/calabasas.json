@@ -17,7 +17,7 @@
       "Mo-Fr 08:00-16:00; Sa 08:00-15:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 4,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,32 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Pet Owner Testimonials & Reviews Read about the experiences of families who trusted us with their pet's vision care.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"I was referred to this clinic by my vet after my dog developed a growth on his eyelid. Veterinary eye clinic did an amazing job taking care of my pet and me. The front desk was friendly, communicative and would follow up before and after appointments. Dr. Sheahan is truly amazing at what she does. I felt like the clinic really cared for my pet and I can\u2019t thank them enough.\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"The VEC team was so kind and thorough with our fur baby. He had a freak accident that ultimately had to end up with his eye being removed, but they helped make what was an awful situation the best it could be. They were super understanding and considerate with all things and we are so grateful for the outcome of our little man's operation. Thank you to everyone at VEC for taking care of our Enzo!\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"My husky developed a mass on his eyelid that was rubbing and irritating his eye. Dr. Sheahan did surgery to remove the mass and removed an annoying skin tag on the lower eyelid at the same time. Dr. Sheahan and her team were wonderful! They took great care of my dog and he left acting like nothing happened. I'm so glad I brought him here! I highly recommend Veterinary Eye Clinic. Your pet will be in great hands.\"",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

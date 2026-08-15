@@ -2,7 +2,7 @@
   {
     "slug": "standiford-veterinary-center",
     "name": "Standiford Veterinary Center",
-    "careType": "General Practice",
+    "careType": "24/7 Emergency",
     "is24_7": true,
     "priority": 1,
     "description": "Standiford Veterinary Center provides veterinary care for dogs in Modesto, CA. Confirm hours and services directly with the clinic.",
@@ -17,7 +17,7 @@
       "24 Hours"
     ],
     "rating": 4.5,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -30,7 +30,39 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "After a terrible experience with another vet. We brought our puppy here and they did an excellent job. Doctor was thorough and helpful. Switching both of my fur babies to this practice immediately. They care for your animals as if they\u2019re their own.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I had the most amazing experience here. I called in the morning about the concern of my furbaby and they booked me right away. I was so happy to have her taken in and get checked. Staff was so friendly and professional.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I would Highly recommend Standiford Vet! Passionate and compassionate- the Veterinarians and staff enjoy great passion both for the job and their patients, which helps them provide the best veterinary care.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "This is the best vet around. They are organized and compassionate. I been going here for years when they were in the Old West center and on Prescott. Always been good, I would trust them with any animal. They saved my cat in the past and took care of my dogs allergic reaction just recently.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Both of my pets are patients of Standiford Veterinary Center. Everyone from the receptionist that checks us in to the assistants and the veterinarians are great! They have always been so pleasant and helpful! Thank you!",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "shortName": "Standiford"
   }
 ]

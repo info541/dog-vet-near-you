@@ -49,7 +49,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -60,8 +60,40 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "This was our pup\u2019s first time getting his teeth cleaned and the staff at Animal Hospital and Dental Clinic did a fantastic job! His teeth now look so white and clean! The staff were very friendly and communicative. Highly recommend!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Everything about our visit to the Animal Hospital inspired confidence. The staff was professional, reassuring and helpful. Most importantly they helped my cat. I have recommended them to everybody I know and will take my pets there for all their needs.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Very reasonably priced, you can tell they care about animals. I love the care that I received when I had to take my little Maltese and with a bladder infection. We love Dr Keller!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "This was our pup\u2019s first time getting his teeth cleaned and the staff at Animal Hospital and Dental Clinic did a fantastic job! His teeth now look so white and clean! The staff were very friendly and communicative. Highly recommend! Diana Z / google",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Everything about our visit to the Animal Hospital inspired confidence. The staff was professional, reassuring and helpful. Most importantly they helped my cat. I have recommended them to everybody I know and will take my pets there for all their needs. Anton K. / google",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(484) 694-2216"
   },
   {
     "slug": "bullard-marks-veterinary-medical-center",
@@ -81,7 +113,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -92,8 +124,40 @@
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:34:54Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "The staff is wonderful, kind and extremely knowledgeable. Dr. Brar is awesome. I was very nervous and worried about my pup. He gave such good care and explained everything to me as he examined and diagnosed. Very caring and thorough. Put me at ease and took excellent care of my pup. I highly recommend!!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Dr. Brarr took very good care of my dog Luna when she had a tummy ache. He was very thorough with her check up to make sure he did not miss anything. Quickly got her in for an appointment. I highly recommend for anyone looking for a vet that is going to take care of your pet like family!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I am very pleased with Bullard Marks Vet so far. I noticed an issue with my elderly cat and even though this wasn\u2019t \u201can emergency\u201d per se, I was surprised at how quickly they got us in. I was also very impressed that all the office staff and assistants were very knowledgeable, and they worked with the Dr. as an efficient team. The office is clean, comfortable and modern. The vet was no nonsense but accommodating to both me and my kitty.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Staff is extremely friendly and works with you as often as possible. Considerate when appropriate. I\u2019ve never seen them treat any animal (or their humans) with anything but care. The staff are quick and professional. And from my experience the prices aren\u2019t bad at all, considering the quality. I have four dogs of various sizes and ages. We have been there for emergencies and for vaccine updates. I won\u2019t take them anywhere else.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I took a ferral kitten in to be seen. He was about 2 \u2013 3 weeks old. His eyes were matted shut and he wasn\u2019t eating. The staff were very gentle with him. The doctor cleaned him up and gave clear instructions on what we needed to do to help him get better. 1 week later he is eating, running around, playful and his eyes are open. He is acting like a normal healthy kitten. Thank you. I know he would not have survived.",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:34:54Z",
+    "phoneSecondary": "(178) 461-6369"
   },
   {
     "slug": "care-veterinary-hospital",
@@ -113,7 +177,7 @@
       "Mo-Fr 08:00-17:00; Sa 08:00-15:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -124,7 +188,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "My review is for my interaction with the staff and the Vet for my initial visit with my 2 week old kitty. I called and they scheduled me within the... read more",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -285,7 +356,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:35:03Z"
+    "sourceUpdatedAt": "2026-08-15T14:35:03Z",
+    "phoneSecondary": "(519) 033-9621"
   },
   {
     "slug": "sierra-view-animal-hospital",
@@ -349,6 +421,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(559) 298-1900"
   }
 ]

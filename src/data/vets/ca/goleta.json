@@ -17,7 +17,7 @@
       "Mo-Fr 09:00-17:30; Sa,Su off"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "My 2yo lab tore her ACL and we took her to Goleta Airport Pet Hospital (on a friend's recommendation), and cannot be happier we did. The staff takes excellent care of your pet and are very friendly.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -49,7 +56,7 @@
       "Mo-Th 08:00-17:30; Fr 08:00-17:00; Sa-Su off"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -60,7 +67,38 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Found Our Forever Vet \"We are new to town and chose Goodland based upon the wonderful reviews. Dr. Kelly and staff were so kind and took their time to really understand our two rescue pups and helped us reach a plan to help them thrive.\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Consistently Excellent Pet Care \"All the staff were very kind, answered all of my questions, were good about explaining what was going on with our dog and all our options for treatment. We have always had a great experience at The Goodland Pet Hospital!\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Kind, Honest, and Professional Care \"We love the Goodland per house because their staff is very professional but mostly very kind to their patients \ud83d\ude00. They are honest and very reliable.\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Exceptional Care from Emergency to Recovery \"We love The Goodland pet hospital. We started just as an emergency visit for our lovely dog Bob after he got a foxtail in his ears and couldn\u2019t get it out. Dr. Caitlin Kelly rocked!! Took him in as soon as they could and take care of Bob.\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Compassionate and Thorough Care for Our Kitten \"My husband and I took our kitten Brix to Dr. Kelly and the Goodland team for an initial visit and couldn\u2019t be happier. Dr. Kelly was gentle, kind and informative. She gave us plenty of time to address all of our questions and did a great job explaining her treatment for our Kitten to us.\"",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -93,6 +131,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(113) 428-1396"
   }
 ]

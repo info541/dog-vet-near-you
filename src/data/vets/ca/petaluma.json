@@ -29,7 +29,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(707) 762-3734"
   },
   {
     "slug": "wash-sq-vet-clinic",
@@ -38,7 +39,7 @@
     "is24_7": false,
     "priority": 2,
     "description": "Wash. Sq. Vet Clinic provides veterinary care for dogs in Petaluma, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(707) 778-1011",
     "website": "https://wsvcpets.com/index.cfm",
     "address": "363 South McDowell Boulevard",
     "city": "Petaluma",
@@ -61,6 +62,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(707) 778-0246"
   }
 ]

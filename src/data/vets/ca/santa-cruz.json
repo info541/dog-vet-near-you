@@ -17,7 +17,7 @@
       "Mo-Fr 08:00-18:00; Sa-Su 08:00-17:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"EVERYONE here is compassionate and professional. My cat Bella really was comforted by the care she was given here at the Animal Hospital of Soquel. We will always come here! It is always a great experience here. Bella was very scared on the way there but once in the care room she was calmed by the compassion and professionalism of the staff. EVERYONE was gracious and #1 in my book. I will always come here and so will Bella! You all are top notch!\"",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

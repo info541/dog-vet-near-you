@@ -2,7 +2,7 @@
   {
     "slug": "atascadero-pet-hospital",
     "name": "Atascadero Pet Hospital",
-    "careType": "General Practice",
+    "careType": "24/7 Emergency",
     "is24_7": true,
     "priority": 1,
     "description": "24 Hour Emergency Care",
@@ -17,7 +17,7 @@
       "24/7"
     ],
     "rating": 4.5,
-    "reviewCount": 0,
+    "reviewCount": 4,
     "services": [
       "Dog Care",
       "General Practice",
@@ -30,8 +30,34 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c Everyone here was so great! Very helpful and made me feel at ease leaving my dog with them for his dental work. \u201d Heidi J. Google",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c They have the most caring and loving staff, with the pets and also with us the family. Thank you so much for the love. \u201d Sonia G. Facebook",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c We love taking our family members to this vet...everyone is wonderful and experienced..thank you! \u201d Julia A. Google",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c This business deserves more than 5 stars...We are so relieved they are here on the Central Coast and recommend them to everything. Kudos to this Team of amazing people. We appreciate you!! \u201d Jenny K. Yelp",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "shortName": "Atascadero"
   },
   {
     "slug": "las-tablas-animal-hospital",
@@ -40,7 +66,7 @@
     "is24_7": false,
     "priority": 2,
     "description": "Las Tablas Animal Hospital provides veterinary care for dogs in Atascadero, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(805) 369-2222",
     "website": "https://www.lastablasanimalhospital.com/",
     "address": "959 Las Tablas Road",
     "city": "Atascadero",

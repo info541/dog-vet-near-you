@@ -17,7 +17,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "Urgent Care",
@@ -28,8 +28,16 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "We at Central Coast Pet Hospital and Emergency value feedback from our clients. Here is just a small sample of the hundreds of happy and healthy pets that we have cared for since 1997.",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "shortName": "Central Coast"
   },
   {
     "slug": "vca-south-county-animal-hospital",
@@ -38,7 +46,7 @@
     "is24_7": false,
     "priority": 2,
     "description": "VCA South County Animal Hospital provides veterinary care for dogs in Arroyo Grande, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(112) 693-3456",
     "website": "https://vcahospitals.com/south-county",
     "address": "Cornwall Avenue",
     "city": "Arroyo Grande",
@@ -61,6 +69,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(113) 428-1396"
   }
 ]

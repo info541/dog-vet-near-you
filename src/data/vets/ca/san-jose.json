@@ -2,7 +2,7 @@
   {
     "slug": "medvet-silicon-valley",
     "name": "MedVet Silicon Valley",
-    "careType": "General Practice",
+    "careType": "24/7 Emergency",
     "is24_7": true,
     "priority": 1,
     "description": "MedVet Silicon Valley provides veterinary care for dogs in Morgan Hill, CA. Info sourced from OpenStreetMap public map data \u2014 call ahead to confirm hours and services.",
@@ -17,7 +17,7 @@
       "24/7"
     ],
     "rating": 4.5,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -30,8 +30,17 @@
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:38:35Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c Snow was admitted to MedVet for over half a week. The staff kept me updated daily! The doctors and vet techs were professional, friendly, and compassionate\u2014exactly what you want when your fur baby is in ICU. They love Snow there so much. I\u2019m grateful because I can still wake up knowing Snow is by my side.\u201d",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:38:35Z",
+    "phoneSecondary": "(178) 541-8322",
+    "shortName": "MedVet Silicon"
   },
   {
     "slug": "pinnacle-animal-hospital",
@@ -63,7 +72,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(113) 428-1396"
   },
   {
     "slug": "princeton-veterinary-clinic",
@@ -95,7 +105,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(408) 264-1530"
   },
   {
     "slug": "vetco-vaccination-clinic",
@@ -136,7 +147,7 @@
     "is24_7": false,
     "priority": 5,
     "description": "ARCHVET Animal Hosptial provides veterinary care for dogs in San Jose, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(669) 230-5034",
     "website": "https://archvet.com",
     "address": "6207 Santa Teresa Boulevard",
     "city": "San Jose",
@@ -168,7 +179,7 @@
     "is24_7": false,
     "priority": 6,
     "description": "ArchVet Animal Hospital provides veterinary care for dogs in San Jose, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(669) 230-5034",
     "website": "https://archvet.com",
     "address": "San Jose, CA",
     "city": "San Jose",
@@ -200,7 +211,7 @@
     "is24_7": false,
     "priority": 7,
     "description": "Evergreen Veterinary Clinic provides veterinary care for dogs in San Jose, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(517) 982-1482",
     "website": "https://www.evergreenvetclinic.com",
     "address": "1611 East Capitol Expressway",
     "city": "San Jose",
@@ -211,7 +222,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -222,8 +233,16 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "We at Evergreen Vet Clinic have been dedicated to providing our care to the San Jose, CA community since 1981, and we strive to treat your pets with the same care and compassion as if they were our own.",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(176) 139-7049"
   },
   {
     "slug": "san-jose-animal-hospital",
@@ -264,7 +283,7 @@
     "is24_7": false,
     "priority": 9,
     "description": "Wildwood Veterinary Hospital provides veterinary care for dogs in San Jose, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(408) 265-8811",
     "website": "https://wildwoodvet.com",
     "address": "1115 Luchessi Drive",
     "city": "San Jose",
@@ -287,6 +306,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(650) 366-9453"
   }
 ]

@@ -17,7 +17,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 3,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,26 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c Thank you for caring for my dog. She's happy and doing great. She came back happy and ready to play with the kids. I love your doggie care and bring all my dogs here. Thanks again! \u201d",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c We were very pleased with the treatment of our dog Fritz at the Moreno Valley Animal Hospital. Dr. Brajdich was kind enough to call us after Fritz's surgery to let us know he was doing ok. We appreciated the call because he is an older dog and we were quite worried about him. Also, we want to thank his kind staff. \u201d",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c We are very thankful for your service you provided for Chichi when she needed a C-section because the puppy was stuck. Thank you for seeing her right away and saving her and her puppies. She has recovered very well. Thank you to all your staff for the hard work you gave her. \u201d",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

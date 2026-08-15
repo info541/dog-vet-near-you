@@ -6,7 +6,7 @@
     "is24_7": true,
     "priority": 1,
     "description": "All About Pets provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data \u2014 call ahead to confirm hours and services.",
-    "phone": "Call for number",
+    "phone": "(916) 722-0400",
     "website": "https://www.allaboutpetsch.com",
     "address": "6104 San Juan Avenue",
     "city": "Citrus Heights",
@@ -32,6 +32,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:36:58Z"
+    "sourceUpdatedAt": "2026-08-15T14:36:58Z",
+    "shortName": "All About"
   }
 ]

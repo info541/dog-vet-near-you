@@ -6,7 +6,7 @@
     "is24_7": false,
     "priority": 1,
     "description": "Redwood Animal Hospital provides veterinary care for dogs in Arcata, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(707) 839-9414",
     "website": "https://redwoodanimalmckinleyville.com",
     "address": "1585 School Road",
     "city": "Arcata",
@@ -29,6 +29,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(707) 672-6505"
   }
 ]

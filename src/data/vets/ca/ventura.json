@@ -29,7 +29,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(999) 999-9999"
   },
   {
     "slug": "hope-veterinary-oncology",
@@ -49,7 +50,7 @@
       "Mo - Th 7:30am - 5:30pm"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 2,
     "services": [
       "Dog Care",
       "General Practice",
@@ -60,7 +61,20 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201cThe level of professionalism from the entire staff was unmatched. From the front desk to the techs to the oncologist herself, every single person treated us with empathy, clarity, and respect. You somehow managed to strike the perfect balance\u2014compassionate without being patronizing, honest without being cold, informative without being overwhelming. What really stood out was the way everyone acknowledged how deeply we love our dog. Nobody made us feel silly for wanting to understand every detail and everyone treated our pup like a family member and us like teammates in his care. Simply perfect",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201cYour service was superb. Everyone was best of the best from the doctor to the tech to the receptionist.\"",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]
