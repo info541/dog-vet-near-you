@@ -17,7 +17,7 @@
       "Mo-Fr 08:00-17:00; Sa-Su off"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 3,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,26 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Dr. Kureshi treated Gin, my 5 year old Cocker Spaniel that has had untreatable ear infections since I got her at 10 months of age. Since the procedure, she has been infection free. I seriously thought that she would be living with ear infections for the rest of her life. Thank you Dr. Kureshi and team!!!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Dr. Kureshi has looked after our pet Jesse for over 16 years. Through normal checkup to emergency surgery he has always been there for us. Jesse passed away last night peacefully at home, but the effect Dr. Kureshi and the staff at Cupertino Animal Hospital have had on our time with Jesse has been profound and greatly appreciated.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "My parents referred me to the Cupertino Animal Hospital, as they have had many positive experiences with our dogs there over the years. I brought my rabbit in for an exam and the staff was very sweet and gentle with him. Dr. Kureshi was very thorough and provided me with more information about rabbit care and nutrition in one visit than my previous vet did the entire time. He is VERY knowledgable about rabbits. It&#8217;s comforting to know that my bunny will always be in good hands!",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

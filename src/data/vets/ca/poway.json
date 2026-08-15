@@ -81,7 +81,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -92,7 +92,38 @@
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c During a very difficult time of having to say good bye to one of my fur babies...Dr. Aranda and his staff were exceptionally compassionate and caring. I truly felt for the first time in a very long time I have found a vet that cares about clients. Dr. Aranda's gentleness and kindness was so comforting during this time and helped me so much I cannot express my gratitude enough. If you have fur babies and live in the Poway area, you need to change your vet today! Caroline P. - Poway, CA",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c I ended up coming here for second opinion when my regular vet didn't seem to understand my concern about my dog not eating and vomiting. I have had lots of previous experience with vet hospitals, all of which ended up being sold to corporations. My experience with Sunshine was that they wanted to help me and my pet without fleecing us or putting my ailing dog through a lot of unnecessary procedures to make money. The doctor carefully went over the results with me and explained the options and why he wasn't recommending invasive treatment. Jodi M., Poway CA",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c \"Very warm Dr. and staff. Dr. Aranda will be our new go-to vet. My kitten was v sick with diarrhea and we could not wait another day for exam, testing and meds. She is getting better now\" Jill Rappaport Poway, California",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c Phenomenal experience with Sunshine from start to finish! I felt at ease knowing my pet was in great hands and would receive the best of care! To top it all off, the vet visit did NOT break the bank. Awesome staff, fantastic doctor, high quality care for my cat- all for an affordable price. Doesn't get better than that! Margaret N. - San Diego, CA",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\u201c \"I've had the honor of meeting, and having my dogs cared for by the most amazing veterinarian, and his staff. Dr Aranda is not only the most welcoming, his office is like stepping back in time when caring came first and fees were fair. I highly recommend Dr Aranda at Sunshine Animal Hospital.\" Kathy H., Poway CA",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:35:34Z"
   }
 ]

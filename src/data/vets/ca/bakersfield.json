@@ -17,7 +17,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 3,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,26 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "INTRODUCING! The Newton 5G Vet Cone Beam CT! Now Available!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\" These are the most amazing people. They saved our little girl and loved on her like we would have. I don\u2019t think I could ever thank you all enough for loving Roxy and giving us more time with her. The best!! \"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\" Dr. Davidson treats my dog like her own. The whole staff is so sweet, loving, and gentle. Their prices are also very fair. I\u2019m so glad I found them to help care for my fur baby. \"",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
@@ -49,7 +68,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -60,7 +79,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Client & Testimonials We at Coffee Road Animal Hospital have been dedicated to providing quality veterinary care to the Kern County community. We strive to treat your pets with the same care and compassion as if they were our own.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
@@ -93,7 +119,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z",
+    "phoneSecondary": "(661) 817-0323"
   },
   {
     "slug": "stine-veterinary-hospital",
@@ -113,7 +140,7 @@
       "Mon\u2013Fri 8:00 AM \u2013 5:00 PM"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -124,7 +151,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Front desk is super friendly, they made me feel at ease in leaving my cat Baby to get spayed. I never felt rushed when the technician explained the post-op care or from the ladies in the front desk.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
@@ -134,7 +168,7 @@
     "is24_7": false,
     "priority": 5,
     "description": "Stiern Veterinary Hospital provides veterinary care for dogs in Bakersfield, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(999) 999-9999",
     "website": "https://www.stiernveterinaryhospital.com",
     "address": "Bakersfield, CA",
     "city": "Bakersfield",
@@ -145,7 +179,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -156,7 +190,15 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "We value our clients\u2019 experience at Stiern Veterinary Hospital. Here\u2019s what some people are saying about us.",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z",
+    "phoneSecondary": "(661) 327-5571"
   }
 ]

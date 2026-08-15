@@ -29,7 +29,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(113) 428-1396"
   },
   {
     "slug": "parkway-pet-clinic",
@@ -38,7 +39,7 @@
     "is24_7": false,
     "priority": 2,
     "description": "Parkway Pet Clinic provides veterinary care for dogs in Escondido, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(178) 654-6534",
     "website": "https://vetsource.com/",
     "address": "855 East Valley Parkway",
     "city": "Escondido",
@@ -61,6 +62,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(176) 919-9238"
   }
 ]

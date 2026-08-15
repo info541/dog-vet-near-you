@@ -29,7 +29,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(888) 649-2716"
   },
   {
     "slug": "diablo-valley-animal-hospital",
@@ -61,7 +62,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(510) 460-9800"
   },
   {
     "slug": "hk-animal-hospital",
@@ -93,7 +95,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(368) 323-6332"
   },
   {
     "slug": "tassajara-veterinary-clinic",
@@ -134,7 +137,7 @@
     "is24_7": false,
     "priority": 5,
     "description": "Oak Tree Animal Hospital provides veterinary care for dogs in Danville, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(925) 837-1632",
     "website": "https://www.oaktreevet.com/",
     "address": "579 San Ramon Valley Boulevard",
     "city": "Danville",
@@ -145,7 +148,7 @@
       "Mo-Fr 08:30-20:00; Sa 09:00-20:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 2,
     "services": [
       "Dog Care",
       "General Practice",
@@ -156,7 +159,20 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Some of the MOST compassionate and caring people around. The staff here does everything possible to make their customers and patients feel at ease, along with providing the highest quality care! My Granddogs (Layla and my step-granddog, Kloe) received the best possible care, and I highly recommend Oak Tree to others. I have come to learn that in addition to their incredible professionalism, they love my pets nearly as much as I do! They rock! ...",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "You can not find a hospital like Oak Tree Animal Hospital that has compassion for every pet and every client that walks through their door. Their staff does things that no other hospital staff does. They come in on their day off to help clients and the doctor\u2019s come in at night to care for patients. They answer their phones in the middle of the night for clients that have sick animals. I have been one of those clients who call at 1 AM because my pet was suffering and needed to find peace. They will fight to find the answer when no other vets could. Every patient gets 100%. The staff they have ",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

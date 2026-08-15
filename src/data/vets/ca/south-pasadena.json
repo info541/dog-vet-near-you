@@ -2,7 +2,7 @@
   {
     "slug": "tlc",
     "name": "TLC",
-    "careType": "General Practice",
+    "careType": "24/7 Emergency",
     "is24_7": true,
     "priority": 1,
     "description": "TLC provides veterinary care for dogs in South Pasadena, CA. Confirm hours and services directly with the clinic.",
@@ -31,6 +31,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "shortName": "TLC"
   }
 ]

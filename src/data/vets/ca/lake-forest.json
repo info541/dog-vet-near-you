@@ -29,7 +29,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(877) 656-7146"
   },
   {
     "slug": "bliss-animal-hospital",
@@ -49,7 +50,7 @@
       "Mo-Fr 09:00-17:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -60,7 +61,38 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Compassionate, friendly, professional, and knowledgeable staff. I hope we found our new vet for our fur babies!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "My dog got great care and we didn\u2019t feel oversold a bunch of tests and other problems that needed to be solved for.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Very knowledgeable & friendly staff across the board! We appreciate the next day follow-up phone call to check on how our pet was doing. Easy and fast scheduling and check -out. Well ran veterinary hospital, we will return when needed.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "You couldn't find any better care, highly recommend them.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Amazing Vet and staff. Have been with Dr Sam since he first started and they have card for our dogs for over 15 years. Their love and compassion for animals are by far the best. The facilities are amazing and have almost everything on-site, including Xray and surgerical area.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

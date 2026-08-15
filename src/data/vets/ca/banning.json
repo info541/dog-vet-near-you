@@ -17,7 +17,7 @@
       "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "This is the best veterinary hospital! They really care about your pets. Dr. Ryan was great with my dog during my last visit. Banning Vet has been my dog's vet for years. I don't mind the drive from Wildomar to Banning to take them here. I know that they will do their best to keep my dogs healthy.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

@@ -17,7 +17,7 @@
       "Mo-Fr 07:30-17:30"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 3,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,26 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "The Mendocino Animal Hospital staff are the most amazing group of people. The receptionists, doctors, nurses, and vet techs have the biggest hearts. They truly care about what is best for pets and their owners.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Mendocino Animal Hospital has always been there for me and my guys. They truly are caring. They recently went above and beyond for me and my little guy. They were there to help inform me while making a very difficult decision.\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Incredibly supportive and loving doctors, nurses and staff! The family at Mendocino Animal Hospital truly love their fur-patients. They go out of their way to make sure your pets are well taken care of. I highly recommend this vet if you want quality support and care for your pet!",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

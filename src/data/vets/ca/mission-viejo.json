@@ -17,7 +17,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,38 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "This place actually gets a 4 for the vet services and the vet himself. Fabulous with animals and really cutting edge information. Gets on the floor with your dog for exam\u2013couldn\u2019t be a better vet!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "We love Dr. Bahou. He\u2019s an excellent veterinarian and he loves our pets. I always know they\u2019re getting the best care here at a fair price.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Great! Dr Bahou is an amazing vet and you can tell he truly cares about animals. He made my skittish dog feel very comfortable when examining her. All the other staff are great too!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I love Dr. B. He is very good with my dog. He sits on the floor with her and gets on the same level. He helped so much with her allergies. She also had a dental cleaning and some spots removed. They care a lot about their patients. They disclose pricing up front prior to you booking any surgeries or filling medication. I really appreciate that as there are no surprises.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "I\u2019ve been bringing all my animals to Dr Bahou for 15 years now. I trust him and wont go elsewhere! He\u2019s been very helpful and caring and doesnt perform unnecessary tests. He works the best with me on cost, since I have many animals and my income is not the greatest. I recommend him to many people!",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {

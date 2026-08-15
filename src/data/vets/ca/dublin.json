@@ -29,7 +29,9 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(202) 211-3000",
+    "shortName": "SAGE Centers"
   },
   {
     "slug": "dublin-veterinary-hospital",
@@ -93,7 +95,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(815) 780-6396"
   },
   {
     "slug": "ironhorse-vetcare",
@@ -113,7 +116,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -124,8 +127,40 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"Everyone at Ironhorse was professional and willing to answer my many questions... Thank you so much for her outstanding care.\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"We love IronHorse Vet Care! Not only do they provide A+ veterinary care, they are also very generous and active in our community and help out where they can.\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"When it comes to getting top notch care, Ironhorse Vet is the place to call. They are my second family. Always calm, supportive and welcoming.\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"I have never been treated with such kindness and patience..Highly recommend and thank you again!\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"From the moment I called, the staff were friendly, professional and caring. Everything ran smoothly and I appreciated all of the calls from the Doctor and staff.\"",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(925) 556-1299"
   },
   {
     "slug": "parkway-veterinary-hospital",
@@ -157,6 +192,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(999) 999-9999"
   }
 ]

@@ -6,7 +6,7 @@
     "is24_7": false,
     "priority": 1,
     "description": "Felton Veterinary provides veterinary care for dogs in Scotts Valley, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(831) 335-3466",
     "website": "https://www.feltonveterinaryhospital.com",
     "address": "5996 Highway 9",
     "city": "Scotts Valley",
@@ -17,7 +17,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Ira",
+        "rating": 5,
+        "text": "Dr. Atton and his staff are OUTSTANDING! We have been taking our chocolate lab Molly and our yellow lab Jake to see Dr. Atton quite frequently for various reasons. He is extremely professional, knowledgable, and caring. Every staff member greets our fur babies and us warmly and attentively. We are so lucky we found them.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

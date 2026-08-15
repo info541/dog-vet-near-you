@@ -17,7 +17,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "WHAT OUR CLIENTS SAY Have brought all 3 of my dogs here. They are very caring folks but are also direct on treatment options. Note: they are not the budget option but in my experience, you get what you pay for, and I've always been taken care of.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
@@ -70,7 +77,7 @@
     "is24_7": false,
     "priority": 3,
     "description": "Murphy Avenue Pet Clinic provides veterinary care for dogs in Sunnyvale, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(408) 733-7387",
     "website": "https://www.murphypethospital.com/",
     "address": "101 East Hendy Avenue",
     "city": "Sunnyvale",
@@ -102,7 +109,7 @@
     "is24_7": false,
     "priority": 4,
     "description": "Sunnyvale Veterinary Clinic provides veterinary care for dogs in Sunnyvale, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(408) 736-8296",
     "website": "https://sunnyvalevet.com/index.cfm",
     "address": "Sunnyvale, CA",
     "city": "Sunnyvale",

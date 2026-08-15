@@ -17,7 +17,7 @@
       "Mo-Fr 08:00-18:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 4,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,33 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"My past three visits have been amazing, they took initiative and narrowed down a couple issues within the first day. They are extremely accommodating and knowledgeable, even the vet techs. I really just like how they handled my cat, gave me a well-detailed analysis at the end of my appointments and the overall vibe of the place. It's quiet with less patients than a normal vet, so it's perfect for high-anxiety kitties. This place will be my forever vet in Davis!\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"Dr. Cole & Company really go out of their way to explain the options. The visits were very reasonable in cost. The setting is ideal with plenty of parking, a large grocery store, a gas station, and several restaurants and coffee shops in the shopping center. It's also very close to the highway. This staff deserves the support of the community & beyond.\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"Honestly - this was the best vet visit I've had. The staff were all wonderful, super helpful, and handled everything with care. The cat-only environment meant my cat wasn't scared and freaked out by all the barking dogs - and meant it was a really nice, calm, and easy visit!\"",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "\"The staff at Cat Tales did an amazing job making myself and my cat, Diesel, feel welcome at his checkup, and Diesel was much more comfortable there than he was at his previous veterinary office. Diesel is an older cat with a history of anxiety and distress at the vet, and he was still nervous but much less so, here. I appreciated the kindness, knowledge, and professionalism of the veterinarian and technicians. I will be bringing Diesel back for future care and am hopeful he will handle this environment (much less stressful than an all-animal veterinary office) well, even during more invasive ",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(530) 517-5800"
   }
 ]

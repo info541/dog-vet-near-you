@@ -31,7 +31,9 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(626) 564-0704",
+    "shortName": "AM- Pasadena"
   },
   {
     "slug": "pasadena-veterinary-urgent-care",
@@ -63,7 +65,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "shortName": "Pasadena"
   },
   {
     "slug": "eye-care-for-animals",
@@ -159,7 +162,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(113) 428-1396"
   },
   {
     "slug": "vca-foothill-veterinary-hospital",
@@ -191,6 +195,7 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(113) 428-1396"
   }
 ]

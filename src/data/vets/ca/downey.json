@@ -17,7 +17,7 @@
       "Mo,Tu,Th,Fr 09:00-19:00; Sa 09:00-18:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -28,7 +28,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "My bad luck in life is my dog's skin problems. This goes back to a dog I had 20 years ago that leads me to review this doctor, something I never do. He made his diagnosis and treatment plan so quickly that I doubted it at first, but I realized he had quite a bit of experience under his belt (from the accreditations and diplomas in the hall and exam). So, I went with it including a severe diet change (after years with a top brand). I couldn't be more impressed now, a month later. Honey's skin is ...",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

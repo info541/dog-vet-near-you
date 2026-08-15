@@ -12,6 +12,21 @@ USA dog health & veterinary directory — city pages with 24/7 emergency first.
 | `/ca/[city]/[slug]` | Clinic profile |
 | `/santa-barbara` | Redirects → `/ca/santa-barbara` |
 
+## Santa Barbara standard
+
+`/ca/santa-barbara` is the reference experience for every live city:
+
+1. **Emergency / call strip** at the top with clickable clinic phones
+2. **Clinic cards** with care type, hours, phone CTA, and ratings when available
+3. **Clinic detail pages** with contact, hours, services, highlights, and a **Reviews** section
+
+Bulk cities use the same UI. Data is enriched toward that standard via:
+
+```bash
+npm run enrich:websites   # phones + site testimonials
+npm run enrich:reviews -- --all   # Google ratings/reviews (needs GOOGLE_PLACES_API_KEY)
+```
+
 ## Data model
 
 1. **City registry** — `src/data/cities/california.json`

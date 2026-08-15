@@ -3,6 +3,13 @@ import type { VetListing } from "@/data/types";
 import { StarRating } from "@/components/StarRating";
 import { careBadgeClass, telHref } from "@/lib/vets";
 
+function hasCallablePhone(phone: string | undefined): boolean {
+  const value = (phone || "").trim();
+  if (!value) return false;
+  if (value.toLowerCase() === "call for number") return false;
+  return /\d{3}/.test(value);
+}
+
 export function VetCard({
   vet,
   href,
@@ -11,6 +18,11 @@ export function VetCard({
   href: string;
 }) {
   const showRating = vet.rating > 0 && vet.reviewCount > 0;
+  const callable = hasCallablePhone(vet.phone);
+  const blurb =
+    vet.description && !/confirm hours and services/i.test(vet.description)
+      ? vet.description
+      : vet.highlights?.[0] || null;
 
   return (
     <article className="vet-card">
@@ -40,10 +52,16 @@ export function VetCard({
         <p className="vet-card-hood">{vet.neighborhood}</p>
       ) : null}
 
+      {blurb ? <p className="vet-card-desc">{blurb}</p> : null}
+
       <ul className="vet-card-meta">
         <li>
           <span className="meta-label">Phone</span>
-          <a href={telHref(vet.phone)}>{vet.phone}</a>
+          {callable ? (
+            <a href={telHref(vet.phone)}>{vet.phone}</a>
+          ) : (
+            <span>Call for number</span>
+          )}
         </li>
         <li>
           <span className="meta-label">Hours</span>
@@ -59,13 +77,13 @@ export function VetCard({
       </ul>
 
       <div className="vet-card-actions">
-        {vet.phone && vet.phone !== "Call for number" ? (
+        {callable ? (
           <a className="btn btn-primary" href={telHref(vet.phone)}>
-            Call
+            Call {vet.phone}
           </a>
         ) : null}
         <Link className="btn btn-ghost" href={href}>
-          Details
+          Details & reviews
         </Link>
       </div>
     </article>

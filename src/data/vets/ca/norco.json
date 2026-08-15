@@ -49,7 +49,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -60,7 +60,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Testimonials Provides friendly, informative, and reasonably priced care for my pets! Bring in two and you will get a discount on the second animals visit! They make sure you understand everything they are doing and really do care for your pet. Will continue going here for all my veterinary needs, highly recommend!",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

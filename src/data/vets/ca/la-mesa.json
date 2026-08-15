@@ -29,7 +29,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(362) 683-3533"
   },
   {
     "slug": "pet-hospital-of-la-mesa",
@@ -93,7 +94,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(113) 428-1396"
   },
   {
     "slug": "rancho-village-veterinary-hospital",
@@ -102,7 +104,7 @@
     "is24_7": false,
     "priority": 4,
     "description": "Rancho Village Veterinary Hospital provides veterinary care for dogs in La Mesa, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(619) 670-6278",
     "website": "https://www.ranchovillagevet.com/site/home",
     "address": "3647 Avocado Boulevard",
     "city": "La Mesa",
@@ -113,7 +115,7 @@
       "Call for hours"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 1,
     "services": [
       "Dog Care",
       "General Practice",
@@ -124,7 +126,14 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Rancho Village Vet is the best vet I've worked with! After 5 years in dog rescue, that's saying a lot. They are responsive, respectful, kind & always have the best interest of the dog at heart. Dr. Bowman does a great job explaining things that need to be done so you're not left feeling confused about a test or a procedure for your beloved animal.",
+        "source": "Clinic website"
+      }
+    ],
     "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

@@ -29,7 +29,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(113) 428-1396"
   },
   {
     "slug": "animal-rescue-center",
@@ -61,7 +62,8 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(178) 680-6187"
   },
   {
     "slug": "eagle-rock-pet-care",
@@ -81,7 +83,7 @@
       "Mo-Fr 09:00-18:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -92,8 +94,40 @@
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:33:02Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Wellness Care The routine exams and consultations check each of the body\u2019s systems and other vital signs for any symptoms of a larger issue, and further treatment can be scheduled if necessary.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Vaccinations We offer vaccines to protect your pet from harmful illnesses and diseases. Our services include \u201ccore\u201d vaccines, or those recommended for all animals, in addition to \u201cnon-core\u201d vaccines, or vaccines unique to your pet\u2019s needs.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Dental Care Cavities and other dental problems can be painful for your pets just like they are for you and can lead to other health problems. We offer teeth cleaning services to promote healthy gums and teeth for your pet.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Surgery Our trained vets in Los Angeles provide the utmost care and attention to each animal. We offer the full spectrum of surgical treatments for dogs and cats, ranging from simple and routine to complex procedures.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "In-House Diagnostics Pets cannot verbalize their pain or other health problems, so X-rays and other diagnostics can be helpful in providing a clear image of your pet\u2019s internal structures to better identify and treat a variety of injuries or diseases.",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:33:02Z",
+    "phoneSecondary": "(832) 263-3774"
   },
   {
     "slug": "modern-animal",
@@ -177,7 +211,7 @@
       "Mo-Fr 09:00-18:00"
     ],
     "rating": 4.2,
-    "reviewCount": 0,
+    "reviewCount": 5,
     "services": [
       "Dog Care",
       "General Practice",
@@ -188,8 +222,40 @@
       "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+    "reviews": [
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Reviews What Melrose says. Real reviews from pet parents who have trusted us with their family. EXCELLENT",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "Dr. Ezra J. Ameis and the staff at Paw Priority are amazing. Finding a vet that you can trust is tough -especially these days where you're a sales target from the moment you walk in the door. We brought our puppy chihuahua to Dr. Ameis yesterday and couldn't have had a better experience. The entire staff is amazing, friendly, helpful and honest. We're excited to have found our vet and highly recommend Paw Priority!! THANK YOU!!",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "One of the rare independent vets still around offering amazing care, affordable pricing and great service. Highly recommend.",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "If you\u2019re looking for an amazing vet, Paw Priority is absolutely the place to go. You can genuinely tell how much they care about every pet that walks through their doors. Dr. Ameis is incredibly kind, thoughtful, and knowledgeable, and he takes the time to make you feel informed and supported. Their staff is just as wonderful. Rebecca and Jose are fantastic technicians who go above and beyond. They helped our dog Jackson recover from a pretty serious skin irritation and infection that led to hospitalization and a lot of medications. We felt supported and cared for every step of the way. We\u2019re",
+        "source": "Clinic website"
+      },
+      {
+        "author": "Pet parent",
+        "rating": 5,
+        "text": "My cat, Blossom, had an unexpected medical emergency last night, and after calling Paw Priority, they were immediately able to accommodate her. I brought her in right before closing time, and they still treated her as a top priority (no pun intended.) They provided prompt, loving care & were able to get her all fixed up (despite her misdirected spiciness with Dr. Ameis.) They did not push for anything unnecessary and gave helpful insights into what treatments were and were not necessary, providing full transparency on cost ahead of treatment. I couldn\u2019t recommend Paw Priority enough!",
+        "source": "Clinic website"
+      }
+    ],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z",
+    "phoneSecondary": "(323) 850-5252"
   },
   {
     "slug": "village-vet",
@@ -230,7 +296,7 @@
     "is24_7": false,
     "priority": 8,
     "description": "Mar Vista Animal Medical Center provides veterinary care for dogs in Los Angeles, CA. Confirm hours and services directly with the clinic.",
-    "phone": "Call for number",
+    "phone": "(310) 391-6741",
     "website": "https://marvistavet.com",
     "address": "3850 Grand View Boulevard",
     "city": "Los Angeles",
