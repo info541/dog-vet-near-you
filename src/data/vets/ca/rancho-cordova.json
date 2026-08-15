@@ -7,7 +7,7 @@
     "priority": 1,
     "description": "Offers on-site boarding, surgery, and pharmacy.",
     "phone": "(916) 944-3850",
-    "website": "https://bluecrosspethospital.net/",
+    "website": "https://bluecrosspethospital.net",
     "address": "7615 Fair Oaks Boulevard",
     "city": "Rancho Cordova",
     "state": "CA",
@@ -17,7 +17,7 @@
       "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00"
     ],
     "rating": 4.2,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "services": [
       "Dog Care",
       "General Practice",
@@ -25,56 +25,10 @@
     ],
     "highlights": [
       "Serving Rancho Cordova",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "Offers on-site boarding, surgery, and pharmacy.",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "blue-cross-pet-hospital-2",
-    "name": "Blue Cross Pet Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Offers on-site boarding, surgery, and pharmacy.",
-    "phone": "(916) 944-3850",
-    "website": "https://bluecrosspethospital.net/",
-    "address": "7615 Fair Oaks Boulevard",
-    "city": "Rancho Cordova",
-    "state": "CA",
-    "zip": "95608",
-    "hours": "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00",
-    "hoursDetail": [
-      "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 1,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Rancho Cordova",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "Offers on-site boarding, surgery, and pharmacy.",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

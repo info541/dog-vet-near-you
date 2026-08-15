@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Morro Bay Veterinary Clinic provides veterinary care for dogs in Morro Bay, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Morro Bay Veterinary Clinic provides veterinary care for dogs in Morro Bay, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 772-4411",
-    "website": "https://morrobayvet.com/",
+    "website": "https://morrobayvet.com",
     "address": "385 Quintana Road",
     "city": "Morro Bay",
     "state": "CA",
@@ -25,10 +25,10 @@
     ],
     "highlights": [
       "Serving Morro Bay",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

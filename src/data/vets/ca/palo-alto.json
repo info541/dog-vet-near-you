@@ -5,9 +5,9 @@
     "careType": "24/7 Emergency",
     "is24_7": true,
     "priority": 1,
-    "description": "Veterinary Emergency Group provides veterinary care for dogs in Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Veterinary Emergency Group provides veterinary care for dogs in Palo Alto, CA. Confirm hours and services directly with the clinic.",
     "phone": "(650) 999-3505",
-    "website": "https://www.veterinaryemergencygroup.com/locations/california/palo-alto",
+    "website": "https://www.veg.com/locations/california/palo-alto",
     "address": "3903 El Camino Real",
     "city": "Palo Alto",
     "state": "CA",
@@ -22,51 +22,15 @@
       "Dog Care",
       "24/7 Emergency",
       "24/7 Availability",
-      "Emergency Care",
       "Veterinary Medicine"
     ],
     "highlights": [
       "Emergency-oriented",
       "Serving Palo Alto",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.028Z"
-  },
-  {
-    "slug": "veterinary-emergency-group-2",
-    "name": "Veterinary Emergency Group",
-    "careType": "24/7 Emergency",
-    "is24_7": true,
-    "priority": 2,
-    "description": "Veterinary Emergency Group provides veterinary care for dogs in Palo Alto, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(650) 999-3505",
-    "website": "https://www.veterinaryemergencygroup.com/locations/california/palo-alto",
-    "address": "3903 El Camino Real",
-    "city": "Palo Alto",
-    "state": "CA",
-    "zip": "94306-3319",
-    "hours": "24/7",
-    "hoursDetail": [
-      "24/7"
-    ],
-    "rating": 4.5,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "24/7 Emergency",
-      "24/7 Availability",
-      "Emergency Care",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Emergency-oriented",
-      "Serving Palo Alto",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

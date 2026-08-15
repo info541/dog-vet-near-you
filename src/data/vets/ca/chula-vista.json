@@ -1,17 +1,17 @@
 [
   {
-    "slug": "colina-veterinary-hospital",
-    "name": "Colina Veterinary Hospital",
+    "slug": "eastlake-village-veterinary-clinic",
+    "name": "Eastlake Village Veterinary Clinic",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Colina Veterinary Hospital provides veterinary care for dogs in Chula Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(619) 286-3360",
-    "website": "https://www.colinaveterinary.com/",
-    "address": "5530 University Avenue",
+    "description": "Eastlake Village Veterinary Clinic provides veterinary care for dogs in Chula Vista, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(619) 482-9100",
+    "website": "https://eastlakepets.com",
+    "address": "Chula Vista, CA",
     "city": "Chula Vista",
     "state": "CA",
-    "zip": "92105",
+    "zip": "",
     "hours": "Call for hours",
     "hoursDetail": [
       "Call for hours"
@@ -25,121 +25,25 @@
     ],
     "highlights": [
       "Serving Chula Vista",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
-    "slug": "colina-veterinary-hospital-2",
-    "name": "Colina Veterinary Hospital",
+    "slug": "south-bay-veterinary-hospital",
+    "name": "South Bay Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "Colina Veterinary Hospital provides veterinary care for dogs in Chula Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(619) 286-3360",
-    "website": "https://www.colinaveterinary.com/",
-    "address": "5530 University Avenue",
-    "city": "Chula Vista",
-    "state": "CA",
-    "zip": "92105",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Chula Vista",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
-  },
-  {
-    "slug": "spring-valley-animal-medical-hospital",
-    "name": "Spring Valley Animal Medical Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 3,
-    "description": "Spring Valley Animal Medical Hospital provides veterinary care for dogs in Chula Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(619) 464-5125",
-    "website": "https://www.springvalleyvetclinic.com/",
-    "address": "704 Grand Avenue",
-    "city": "Chula Vista",
-    "state": "CA",
-    "zip": "91977",
-    "hours": "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off",
-    "hoursDetail": [
-      "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Chula Vista",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
-  },
-  {
-    "slug": "spring-valley-animal-medical-hospital-2",
-    "name": "Spring Valley Animal Medical Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 4,
-    "description": "Spring Valley Animal Medical Hospital provides veterinary care for dogs in Chula Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(619) 464-5125",
-    "website": "https://www.springvalleyvetclinic.com/",
-    "address": "704 Grand Avenue",
-    "city": "Chula Vista",
-    "state": "CA",
-    "zip": "91977",
-    "hours": "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off",
-    "hoursDetail": [
-      "Mo,Tu,Th,Fr,Sa 08:00-18:00; We,Su off"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Chula Vista",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
-  },
-  {
-    "slug": "banfield-pet-hospital",
-    "name": "Banfield Pet Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 5,
-    "description": "Banfield Pet Hospital provides veterinary care for dogs in Chula Vista, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "South Bay Veterinary Hospital provides veterinary care for dogs in Chula Vista, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "https://banfield.com",
-    "address": "El Cajon Boulevard",
+    "website": "https://www.southbayveterinaryhospital.com",
+    "address": "Chula Vista, CA",
     "city": "Chula Vista",
     "state": "CA",
-    "zip": "92115",
+    "zip": "",
     "hours": "Call for hours",
     "hoursDetail": [
       "Call for hours"
@@ -153,10 +57,10 @@
     ],
     "highlights": [
       "Serving Chula Vista",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   }
 ]

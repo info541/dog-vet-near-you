@@ -1,45 +1,13 @@
 [
   {
-    "slug": "mesa-veterinary-hospital",
-    "name": "Mesa Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 1,
-    "description": "Mesa Veterinary Hospital provides veterinary care for dogs in Santa Maria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(805) 929-5114",
-    "website": "https://mesavethospital.com/",
-    "address": "Santa Maria, CA",
-    "city": "Santa Maria",
-    "state": "CA",
-    "zip": "",
-    "hours": "Mo-Fr 08:30-17:30",
-    "hoursDetail": [
-      "Mo-Fr 08:30-17:30"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Santa Maria",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.019Z"
-  },
-  {
     "slug": "orcutt-veterinary-hospital",
     "name": "Orcutt Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 2,
-    "description": "Orcutt Veterinary Hospital provides veterinary care for dogs in Santa Maria, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 1,
+    "description": "Orcutt Veterinary Hospital provides veterinary care for dogs in Santa Maria, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "https://www.orcuttvet.com/",
+    "website": "https://www.orcuttvet.com",
     "address": "Santa Maria, CA",
     "city": "Santa Maria",
     "state": "CA",
@@ -57,10 +25,10 @@
     ],
     "highlights": [
       "Serving Santa Maria",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.018Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

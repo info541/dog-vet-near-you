@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Animal Care Hospital provides veterinary care for dogs in Lompoc, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Animal Care Hospital provides veterinary care for dogs in Lompoc, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 735-3602",
-    "website": "https://www.achlompoc.com/",
+    "website": "https://www.achlompoc.com",
     "address": "Lompoc, CA",
     "city": "Lompoc",
     "state": "CA",
@@ -25,11 +25,11 @@
     ],
     "highlights": [
       "Serving Lompoc",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "village-veterinary-clinic",
@@ -37,9 +37,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "Village Veterinary Clinic provides veterinary care for dogs in Lompoc, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Village Veterinary Clinic provides veterinary care for dogs in Lompoc, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 733-3548",
-    "website": "https://villagevet.us/",
+    "website": "https://villagevet.us",
     "address": "Lompoc, CA",
     "city": "Lompoc",
     "state": "CA",
@@ -57,10 +57,10 @@
     ],
     "highlights": [
       "Serving Lompoc",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.019Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

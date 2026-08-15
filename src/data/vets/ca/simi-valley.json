@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "American Veterinary Hospital provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "American Veterinary Hospital provides veterinary care for dogs in Simi Valley, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 581-9111",
-    "website": "https://americanvethospital.com",
+    "website": "https://avhsv.com/",
     "address": "2109 Tapo Street",
     "city": "Simi Valley",
     "state": "CA",
@@ -25,11 +25,11 @@
     ],
     "highlights": [
       "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "angeles-animal-hospital",
@@ -37,7 +37,7 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "Angeles Animal Hospital provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Angeles Animal Hospital provides veterinary care for dogs in Simi Valley, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 527-6877",
     "website": "https://www.angelesanimalhospital.com",
     "address": "1778 East Los Angeles Avenue",
@@ -57,11 +57,11 @@
     ],
     "highlights": [
       "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "dr-ron-s-animal-hospital",
@@ -69,7 +69,7 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 3,
-    "description": "Dr. Ron's Animal Hospital provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Dr. Ron's Animal Hospital provides veterinary care for dogs in Simi Valley, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 306-0633",
     "website": "https://drronsanimalhospitalsimivalley.com",
     "address": "1376 Erringer Road",
@@ -89,83 +89,19 @@
     ],
     "highlights": [
       "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
-  },
-  {
-    "slug": "mountain-view-animal-hospital",
-    "name": "Mountain View Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 4,
-    "description": "Mountain View Animal Hospital provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(805) 351-2350",
-    "website": "https://mvahsimi.com",
-    "address": "4288 East Los Angeles Avenue",
-    "city": "Simi Valley",
-    "state": "CA",
-    "zip": "93063",
-    "hours": "Mo-Th 08:00-18:00",
-    "hoursDetail": [
-      "Mo-Th 08:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "mountain-view-animal-hospital-2",
-    "name": "Mountain View Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 5,
-    "description": "Mountain View Animal Hospital provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(805) 351-2350",
-    "website": "https://mvahsimi.com",
-    "address": "4288 East Los Angeles Avenue",
-    "city": "Simi Valley",
-    "state": "CA",
-    "zip": "93063",
-    "hours": "Mo-Th 08:00-18:00",
-    "hoursDetail": [
-      "Mo-Th 08:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "park-animal-hospital",
     "name": "Park Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 6,
-    "description": "Park Animal Hospital provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 4,
+    "description": "Park Animal Hospital provides veterinary care for dogs in Simi Valley, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 526-0573",
     "website": "https://www.parkanimalhospitalsimi.com/site/home",
     "address": "2767 Tapo Street",
@@ -185,19 +121,19 @@
     ],
     "highlights": [
       "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "pet-pawzitive",
     "name": "Pet PAWZitive",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 7,
-    "description": "Pet PAWZitive provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 5,
+    "description": "Pet PAWZitive provides veterinary care for dogs in Simi Valley, CA. Confirm hours and services directly with the clinic.",
     "phone": "(844) 469-7299",
     "website": "https://petpawzitive.com",
     "address": "1925 Erringer Road",
@@ -217,19 +153,19 @@
     ],
     "highlights": [
       "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "rancho-sequoia-veterinary-hospital",
     "name": "Rancho Sequoia Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 8,
-    "description": "Rancho Sequoia Veterinary Hospital provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 6,
+    "description": "Rancho Sequoia Veterinary Hospital provides veterinary care for dogs in Simi Valley, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 522-7476",
     "website": "https://www.rsvet.com",
     "address": "3380 East Los Angeles Avenue",
@@ -249,19 +185,19 @@
     ],
     "highlights": [
       "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "simi-valley-animal-hospital",
     "name": "Simi Valley Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 9,
-    "description": "Simi Valley Animal Hospital provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 7,
+    "description": "Simi Valley Animal Hospital provides veterinary care for dogs in Simi Valley, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 527-0042",
     "website": "https://simivet.com",
     "address": "1317 East Los Angeles Avenue",
@@ -281,19 +217,19 @@
     ],
     "highlights": [
       "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "simi-valley-non-profit-spay-and-neuter-clinic",
     "name": "Simi Valley Non-Profit Spay and Neuter Clinic",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 10,
-    "description": "Simi Valley Non-Profit Spay and Neuter Clinic provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 8,
+    "description": "Simi Valley Non-Profit Spay and Neuter Clinic provides veterinary care for dogs in Simi Valley, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 584-3823",
     "website": "https://simivalleynonprofitspayandneuter.com",
     "address": "1659 East Los Angeles Avenue",
@@ -313,19 +249,19 @@
     ],
     "highlights": [
       "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "sycamore-veterinary-hospital",
     "name": "Sycamore Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 11,
-    "description": "Sycamore Veterinary Hospital provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 9,
+    "description": "Sycamore Veterinary Hospital provides veterinary care for dogs in Simi Valley, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 521-9091",
     "website": "https://www.sycamoreveterinaryhospital.com",
     "address": "2720 Cochran Street",
@@ -345,19 +281,19 @@
     ],
     "highlights": [
       "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "valley-veterinary-clinic",
     "name": "Valley Veterinary Clinic",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 12,
-    "description": "Valley Veterinary Clinic provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 10,
+    "description": "Valley Veterinary Clinic provides veterinary care for dogs in Simi Valley, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 526-0917",
     "website": "http://www.valleyveterinaryclinic.com",
     "address": "845 East Los Angeles Avenue",
@@ -377,74 +313,10 @@
     ],
     "highlights": [
       "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
-  },
-  {
-    "slug": "banfield-pet-hospital",
-    "name": "Banfield Pet Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 13,
-    "description": "Banfield Pet Hospital provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://www.banfield.com/locations/veterinarians/ca/thousand-oaks/tpo/",
-    "address": "Simi Valley, CA",
-    "city": "Simi Valley",
-    "state": "CA",
-    "zip": "",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
-  },
-  {
-    "slug": "caring-hands-veterinary-hospital",
-    "name": "Caring Hands Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 14,
-    "description": "Caring Hands Veterinary Hospital provides veterinary care for dogs in Simi Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://www.thrivepetcare.com/locations/california/thousand-oaks/caring-hands-veterinary-hospital",
-    "address": "1020 East Avenida de Los Arboles",
-    "city": "Simi Valley",
-    "state": "CA",
-    "zip": "91360",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Simi Valley",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Moreno Valley Animal Hospital provides veterinary care for dogs in Moreno Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Moreno Valley Animal Hospital provides veterinary care for dogs in Moreno Valley, CA. Confirm hours and services directly with the clinic.",
     "phone": "(951) 242-2111",
-    "website": "https://www.morenovalleyanimalhospital.com/",
+    "website": "https://www.morenovalleyanimalhospital.com",
     "address": "23051 Sunnymead Boulevard",
     "city": "Moreno Valley",
     "state": "CA",
@@ -25,42 +25,10 @@
     ],
     "highlights": [
       "Serving Moreno Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.030Z"
-  },
-  {
-    "slug": "moreno-valley-animal-hospital-2",
-    "name": "Moreno Valley Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Moreno Valley Animal Hospital provides veterinary care for dogs in Moreno Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(951) 242-2111",
-    "website": "https://www.morenovalleyanimalhospital.com/",
-    "address": "23051 Sunnymead Boulevard",
-    "city": "Moreno Valley",
-    "state": "CA",
-    "zip": "92553",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Moreno Valley",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

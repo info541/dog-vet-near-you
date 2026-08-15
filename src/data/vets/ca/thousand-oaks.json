@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Borchard Veterinary Clinic provides veterinary care for dogs in Thousand Oaks, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Borchard Veterinary Clinic provides veterinary care for dogs in Thousand Oaks, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 499-1977",
-    "website": "https://borchardvetclinic.com/",
+    "website": "https://borchardvetclinic.com",
     "address": "2223 Michael Drive",
     "city": "Thousand Oaks",
     "state": "CA",
@@ -25,11 +25,11 @@
     ],
     "highlights": [
       "Serving Thousand Oaks",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "banfield-pet-hospital",
@@ -37,9 +37,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "Banfield Pet Hospital provides veterinary care for dogs in Thousand Oaks, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Banfield Pet Hospital provides veterinary care for dogs in Thousand Oaks, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "https://www.banfield.com/locations/veterinarians/ca/thousand-oaks/tpo/",
+    "website": "https://www.banfield.com/locations/veterinarians/ca/thousand-oaks/tpo",
     "address": "Thousand Oaks, CA",
     "city": "Thousand Oaks",
     "state": "CA",
@@ -57,11 +57,11 @@
     ],
     "highlights": [
       "Serving Thousand Oaks",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.024Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "caring-hands-veterinary-hospital",
@@ -69,7 +69,7 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 3,
-    "description": "Caring Hands Veterinary Hospital provides veterinary care for dogs in Thousand Oaks, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Caring Hands Veterinary Hospital provides veterinary care for dogs in Thousand Oaks, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
     "website": "https://www.thrivepetcare.com/locations/california/thousand-oaks/caring-hands-veterinary-hospital",
     "address": "1020 East Avenida de Los Arboles",
@@ -89,10 +89,10 @@
     ],
     "highlights": [
       "Serving Thousand Oaks",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.024Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

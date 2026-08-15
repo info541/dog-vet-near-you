@@ -1,17 +1,49 @@
 [
   {
-    "slug": "banfield-pet-hospital",
-    "name": "Banfield Pet Hospital",
-    "careType": "General Practice",
+    "slug": "del-paso-veterinary-clinic",
+    "name": "Del Paso Veterinary Clinic",
+    "careType": "Urgent Care",
     "is24_7": false,
     "priority": 1,
-    "description": "Banfield Pet Hospital provides veterinary care for dogs in Sacramento, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(916) 721-0418",
-    "website": "https://www.banfield.com",
-    "address": "7917 Elverta Road",
+    "description": "Del Paso Veterinary Clinic provides veterinary care for dogs in Sacramento, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(916) 925-2107",
+    "website": "https://delpasovetclinic.com",
+    "address": "924 Del Paso Blvd",
     "city": "Sacramento",
     "state": "CA",
-    "zip": "95843",
+    "zip": "95815",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sacramento",
+      "Verified local listing"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+  },
+  {
+    "slug": "broadway-veterinary-hospital",
+    "name": "Broadway Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 2,
+    "description": "Broadway Veterinary Hospital provides veterinary care for dogs in Sacramento, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(916) 446-6154",
+    "website": "https://www.sacbroadwayvet.com",
+    "address": "1632 Broadway",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95818",
     "hours": "Call for hours",
     "hoursDetail": [
       "Call for hours"
@@ -25,106 +57,28 @@
     ],
     "highlights": [
       "Serving Sacramento",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
-    "slug": "blue-cross-pet-hospital",
-    "name": "Blue Cross Pet Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Offers on-site boarding, surgery, and pharmacy.",
-    "phone": "(916) 944-3850",
-    "website": "https://bluecrosspethospital.net/",
-    "address": "7615 Fair Oaks Boulevard",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95608",
-    "hours": "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00",
-    "hoursDetail": [
-      "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 1,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Sacramento",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "Offers on-site boarding, surgery, and pharmacy.",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
-  },
-  {
-    "slug": "blue-cross-pet-hospital-2",
-    "name": "Blue Cross Pet Hospital",
+    "slug": "sacramento-animal-hospital",
+    "name": "Sacramento Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 3,
-    "description": "Offers on-site boarding, surgery, and pharmacy.",
-    "phone": "(916) 944-3850",
-    "website": "https://bluecrosspethospital.net/",
-    "address": "7615 Fair Oaks Boulevard",
+    "description": "Sacramento Animal Hospital provides veterinary care for dogs in Sacramento, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(916) 451-7213",
+    "website": "https://www.mysacvet.com",
+    "address": "Sacramento, CA",
     "city": "Sacramento",
     "state": "CA",
-    "zip": "95608",
-    "hours": "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00",
+    "zip": "",
+    "hours": "Call for hours",
     "hoursDetail": [
-      "Mo,We,Fr 08:00-17:30; Tu,Th 08:00-19:00; Sa 08:00-15:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 1,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Sacramento",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "Offers on-site boarding, surgery, and pharmacy.",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
-  },
-  {
-    "slug": "hatton-veterinary-hospital",
-    "name": "Hatton Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 4,
-    "description": "Hatton Veterinary Hospital provides veterinary care for dogs in Sacramento, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(916) 689-1688",
-    "website": "http://www.hattonveterinaryhospital.com/",
-    "address": "7615 Sheldon Road",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95758",
-    "hours": "Mo-Fr 08:00-18:00, Sa 08:00-16:00",
-    "hoursDetail": [
-      "Mo-Fr 08:00-18:00, Sa 08:00-16:00"
+      "Call for hours"
     ],
     "rating": 4.2,
     "reviewCount": 0,
@@ -135,83 +89,19 @@
     ],
     "highlights": [
       "Serving Sacramento",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
-  },
-  {
-    "slug": "hatton-veterinary-hospital-2",
-    "name": "Hatton Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 5,
-    "description": "Hatton Veterinary Hospital provides veterinary care for dogs in Sacramento, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(916) 689-1688",
-    "website": "http://www.hattonveterinaryhospital.com/",
-    "address": "7615 Sheldon Road",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95758",
-    "hours": "Mo-Fr 08:00-18:00, Sa 08:00-16:00",
-    "hoursDetail": [
-      "Mo-Fr 08:00-18:00, Sa 08:00-16:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Sacramento",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
     "slug": "vca-sacramento-animal-medical-group",
     "name": "VCA Sacramento Animal Medical Group",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 6,
-    "description": "VCA Sacramento Animal Medical Group provides veterinary care for dogs in Sacramento, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(916) 331-7430",
-    "website": "https://vcahospitals.com/sacramento-animal-medical-group",
-    "address": "4990 Manzanita Avenue",
-    "city": "Sacramento",
-    "state": "CA",
-    "zip": "95608",
-    "hours": "Mo-Fr 07:00-18:00",
-    "hoursDetail": [
-      "Mo-Fr 07:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Sacramento",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
-  },
-  {
-    "slug": "vca-sacramento-animal-medical-group-2",
-    "name": "VCA Sacramento Animal Medical Group",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 7,
-    "description": "VCA Sacramento Animal Medical Group provides veterinary care for dogs in Sacramento, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 4,
+    "description": "VCA Sacramento Animal Medical Group provides veterinary care for dogs in Sacramento, CA. Confirm hours and services directly with the clinic.",
     "phone": "(916) 331-7430",
     "website": "https://vcahospitals.com/sacramento-animal-medical-group",
     "address": "Sacramento, CA",
@@ -231,28 +121,28 @@
     ],
     "highlights": [
       "Serving Sacramento",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
-    "slug": "vca-sacramento-animal-medical-group-3",
-    "name": "VCA Sacramento Animal Medical Group",
+    "slug": "east-sacramento-veterinary-center",
+    "name": "East Sacramento Veterinary Center",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 8,
-    "description": "VCA Sacramento Animal Medical Group provides veterinary care for dogs in Sacramento, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(916) 331-7430",
-    "website": "https://vcahospitals.com/sacramento-animal-medical-group",
-    "address": "4990 Manzanita Avenue",
+    "priority": 5,
+    "description": "East Sacramento Veterinary Center provides veterinary care for dogs in Sacramento, CA. Confirm hours and services directly with the clinic.",
+    "phone": "Call for number",
+    "website": "https://www.eastsacvet.com",
+    "address": "East Sacramento, CA",
     "city": "Sacramento",
     "state": "CA",
-    "zip": "95608",
-    "hours": "Mo-Fr 07:00-18:00",
+    "zip": "",
+    "hours": "Call for hours",
     "hoursDetail": [
-      "Mo-Fr 07:00-18:00"
+      "Call for hours"
     ],
     "rating": 4.2,
     "reviewCount": 0,
@@ -263,10 +153,42 @@
     ],
     "highlights": [
       "Serving Sacramento",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+  },
+  {
+    "slug": "veterinary-medical-center",
+    "name": "Veterinary Medical Center",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Veterinary Medical Center provides veterinary care for dogs in Sacramento, CA. Confirm hours and services directly with the clinic.",
+    "phone": "Call for number",
+    "website": "https://sacvethospital.com",
+    "address": "Sacramento, CA",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Sacramento",
+      "Verified local listing"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   }
 ]

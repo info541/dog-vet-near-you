@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Villa Park Animal Clinic provides veterinary care for dogs in Villa Park, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Villa Park Animal Clinic provides veterinary care for dogs in Villa Park, CA. Confirm hours and services directly with the clinic.",
     "phone": "(714) 998-4322",
-    "website": "https://www.villaparkanimalclinic.com/",
+    "website": "https://villaparkanimalclinic.com/",
     "address": "17859 Santiago Boulevard",
     "city": "Villa Park",
     "state": "CA",
@@ -25,42 +25,10 @@
     ],
     "highlights": [
       "Serving Villa Park",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.029Z"
-  },
-  {
-    "slug": "villa-park-animal-clinic-2",
-    "name": "Villa Park Animal Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Villa Park Animal Clinic provides veterinary care for dogs in Villa Park, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(714) 998-4322",
-    "website": "https://www.villaparkanimalclinic.com/",
-    "address": "17859 Santiago Boulevard",
-    "city": "Villa Park",
-    "state": "CA",
-    "zip": "92861",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Villa Park",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

@@ -396,7 +396,9 @@ function main() {
         best = c;
       }
     }
-    if (best && bestKm <= 30) {
+    // Only attach to the nearest city when the clinic is truly local.
+    // Do not backfill empty cities with clinics from tens/hundreds of km away.
+    if (best && bestKm <= 8) {
       matchedByNearest++;
       addToCity(best, props, coords);
     }
@@ -409,84 +411,35 @@ function main() {
   });
   console.log(`OSM veterinary features with websites: ${withSites.length}`);
 
-  // Second pass: expanding-radius backfill until every empty city gets clinics
-  const backfillRadii = [
-    args.nearbyKm,
-    20,
-    30,
-    45,
-    60,
-    90,
-    120,
-    180,
-  ];
-  let backfilled = 0;
-  for (const city of registry) {
-    if (city.slug === "santa-barbara") continue;
-    if ((buckets.get(city.slug) || []).length > 0) continue;
-    if (city.lat == null || city.lon == null) continue;
-
-    let filled = false;
-    for (const radius of backfillRadii) {
-      const nearby = [];
-      for (const item of withSites) {
-        if (!item.coords) continue;
-        const km = haversineKm(
-          item.coords.lat,
-          item.coords.lon,
-          city.lat,
-          city.lon,
-        );
-        if (km <= radius) nearby.push({ ...item, km });
-      }
-      nearby.sort((a, b) => a.km - b.km);
-      const take = nearby.slice(0, 40);
-      for (const item of take) {
-        addToCity(city, item.props, item.coords);
-      }
-      if (take.length) {
-        filled = true;
-        break;
-      }
-    }
-
-    // Last resort: nearest website clinics anywhere in California
-    if (!filled) {
-      const nearest = [];
-      for (const item of withSites) {
-        if (!item.coords) continue;
-        const km = haversineKm(
-          item.coords.lat,
-          item.coords.lon,
-          city.lat,
-          city.lon,
-        );
-        nearest.push({ ...item, km });
-      }
-      nearest.sort((a, b) => a.km - b.km);
-      for (const item of nearest.slice(0, 12)) {
-        addToCity(city, item.props, item.coords);
-      }
-      if (nearest.length) filled = true;
-    }
-
-    if (filled) backfilled++;
-  }
-
-  // Third pass: major cities get all clinics within radius (shared OK)
+  // Metro pass: for large cities, include additional website clinics whose
+  // coordinates fall inside a tight city radius AND whose addr:city either
+  // matches or is missing (never pull in a clinic that claims another city).
   let metroFilled = 0;
   for (const city of registry) {
     if (city.slug === "santa-barbara") continue;
     if (city.lat == null || city.lon == null) continue;
     if ((city.population || 0) < 80000) continue;
 
-    const radius = city.population >= 500000 ? 18 : city.population >= 200000 ? 14 : 12;
+    const radius =
+      city.population >= 500000 ? 12 : city.population >= 200000 ? 10 : 8;
     const existing = new Set((buckets.get(city.slug) || []).map((v) => v.name));
     let added = 0;
     const nearby = [];
     for (const item of withSites) {
       if (!item.coords) continue;
-      const km = haversineKm(item.coords.lat, item.coords.lon, city.lat, city.lon);
+      const addrCity =
+        item.props["addr:city"] ||
+        item.props["addr:town"] ||
+        item.props["addr:place"];
+      if (addrCity && normalizeCity(addrCity) !== normalizeCity(city.name)) {
+        continue;
+      }
+      const km = haversineKm(
+        item.coords.lat,
+        item.coords.lon,
+        city.lat,
+        city.lon,
+      );
       if (km <= radius) nearby.push({ ...item, km });
     }
     nearby.sort((a, b) => a.km - b.km);
@@ -499,6 +452,7 @@ function main() {
     }
     if (added) metroFilled++;
   }
+  const backfilled = 0;
 
   fs.mkdirSync(VETS_DIR, { recursive: true });
   let citiesLive = 0;
@@ -539,8 +493,8 @@ function main() {
 
   console.log("\nDone");
   console.log(`  Matched by addr:city: ${matchedByAddr}`);
-  console.log(`  Matched by nearest city: ${matchedByNearest}`);
-  console.log(`  Cities backfilled by proximity: ${backfilled}`);
+  console.log(`  Matched by nearest city (<=8km): ${matchedByNearest}`);
+  console.log(`  Cities backfilled by proximity: ${backfilled} (disabled)`);
   console.log(`  Major metros expanded: ${metroFilled}`);
   console.log(`  Cities marked live: ${citiesLive}`);
   console.log(`  Clinics written: ${clinicsWritten}`);

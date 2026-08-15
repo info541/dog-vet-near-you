@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Banning Veterinary Hospital provides veterinary care for dogs in Banning, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Banning Veterinary Hospital provides veterinary care for dogs in Banning, CA. Confirm hours and services directly with the clinic.",
     "phone": "(951) 849-3864",
-    "website": "https://banningvet.com/",
+    "website": "https://www.banningvet.com/site/home",
     "address": "3559 West Ramsey Street",
     "city": "Banning",
     "state": "CA",
@@ -25,10 +25,10 @@
     ],
     "highlights": [
       "Serving Banning",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.018Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

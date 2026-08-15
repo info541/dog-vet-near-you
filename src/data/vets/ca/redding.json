@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Dana Park Veterinary Hospital provides veterinary care for dogs in Redding, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Dana Park Veterinary Hospital provides veterinary care for dogs in Redding, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "https://www.danaparkvethospital.com/",
+    "website": "https://www.danaparkvethospital.com/site/home",
     "address": "Redding, CA",
     "city": "Redding",
     "state": "CA",
@@ -25,53 +25,21 @@
     ],
     "highlights": [
       "Serving Redding",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.030Z"
-  },
-  {
-    "slug": "dana-park-veterinary-hospital-2",
-    "name": "Dana Park Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Dana Park Veterinary Hospital provides veterinary care for dogs in Redding, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://www.danaparkvethospital.com/",
-    "address": "Redding, CA",
-    "city": "Redding",
-    "state": "CA",
-    "zip": "",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Redding",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "haven-humane-society",
     "name": "Haven Humane Society",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 3,
-    "description": "Haven Humane Society provides veterinary care for dogs in Redding, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 2,
+    "description": "Haven Humane Society provides veterinary care for dogs in Redding, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "https://www.havenhumane.org/",
+    "website": "https://www.havenhumane.org",
     "address": "7449 Eastside Road",
     "city": "Redding",
     "state": "CA",
@@ -89,42 +57,10 @@
     ],
     "highlights": [
       "Serving Redding",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "haven-humane-society-2",
-    "name": "Haven Humane Society",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 4,
-    "description": "Haven Humane Society provides veterinary care for dogs in Redding, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://www.havenhumane.org/",
-    "address": "7449 Eastside Road",
-    "city": "Redding",
-    "state": "CA",
-    "zip": "96007",
-    "hours": "Mo-Fr 07:30-13:00,14:00-17:00",
-    "hoursDetail": [
-      "Mo-Fr 07:30-13:00,14:00-17:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Redding",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

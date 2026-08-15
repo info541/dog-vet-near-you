@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Analy Veterinary Hospital provides veterinary care for dogs in Sebastopol, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Analy Veterinary Hospital provides veterinary care for dogs in Sebastopol, CA. Confirm hours and services directly with the clinic.",
     "phone": "(707) 823-7614",
-    "website": "https://www.analyvet.com/",
+    "website": "https://www.analyvet.com",
     "address": "900 Gravenstein Highway North",
     "city": "Sebastopol",
     "state": "CA",
@@ -25,53 +25,21 @@
     ],
     "highlights": [
       "Serving Sebastopol",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "analy-veterinary-hospital-2",
-    "name": "Analy Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Analy Veterinary Hospital provides veterinary care for dogs in Sebastopol, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(707) 823-7614",
-    "website": "https://www.analyvet.com/",
-    "address": "900 Gravenstein Highway North",
-    "city": "Sebastopol",
-    "state": "CA",
-    "zip": "",
-    "hours": "Mo-Fr 08:00-17:30",
-    "hoursDetail": [
-      "Mo-Fr 08:00-17:30"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Sebastopol",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "animal-kingdom-veterinary-hospital",
     "name": "Animal Kingdom Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 3,
-    "description": "Animal Kingdom Veterinary Hospital provides veterinary care for dogs in Sebastopol, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 2,
+    "description": "Animal Kingdom Veterinary Hospital provides veterinary care for dogs in Sebastopol, CA. Confirm hours and services directly with the clinic.",
     "phone": "(707) 823-5337",
-    "website": "https://www.animalkingdomvh.com/",
+    "website": "https://animalkingdomvh.com/",
     "address": "6742 Sebastopol Avenue",
     "city": "Sebastopol",
     "state": "CA",
@@ -89,42 +57,10 @@
     ],
     "highlights": [
       "Serving Sebastopol",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.030Z"
-  },
-  {
-    "slug": "animal-kingdom-veterinary-hospital-2",
-    "name": "Animal Kingdom Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 4,
-    "description": "Animal Kingdom Veterinary Hospital provides veterinary care for dogs in Sebastopol, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(707) 823-5337",
-    "website": "https://www.animalkingdomvh.com/",
-    "address": "6742 Sebastopol Avenue",
-    "city": "Sebastopol",
-    "state": "CA",
-    "zip": "",
-    "hours": "Mo-Fr 08:00-17:30",
-    "hoursDetail": [
-      "Mo-Fr 08:00-17:30"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Sebastopol",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

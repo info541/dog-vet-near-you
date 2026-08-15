@@ -1,75 +1,75 @@
 [
   {
+    "slug": "bixby-animal-clinic-and-urgent-care",
+    "name": "Bixby Animal Clinic & Urgent Care",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 1,
+    "description": "Bixby Animal Clinic & Urgent Care provides veterinary care for dogs in Long Beach, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(562) 426-4066",
+    "website": "https://www.bixbyanimal.com",
+    "address": "3938 Atlantic Ave",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90807",
+    "hours": "Mon\u2013Fri 8 AM \u2013 7 PM; Sat\u2013Sun 8 AM \u2013 6 PM",
+    "hoursDetail": [
+      "Mon\u2013Fri 8 AM \u2013 7 PM; Sat\u2013Sun 8 AM \u2013 6 PM"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Long Beach",
+      "Verified local listing"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+  },
+  {
+    "slug": "lbc-vets",
+    "name": "LBC Vets",
+    "careType": "Urgent Care",
+    "is24_7": false,
+    "priority": 2,
+    "description": "LBC Vets provides veterinary care for dogs in Long Beach, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(562) 579-4485",
+    "website": "https://lbcvets.com",
+    "address": "Long Beach, CA",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "Urgent Care",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Long Beach",
+      "Verified local listing"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
+  },
+  {
     "slug": "ambassador-long-beach-veterinary-hospital",
     "name": "Ambassador Long Beach Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 1,
-    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in Long Beach, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(562) 427-2889",
-    "website": "https://ambassadorvet.com",
-    "address": "2251 E Carson St",
-    "city": "Long Beach",
-    "state": "CA",
-    "zip": "90807",
-    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
-    "hoursDetail": [
-      "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Long Beach",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.029Z"
-  },
-  {
-    "slug": "ambassador-long-beach-veterinary-hospital-2",
-    "name": "Ambassador Long Beach Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in Long Beach, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(562) 427-2889",
-    "website": "https://ambassadorvet.com",
-    "address": "2281 E Carson St",
-    "city": "Long Beach",
-    "state": "CA",
-    "zip": "90807",
-    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
-    "hoursDetail": [
-      "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Long Beach",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.029Z"
-  },
-  {
-    "slug": "ambassador-long-beach-veterinary-hospital-3",
-    "name": "Ambassador Long Beach Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
     "priority": 3,
-    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in Long Beach, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in Long Beach, CA. Confirm hours and services directly with the clinic.",
     "phone": "(562) 427-2889",
     "website": "https://ambassadorvet.com",
     "address": "2251 E Carson St",
@@ -89,28 +89,28 @@
     ],
     "highlights": [
       "Serving Long Beach",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
-    "slug": "ambassador-long-beach-veterinary-hospital-4",
-    "name": "Ambassador Long Beach Veterinary Hospital",
+    "slug": "gentle-care-pet-clinic",
+    "name": "Gentle Care Pet Clinic",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 4,
-    "description": "Ambassador Long Beach Veterinary Hospital provides veterinary care for dogs in Long Beach, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(562) 427-2889",
-    "website": "https://ambassadorvet.com",
-    "address": "2281 E Carson St",
+    "description": "Gentle Care Pet Clinic provides veterinary care for dogs in Long Beach, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(562) 594-9955",
+    "website": "https://www.gentlecarepetclinic.com",
+    "address": "8175 E Wardlow Rd",
     "city": "Long Beach",
     "state": "CA",
-    "zip": "90807",
-    "hours": "Mo-Fr 07:00-19:00; Sa 08:00-17:00",
+    "zip": "",
+    "hours": "Mon\u2013Fri 9:00 AM \u2013 6:00 PM; Sat 9:00 AM \u2013 1:00 PM",
     "hoursDetail": [
-      "Mo-Fr 07:00-19:00; Sa 08:00-17:00"
+      "Mon\u2013Fri 9:00 AM \u2013 6:00 PM; Sat 9:00 AM \u2013 1:00 PM"
     ],
     "rating": 4.2,
     "reviewCount": 0,
@@ -121,51 +121,19 @@
     ],
     "highlights": [
       "Serving Long Beach",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
-  },
-  {
-    "slug": "california-veterinary-hospital",
-    "name": "California Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 5,
-    "description": "California Veterinary Hospital provides veterinary care for dogs in Long Beach, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(310) 323-6867",
-    "website": "https://www.californiavethospital.com/",
-    "address": "230 West Victoria Street",
-    "city": "Long Beach",
-    "state": "CA",
-    "zip": "90248",
-    "hours": "Mo-Fr 08:00-19:00, Sa 08:00-15:00",
-    "hoursDetail": [
-      "Mo-Fr 08:00-19:00, Sa 08:00-15:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Long Beach",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
     "slug": "promenade-veterinary-hospital",
     "name": "Promenade Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 6,
-    "description": "Promenade Veterinary Hospital provides veterinary care for dogs in Long Beach, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 5,
+    "description": "Promenade Veterinary Hospital provides veterinary care for dogs in Long Beach, CA. Confirm hours and services directly with the clinic.",
     "phone": "(562) 450-5893",
     "website": "https://www.promenadeveterinary.com",
     "address": "201 The Promenade North",
@@ -185,10 +153,42 @@
     ],
     "highlights": [
       "Serving Long Beach",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
+  },
+  {
+    "slug": "parkview-pet-hospital",
+    "name": "Parkview Pet Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
+    "priority": 6,
+    "description": "Parkview Pet Hospital provides veterinary care for dogs in Long Beach, CA. Confirm hours and services directly with the clinic.",
+    "phone": "Call for number",
+    "website": "https://parkviewpetvet.com",
+    "address": "Long Beach, CA",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "",
+    "hours": "Call for hours",
+    "hoursDetail": [
+      "Call for hours"
+    ],
+    "rating": 4.2,
+    "reviewCount": 0,
+    "services": [
+      "Dog Care",
+      "General Practice",
+      "Veterinary Medicine"
+    ],
+    "highlights": [
+      "Serving Long Beach",
+      "Verified local listing"
+    ],
+    "acceptsDogs": true,
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   }
 ]

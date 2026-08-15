@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": true,
     "priority": 1,
-    "description": "VEG ER for Pets provides veterinary care for dogs in Folsom, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "VEG ER for Pets provides veterinary care for dogs in Citrus Heights, CA. Info sourced from OpenStreetMap public map data \u2014 call ahead to confirm hours and services.",
     "phone": "(916) 238-6021",
-    "website": "https://veg.com/",
+    "website": "https://www.veg.com/",
     "address": "1860 Prairie City Road",
     "city": "Folsom",
     "state": "CA",
@@ -26,61 +26,22 @@
     ],
     "highlights": [
       "Emergency-oriented",
-      "Serving Folsom",
+      "Serving Citrus Heights",
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
-  },
-  {
-    "slug": "marqueen-pet-emergency-and-specialty",
-    "name": "MarQueen Pet Emergency & Specialty",
-    "careType": "Urgent Care",
-    "is24_7": false,
-    "priority": 2,
-    "description": "MarQueen is the largest independently owned emergency and specialty veterinary practice serving the greater Roseville, Folsom, Rocklin, El Dorado Hills, and Sacramento, CA region.",
-    "phone": "(916) 757-6600",
-    "website": "https://marqueenanimalclinic.com",
-    "address": "9205 Sierra College Blvd",
-    "city": "Folsom",
-    "state": "CA",
-    "zip": "95661",
-    "hours": "Mo-Su 08:00-24:00",
-    "hoursDetail": [
-      "Mo-Su 08:00-24:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 1,
-    "services": [
-      "Dog Care",
-      "Urgent Care",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Folsom",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "MarQueen is the largest independently owned emergency and specialty veterinary practice serving the greater Roseville, Folsom, Rocklin, El Dorado Hills, and Sacramento, CA region.",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.056Z"
+    "sourceUpdatedAt": "2026-08-15T14:36:59Z"
   },
   {
     "slug": "blue-ravine-animal-hospital",
     "name": "Blue Ravine Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 3,
-    "description": "Blue Ravine Animal Hospital provides veterinary care for dogs in Folsom, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 2,
+    "description": "Blue Ravine Animal Hospital provides veterinary care for dogs in Folsom, CA. Confirm hours and services directly with the clinic.",
     "phone": "(916) 984-0990",
-    "website": "https://www.blueravineanimalhospital.com/",
+    "website": "https://www.blueravineanimalhospital.com",
     "address": "1770 Prairie City Road",
     "city": "Folsom",
     "state": "CA",
@@ -98,19 +59,19 @@
     ],
     "highlights": [
       "Serving Folsom",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.018Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "crossroads-animal-hospital",
     "name": "Crossroads Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 4,
-    "description": "Crossroads Animal Hospital provides veterinary care for dogs in Folsom, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 3,
+    "description": "Crossroads Animal Hospital provides veterinary care for dogs in Folsom, CA. Confirm hours and services directly with the clinic.",
     "phone": "(916) 989-2190",
     "website": "https://www.crossroadspet.com",
     "address": "9500 Greenback Lane",
@@ -130,21 +91,21 @@
     ],
     "highlights": [
       "Serving Folsom",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "lakeside-pet-hospital",
     "name": "Lakeside Pet Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 5,
-    "description": "Lakeside Pet Hospital provides veterinary care for dogs in Folsom, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 4,
+    "description": "Lakeside Pet Hospital provides veterinary care for dogs in Folsom, CA. Confirm hours and services directly with the clinic.",
     "phone": "(916) 983-7387",
-    "website": "https://lakesidepethospitalfolsom.com/",
+    "website": "https://lakesidepethospitalfolsom.com",
     "address": "Blue Ravine Road",
     "city": "Folsom",
     "state": "CA",
@@ -162,10 +123,10 @@
     ],
     "highlights": [
       "Serving Folsom",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.023Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

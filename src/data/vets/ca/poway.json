@@ -1,43 +1,11 @@
 [
   {
-    "slug": "pe-asquitos-pet-clinic",
-    "name": "Peñasquitos Pet Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 1,
-    "description": "Peñasquitos Pet Clinic provides veterinary care for dogs in Poway, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(858) 360-7794",
-    "website": "https://www.pqpetclinic.com/",
-    "address": "Poway, CA",
-    "city": "Poway",
-    "state": "CA",
-    "zip": "",
-    "hours": "Mo-Fr 07:00-18:00",
-    "hoursDetail": [
-      "Mo-Fr 07:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Poway",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
-  },
-  {
     "slug": "petco",
     "name": "Petco",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 2,
-    "description": "Petco provides veterinary care for dogs in Poway, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 1,
+    "description": "Petco provides veterinary care for dogs in Poway, CA. Confirm hours and services directly with the clinic.",
     "phone": "(858) 762-8720",
     "website": "https://stores.petco.com/ca/poway/pet-supplies-poway-ca-4502.html",
     "address": "13375 Poway Road",
@@ -57,53 +25,21 @@
     ],
     "highlights": [
       "Serving Poway",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.030Z"
-  },
-  {
-    "slug": "petco-2",
-    "name": "Petco",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 3,
-    "description": "Petco provides veterinary care for dogs in Poway, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(858) 762-8720",
-    "website": "https://stores.petco.com/ca/poway/pet-supplies-poway-ca-4502.html",
-    "address": "13375 Poway Road",
-    "city": "Poway",
-    "state": "CA",
-    "zip": "92064",
-    "hours": "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00",
-    "hoursDetail": [
-      "Mo-We 09:00-20:00; Th 09:00-19:00; Fr-Sa 09:00-20:00; Su 10:00-19:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Poway",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "poway-animal-hospital",
     "name": "Poway Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 4,
-    "description": "Poway Animal Hospital provides veterinary care for dogs in Poway, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 2,
+    "description": "Poway Animal Hospital provides veterinary care for dogs in Brawley, CA. Info sourced from OpenStreetMap public map data \u2014 call ahead to confirm hours and services.",
     "phone": "(858) 748-3326",
-    "website": "https://www.powayah.com/",
+    "website": "https://www.powayah.com",
     "address": "12219 Poway Road",
     "city": "Poway",
     "state": "CA",
@@ -120,22 +56,22 @@
       "Veterinary Medicine"
     ],
     "highlights": [
-      "Serving Poway",
+      "Serving Brawley",
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.017Z"
+    "sourceUpdatedAt": "2026-08-15T14:35:23Z"
   },
   {
     "slug": "sunshine-animal-hospital",
     "name": "Sunshine Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 5,
-    "description": "Sunshine Animal Hospital provides veterinary care for dogs in Poway, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 3,
+    "description": "Sunshine Animal Hospital provides veterinary care for dogs in Brawley, CA. Info sourced from OpenStreetMap public map data \u2014 call ahead to confirm hours and services.",
     "phone": "(858) 326-2075",
-    "website": "https://mysunshinevet.com/",
+    "website": "https://mysunshinevet.com",
     "address": "13265 Midland Road",
     "city": "Poway",
     "state": "CA",
@@ -152,43 +88,11 @@
       "Veterinary Medicine"
     ],
     "highlights": [
-      "Serving Poway",
+      "Serving Brawley",
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
-  },
-  {
-    "slug": "companion-care-veterinary-hospital",
-    "name": "Companion Care Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 6,
-    "description": "Companion Care Veterinary Hospital provides veterinary care for dogs in Poway, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://companioncareveterinaryhospital.com/",
-    "address": "Poway, CA",
-    "city": "Poway",
-    "state": "CA",
-    "zip": "",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Poway",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.024Z"
+    "sourceUpdatedAt": "2026-08-15T14:35:34Z"
   }
 ]

@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Codornices Veterinary Clinic provides veterinary care for dogs in Albany, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Codornices Veterinary Clinic provides veterinary care for dogs in Albany, CA. Confirm hours and services directly with the clinic.",
     "phone": "(510) 524-3062",
-    "website": "https://codornicesveterinaryclinic.com/",
+    "website": "https://www.codornicesveterinaryclinic.com/",
     "address": "944",
     "city": "Albany",
     "state": "CA",
@@ -25,11 +25,11 @@
     ],
     "highlights": [
       "Serving Albany",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.022Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "kensington-veterinary-hospital",
@@ -37,7 +37,7 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "Kensington Veterinary Hospital provides veterinary care for dogs in Albany, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Kensington Veterinary Hospital provides veterinary care for dogs in Albany, CA. Confirm hours and services directly with the clinic.",
     "phone": "(510) 528-0797",
     "website": "https://www.thrivepetcare.com/locations/california/kensington/kensington-veterinary-hospital",
     "address": "Albany, CA",
@@ -57,42 +57,10 @@
     ],
     "highlights": [
       "Serving Albany",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.019Z"
-  },
-  {
-    "slug": "banfield-pet-hospital",
-    "name": "Banfield Pet Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 3,
-    "description": "Banfield Pet Hospital provides veterinary care for dogs in Albany, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://www.banfield.com/",
-    "address": "Albany, CA",
-    "city": "Albany",
-    "state": "CA",
-    "zip": "",
-    "hours": "Mo-Sa 08:00-19:00; Su 09:00-18:00",
-    "hoursDetail": [
-      "Mo-Sa 08:00-19:00; Su 09:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Albany",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.021Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

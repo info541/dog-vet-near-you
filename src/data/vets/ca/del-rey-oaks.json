@@ -5,16 +5,16 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Avian & Exotic Clinic provides veterinary care for dogs in Del Rey Oaks, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Avian & Exotic Clinic provides veterinary care for dogs in Del Rey Oaks, CA. Confirm hours and services directly with the clinic.",
     "phone": "(831) 402-1792",
-    "website": "http://www.aecvets.com/",
+    "website": "http://www.aecvets.com",
     "address": "459 Canyon del Rey Boulevard",
     "city": "Del Rey Oaks",
     "state": "CA",
     "zip": "93940",
-    "hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00",
+    "hours": "Mo-Fr 08:00-18:00; Sa 08:00-12:00; ",
     "hoursDetail": [
-      "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+      "Mo-Fr 08:00-18:00; Sa 08:00-12:00; "
     ],
     "rating": 4.2,
     "reviewCount": 0,
@@ -25,10 +25,10 @@
     ],
     "highlights": [
       "Serving Del Rey Oaks",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

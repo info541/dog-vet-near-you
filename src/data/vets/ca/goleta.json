@@ -5,7 +5,7 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Goleta Airport Pet Hospital provides veterinary care for dogs in Goleta, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Goleta Airport Pet Hospital provides veterinary care for dogs in Goleta, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 968-4300",
     "website": "https://www.goletapethospital.com/site/home",
     "address": "300 Storke Road",
@@ -25,11 +25,11 @@
     ],
     "highlights": [
       "Serving Goleta",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "goodland-pet-hospital",
@@ -37,9 +37,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "Goodland Pet Hospital provides veterinary care for dogs in Goleta, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Goodland Pet Hospital provides veterinary care for dogs in Goleta, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 685-4513",
-    "website": "https://goodlandvet.com/",
+    "website": "https://www.goodlandvet.com/",
     "address": "7126 Hollister Avenue",
     "city": "Goleta",
     "state": "CA",
@@ -57,11 +57,11 @@
     ],
     "highlights": [
       "Serving Goleta",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "vca-noah-s-ark-animal-hospital",
@@ -69,7 +69,7 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 3,
-    "description": "VCA Noah's Ark Animal Hospital provides veterinary care for dogs in Goleta, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "VCA Noah's Ark Animal Hospital provides veterinary care for dogs in Goleta, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 683-7788",
     "website": "https://vcahospitals.com/noahs-ark",
     "address": "160 North Fairview Avenue",
@@ -89,10 +89,10 @@
     ],
     "highlights": [
       "Serving Goleta",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

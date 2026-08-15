@@ -1,45 +1,13 @@
 [
   {
-    "slug": "oceana-pet-hospital",
-    "name": "Oceana Pet Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 1,
-    "description": "Oceana Pet Hospital provides veterinary care for dogs in Pacifica, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(650) 355-6600",
-    "website": "http://www.oceanapet.com/",
-    "address": "711 Oceana Boulevard",
-    "city": "Pacifica",
-    "state": "CA",
-    "zip": "94044",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Pacifica",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.019Z"
-  },
-  {
     "slug": "pacifica-pet-hospital",
     "name": "Pacifica Pet Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 2,
-    "description": "Pacifica Pet Hospital provides veterinary care for dogs in Pacifica, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 1,
+    "description": "Pacifica Pet Hospital provides veterinary care for dogs in Pacifica, CA. Confirm hours and services directly with the clinic.",
     "phone": "(650) 359-3685",
-    "website": "https://www.pacificapet.com/",
+    "website": "https://www.pacificapet.com",
     "address": "4300 Cabrillo Highway",
     "city": "Pacifica",
     "state": "CA",
@@ -57,10 +25,10 @@
     ],
     "highlights": [
       "Serving Pacifica",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.018Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

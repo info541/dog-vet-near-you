@@ -1,107 +1,11 @@
 [
   {
-    "slug": "rancho-bernardo-pet-hospital",
-    "name": "Rancho Bernardo Pet Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 1,
-    "description": "Rancho Bernardo Pet Hospital provides veterinary care for dogs in Escondido, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(858) 451-1700",
-    "website": "https://www.bernardovet.com",
-    "address": "16495 Bernardo Center Drive",
-    "city": "Escondido",
-    "state": "CA",
-    "zip": "92128",
-    "hours": "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su off",
-    "hoursDetail": [
-      "Mo-Fr 08:00-18:00; Sa 09:00-16:00; Su off"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Escondido",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
-  },
-  {
-    "slug": "valley-center-veterinary-clinic",
-    "name": "Valley Center Veterinary Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Valley Center Veterinary Clinic provides veterinary care for dogs in Escondido, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(760) 749-0560",
-    "website": "https://www.vcvets.com",
-    "address": "14219 Cool Valley Road",
-    "city": "Escondido",
-    "state": "CA",
-    "zip": "92082",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Escondido",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "valley-center-veterinary-clinic-2",
-    "name": "Valley Center Veterinary Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 3,
-    "description": "Valley Center Veterinary Clinic provides veterinary care for dogs in Escondido, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(760) 749-0560",
-    "website": "https://www.vcvets.com",
-    "address": "14219 Cool Valley Road",
-    "city": "Escondido",
-    "state": "CA",
-    "zip": "92082",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Escondido",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
-  },
-  {
     "slug": "vca-acacia-animal-hospital-and-pet-resort",
     "name": "VCA Acacia Animal Hospital and Pet Resort",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 4,
-    "description": "VCA Acacia Animal Hospital and Pet Resort provides veterinary care for dogs in Escondido, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 1,
+    "description": "VCA Acacia Animal Hospital and Pet Resort provides veterinary care for dogs in Escondido, CA. Confirm hours and services directly with the clinic.",
     "phone": "(760) 745-8115",
     "website": "https://vcahospitals.com/acacia",
     "address": "655 West Citracado Parkway",
@@ -121,85 +25,21 @@
     ],
     "highlights": [
       "Serving Escondido",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.028Z"
-  },
-  {
-    "slug": "vca-acacia-animal-hospital-and-pet-resort-2",
-    "name": "VCA Acacia Animal Hospital and Pet Resort",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 5,
-    "description": "VCA Acacia Animal Hospital and Pet Resort provides veterinary care for dogs in Escondido, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(760) 745-8115",
-    "website": "https://vcahospitals.com/acacia",
-    "address": "655 West Citracado Parkway",
-    "city": "Escondido",
-    "state": "CA",
-    "zip": "92025",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Escondido",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "companion-care-veterinary-hospital",
-    "name": "Companion Care Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 6,
-    "description": "Companion Care Veterinary Hospital provides veterinary care for dogs in Escondido, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://companioncareveterinaryhospital.com/",
-    "address": "Escondido, CA",
-    "city": "Escondido",
-    "state": "CA",
-    "zip": "",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Escondido",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "parkway-pet-clinic",
     "name": "Parkway Pet Clinic",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 7,
-    "description": "Parkway Pet Clinic provides veterinary care for dogs in Escondido, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 2,
+    "description": "Parkway Pet Clinic provides veterinary care for dogs in Escondido, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "http://parkwaypetclinic.vetsourceweb.com/",
+    "website": "https://vetsource.com/",
     "address": "855 East Valley Parkway",
     "city": "Escondido",
     "state": "CA",
@@ -217,42 +57,10 @@
     ],
     "highlights": [
       "Serving Escondido",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.028Z"
-  },
-  {
-    "slug": "parkway-pet-clinic-2",
-    "name": "Parkway Pet Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 8,
-    "description": "Parkway Pet Clinic provides veterinary care for dogs in Escondido, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "http://parkwaypetclinic.vetsourceweb.com/",
-    "address": "855 East Valley Parkway",
-    "city": "Escondido",
-    "state": "CA",
-    "zip": "92025",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Escondido",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

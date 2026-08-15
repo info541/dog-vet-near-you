@@ -1,52 +1,13 @@
 [
   {
-    "slug": "alternatives-for-animals",
-    "name": "Alternatives for Animals",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 1,
-    "description": "Veterinarian",
-    "phone": "(925) 283-6160",
-    "website": "https://www.alternatives4animals.com/",
-    "address": "425 Gregory Lane",
-    "city": "Concord",
-    "state": "CA",
-    "zip": "94523",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 1,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Concord",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "Veterinarian",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
-  },
-  {
     "slug": "disney-pet-hospital",
     "name": "Disney Pet Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 2,
-    "description": "Disney Pet Hospital provides veterinary care for dogs in Concord, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 1,
+    "description": "Disney Pet Hospital provides veterinary care for dogs in Antioch, CA. Info sourced from OpenStreetMap public map data \u2014 call ahead to confirm hours and services.",
     "phone": "(925) 689-4244",
-    "website": "https://disneypethospital.com/",
+    "website": "https://disneypethospital.com",
     "address": "3544 Concord Boulevard",
     "city": "Concord",
     "state": "CA",
@@ -63,52 +24,20 @@
       "Veterinary Medicine"
     ],
     "highlights": [
-      "Serving Concord",
+      "Serving Antioch",
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "disney-pet-hospital-2",
-    "name": "Disney Pet Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 3,
-    "description": "Disney Pet Hospital provides veterinary care for dogs in Concord, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(925) 689-4244",
-    "website": "https://disneypethospital.com/",
-    "address": "3544 Concord Boulevard",
-    "city": "Concord",
-    "state": "CA",
-    "zip": "94519",
-    "hours": "Mo-Fr 08:00-17:30; Sa-Su off",
-    "hoursDetail": [
-      "Mo-Fr 08:00-17:30; Sa-Su off"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Concord",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+    "sourceUpdatedAt": "2026-08-15T14:33:38Z"
   },
   {
     "slug": "sage-veterinary-centers",
     "name": "Sage Veterinary Centers",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 4,
-    "description": "Sage Veterinary Centers provides veterinary care for dogs in Concord, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 2,
+    "description": "Sage Veterinary Centers provides veterinary care for dogs in Concord, CA. Confirm hours and services directly with the clinic.",
     "phone": "(925) 627-7243",
     "website": "https://www.sagecenters.com/locations/concord",
     "address": "Concord, CA",
@@ -128,42 +57,10 @@
     ],
     "highlights": [
       "Serving Concord",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
-  },
-  {
-    "slug": "lindsay-wildlife-hospital",
-    "name": "Lindsay Wildlife Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 5,
-    "description": "Lindsay Wildlife Hospital provides veterinary care for dogs in Concord, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "http://wildlife-museum.org/hospital",
-    "address": "Concord, CA",
-    "city": "Concord",
-    "state": "CA",
-    "zip": "",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Concord",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "slug": "4-paws-veterinary-clinic",
-    "name": "4 Paws Veterinary Clinic",
+    "slug": "auburn-animal-hospital",
+    "name": "Auburn Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "4 Paws Veterinary Clinic provides veterinary care for dogs in Bakersfield, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(805) 921-1000",
-    "website": "https://4pawsvet.vetstreet.com/",
-    "address": "1107 East Harvard Boulevard",
+    "description": "Auburn Animal Hospital provides veterinary care for dogs in Bakersfield, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(661) 872-0363",
+    "website": "https://www.auburnanimalhospitalbakersfield.com",
+    "address": "Bakersfield, CA",
     "city": "Bakersfield",
     "state": "CA",
-    "zip": "93060",
-    "hours": "Mo-Fr 08:30-17:00; Sa 09:00-14:00",
+    "zip": "",
+    "hours": "Call for hours",
     "hoursDetail": [
-      "Mo-Fr 08:30-17:00; Sa 09:00-14:00"
+      "Call for hours"
     ],
     "rating": 4.2,
     "reviewCount": 0,
@@ -25,28 +25,28 @@
     ],
     "highlights": [
       "Serving Bakersfield",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
-    "slug": "4-paws-veterinary-clinic-2",
-    "name": "4 Paws Veterinary Clinic",
+    "slug": "coffee-road-animal-hospital",
+    "name": "Coffee Road Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "4 Paws Veterinary Clinic provides veterinary care for dogs in Bakersfield, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(805) 921-1000",
-    "website": "https://4pawsvet.vetstreet.com/",
-    "address": "1107 East Harvard Boulevard",
+    "description": "Coffee Road Animal Hospital provides veterinary care for dogs in Bakersfield, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(661) 587-1976",
+    "website": "https://www.coffeeroadanimalhospital.com",
+    "address": "3534 Coffee Rd",
     "city": "Bakersfield",
     "state": "CA",
-    "zip": "93060",
-    "hours": "Mo-Fr 08:30-17:00; Sa 09:00-14:00",
+    "zip": "93308",
+    "hours": "Call for hours",
     "hoursDetail": [
-      "Mo-Fr 08:30-17:00; Sa 09:00-14:00"
+      "Call for hours"
     ],
     "rating": 4.2,
     "reviewCount": 0,
@@ -57,28 +57,28 @@
     ],
     "highlights": [
       "Serving Bakersfield",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
-    "slug": "sears-veterinary-hospital",
-    "name": "Sears Veterinary Hospital",
+    "slug": "mt-vernon-veterinary-hospital",
+    "name": "Mt. Vernon Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 3,
-    "description": "Sears Veterinary Hospital provides veterinary care for dogs in Bakersfield, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(661) 948-5911",
-    "website": "http://searshosp.com",
-    "address": "565 West Avenue I",
+    "description": "Mt. Vernon Veterinary Hospital provides veterinary care for dogs in Bakersfield, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(661) 327-7536",
+    "website": "https://www.mtvernonvet.com",
+    "address": "2120 E California Ave",
     "city": "Bakersfield",
     "state": "CA",
-    "zip": "93534",
-    "hours": "Mo-Tu 08:00-20:00, We-Fr 08:00-18:00, Sa 08:00-14:00",
+    "zip": "93307",
+    "hours": "Mon\u2013Fri 8:00 AM \u2013 12:00 PM, 1:30 PM \u2013 5:30 PM",
     "hoursDetail": [
-      "Mo-Tu 08:00-20:00, We-Fr 08:00-18:00, Sa 08:00-14:00"
+      "Mon\u2013Fri 8:00 AM \u2013 12:00 PM, 1:30 PM \u2013 5:30 PM"
     ],
     "rating": 4.2,
     "reviewCount": 0,
@@ -89,28 +89,28 @@
     ],
     "highlights": [
       "Serving Bakersfield",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
-    "slug": "sears-veterinary-hospital-2",
-    "name": "Sears Veterinary Hospital",
+    "slug": "stine-veterinary-hospital",
+    "name": "Stine Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 4,
-    "description": "Sears Veterinary Hospital provides veterinary care for dogs in Bakersfield, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(661) 948-5911",
-    "website": "http://searshosp.com",
-    "address": "565 West Avenue I",
+    "description": "Stine Veterinary Hospital provides veterinary care for dogs in Bakersfield, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(661) 398-7121",
+    "website": "https://www.stinevet.com/site/home",
+    "address": "4450 Stine Rd Ste A",
     "city": "Bakersfield",
     "state": "CA",
-    "zip": "93534",
-    "hours": "Mo-Tu 08:00-20:00, We-Fr 08:00-18:00, Sa 08:00-14:00",
+    "zip": "93313",
+    "hours": "Mon\u2013Fri 8:00 AM \u2013 5:00 PM",
     "hoursDetail": [
-      "Mo-Tu 08:00-20:00, We-Fr 08:00-18:00, Sa 08:00-14:00"
+      "Mon\u2013Fri 8:00 AM \u2013 5:00 PM"
     ],
     "rating": 4.2,
     "reviewCount": 0,
@@ -121,28 +121,28 @@
     ],
     "highlights": [
       "Serving Bakersfield",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
-    "slug": "tulare-veterinary-hospital",
-    "name": "Tulare Veterinary Hospital",
+    "slug": "stiern-veterinary-hospital",
+    "name": "Stiern Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 5,
-    "description": "Tulare Veterinary Hospital provides veterinary care for dogs in Bakersfield, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(559) 686-8544",
-    "website": "https://tularevet.com/",
-    "address": "861 North Blackstone Street",
+    "description": "Stiern Veterinary Hospital provides veterinary care for dogs in Bakersfield, CA. Confirm hours and services directly with the clinic.",
+    "phone": "Call for number",
+    "website": "https://www.stiernveterinaryhospital.com",
+    "address": "Bakersfield, CA",
     "city": "Bakersfield",
     "state": "CA",
-    "zip": "93274",
-    "hours": "Mo-Fr 07:30-17:30",
+    "zip": "",
+    "hours": "Call for hours",
     "hoursDetail": [
-      "Mo-Fr 07:30-17:30"
+      "Call for hours"
     ],
     "rating": 4.2,
     "reviewCount": 0,
@@ -153,10 +153,10 @@
     ],
     "highlights": [
       "Serving Bakersfield",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   }
 ]

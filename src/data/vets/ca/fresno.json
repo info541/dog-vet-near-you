@@ -5,7 +5,7 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Alfaro Aubrey DVM provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Alfaro Aubrey DVM provides veterinary care for dogs in Fresno, CA. Confirm hours and services directly with the clinic.",
     "phone": "(559) 227-3596",
     "website": "https://sanjoaquinveterinaryhospital.net/meet-our-team/",
     "address": "4333 North Blackstone Avenue",
@@ -25,11 +25,11 @@
     ],
     "highlights": [
       "Serving Fresno",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "animal-hospital-and-dental-clinic",
@@ -37,9 +37,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "Animal Hospital & Dental Clinic provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Animal Hospital & Dental Clinic provides veterinary care for dogs in Fresno, CA. Confirm hours and services directly with the clinic.",
     "phone": "(559) 227-5575",
-    "website": "https://www.theanimalhosp.com/",
+    "website": "https://theanimalhosp.com/",
     "address": "5169 North Blackstone Avenue",
     "city": "Fresno",
     "state": "CA",
@@ -57,53 +57,21 @@
     ],
     "highlights": [
       "Serving Fresno",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
-  },
-  {
-    "slug": "bluepearl",
-    "name": "BluePearl",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 3,
-    "description": "BluePearl provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(559) 437-3766",
-    "website": "https://bluepearlvet.com/",
-    "address": "7375 North Palm Bluffs Avenue",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "93711",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Fresno",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "bullard-marks-veterinary-medical-center",
     "name": "Bullard Marks Veterinary Medical Center",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 4,
-    "description": "Bullard Marks Veterinary Medical Center provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 3,
+    "description": "Bullard Marks Veterinary Medical Center provides veterinary care for dogs in Bishop, CA. Info sourced from OpenStreetMap public map data \u2014 call ahead to confirm hours and services.",
     "phone": "(559) 432-0887",
-    "website": "https://bullardmarksveterinarymedicalcenter.com/",
+    "website": "https://bullardmarksveterinarymedicalcenter.com",
     "address": "3098 West Bullard Avenue",
     "city": "Fresno",
     "state": "CA",
@@ -120,22 +88,22 @@
       "Veterinary Medicine"
     ],
     "highlights": [
-      "Serving Fresno",
+      "Serving Bishop",
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:34:54Z"
   },
   {
     "slug": "care-veterinary-hospital",
     "name": "Care Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 5,
-    "description": "Care Veterinary Hospital provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 4,
+    "description": "Care Veterinary Hospital provides veterinary care for dogs in Fresno, CA. Confirm hours and services directly with the clinic.",
     "phone": "(559) 322-7100",
-    "website": "https://careveterinaryhospital.com/",
+    "website": "https://careveterinaryhospital.com",
     "address": "8084 North Cedar Avenue",
     "city": "Fresno",
     "state": "CA",
@@ -153,21 +121,21 @@
     ],
     "highlights": [
       "Serving Fresno",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "companion-animal-hospital",
     "name": "Companion Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 6,
-    "description": "Companion Animal Hospital provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 5,
+    "description": "Companion Animal Hospital provides veterinary care for dogs in Fresno, CA. Confirm hours and services directly with the clinic.",
     "phone": "(559) 432-1110",
-    "website": "https://www.fresnopethospital.net/",
+    "website": "https://www.fresnopethospital.net",
     "address": "132 West Nees Avenue",
     "city": "Fresno",
     "state": "CA",
@@ -185,21 +153,21 @@
     ],
     "highlights": [
       "Serving Fresno",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "hope-animal-foundation",
     "name": "HOPE Animal Foundation",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 7,
-    "description": "HOPE Animal Foundation provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 6,
+    "description": "HOPE Animal Foundation provides veterinary care for dogs in Fresno, CA. Confirm hours and services directly with the clinic.",
     "phone": "(559) 271-0209",
-    "website": "https://www.hopeaf.com/",
+    "website": "https://hopeaf.com/",
     "address": "5490 West Spruce Avenue",
     "city": "Fresno",
     "state": "CA",
@@ -217,21 +185,21 @@
     ],
     "highlights": [
       "Serving Fresno",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "northpointe-animal-hospital",
     "name": "Northpointe Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 8,
-    "description": "Northpointe Animal Hospital provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 7,
+    "description": "Northpointe Animal Hospital provides veterinary care for dogs in Fresno, CA. Confirm hours and services directly with the clinic.",
     "phone": "(559) 434-5470",
-    "website": "https://www.northpointeanimalhospital.com/",
+    "website": "https://www.northpointeanimalhospital.com",
     "address": "1916 East Copper Avenue",
     "city": "Fresno",
     "state": "CA",
@@ -249,21 +217,21 @@
     ],
     "highlights": [
       "Serving Fresno",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "shepherd-pet-hospital",
     "name": "Shepherd Pet Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 9,
-    "description": "Shepherd Pet Hospital provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 8,
+    "description": "Shepherd Pet Hospital provides veterinary care for dogs in Fresno, CA. Confirm hours and services directly with the clinic.",
     "phone": "(559) 337-6009",
-    "website": "https://sphfresno.com/",
+    "website": "https://www.sphfresno.com/",
     "address": "8941 North Chestnut Avenue",
     "city": "Fresno",
     "state": "CA",
@@ -281,21 +249,21 @@
     ],
     "highlights": [
       "Serving Fresno",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "shield-stone-pet-hospital",
     "name": "Shield Stone Pet Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 10,
-    "description": "Shield Stone Pet Hospital provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 9,
+    "description": "Shield Stone Pet Hospital provides veterinary care for dogs in Bishop, CA. Info sourced from OpenStreetMap public map data \u2014 call ahead to confirm hours and services.",
     "phone": "(559) 222-2800",
-    "website": "http://www.shieldstonepethospital.com/",
+    "website": "http://www.shieldstonepethospital.com",
     "address": "1610 East Shields Avenue",
     "city": "Fresno",
     "state": "CA",
@@ -312,22 +280,22 @@
       "Veterinary Medicine"
     ],
     "highlights": [
-      "Serving Fresno",
+      "Serving Bishop",
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:35:03Z"
   },
   {
     "slug": "sierra-view-animal-hospital",
     "name": "Sierra View Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 11,
-    "description": "Sierra View Animal Hospital provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 10,
+    "description": "Sierra View Animal Hospital provides veterinary care for dogs in Fresno, CA. Confirm hours and services directly with the clinic.",
     "phone": "(559) 432-1200",
-    "website": "https://www.sierraviewanimalhospital.com/",
+    "website": "https://www.sierraviewanimalhospital.com",
     "address": "93 East Sierra Avenue",
     "city": "Fresno",
     "state": "CA",
@@ -345,21 +313,21 @@
     ],
     "highlights": [
       "Serving Fresno",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "waterhouse-animal-hospital",
     "name": "Waterhouse Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 12,
-    "description": "Waterhouse Animal Hospital provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 11,
+    "description": "Waterhouse Animal Hospital provides veterinary care for dogs in Fresno, CA. Confirm hours and services directly with the clinic.",
     "phone": "(559) 434-4000",
-    "website": "https://www.waterhouseanimalhospital.com/",
+    "website": "https://www.waterhouseanimalhospital.com/?utm_source=gmb&utm_medium=organic&y_source=1_MTE2NjkxMTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
     "address": "1115 East Champlain Drive",
     "city": "Fresno",
     "state": "CA",
@@ -377,42 +345,10 @@
     ],
     "highlights": [
       "Serving Fresno",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "waterhouse-animal-hospital-2",
-    "name": "Waterhouse Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 13,
-    "description": "Waterhouse Animal Hospital provides veterinary care for dogs in Fresno, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(559) 434-4000",
-    "website": "https://www.waterhouseanimalhospital.com/",
-    "address": "1115 East Champlain Drive",
-    "city": "Fresno",
-    "state": "CA",
-    "zip": "93720",
-    "hours": "Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00",
-    "hoursDetail": [
-      "Mo-Fr 07:30-18:00; Sa-Su 08:00-16:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Fresno",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

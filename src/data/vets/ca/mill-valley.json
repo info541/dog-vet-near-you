@@ -7,17 +7,17 @@
     "priority": 1,
     "description": "veterinary dental practice",
     "phone": "(415) 389-5917",
-    "website": "https://aggievetdentist.com/",
+    "website": "https://aggievetdentist.com",
     "address": "487 Miller Avenue",
     "city": "Mill Valley",
     "state": "CA",
     "zip": "",
-    "hours": "Mo-Th 07:30-17:00",
+    "hours": "Mo-Th 7:30-17:00",
     "hoursDetail": [
-      "Mo-Th 07:30-17:00"
+      "Mo-Th 7:30-17:00"
     ],
     "rating": 4.2,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "services": [
       "Dog Care",
       "General Practice",
@@ -25,18 +25,11 @@
     ],
     "highlights": [
       "Serving Mill Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "veterinary dental practice",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.023Z"
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "the-sams-clinic",
@@ -44,9 +37,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "The Sams Clinic provides veterinary care for dogs in Mill Valley, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "The Sams Clinic provides veterinary care for dogs in Mill Valley, CA. Confirm hours and services directly with the clinic.",
     "phone": "(415) 380-0500",
-    "website": "http://www.thesamsclinic.com/",
+    "website": "https://thesamsclinic.com/",
     "address": "489 Miller Avenue",
     "city": "Mill Valley",
     "state": "CA",
@@ -64,10 +57,10 @@
     ],
     "highlights": [
       "Serving Mill Valley",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.023Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

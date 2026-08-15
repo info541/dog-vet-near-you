@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "East Ventura Animal Hospital provides veterinary care for dogs in Ventura, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "East Ventura Animal Hospital provides veterinary care for dogs in Ventura, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 647-8430",
-    "website": "https://www.eastventuraanimalhospital.com/",
+    "website": "https://www.eastventuraanimalhospital.com",
     "address": "10225 Telephone Road",
     "city": "Ventura",
     "state": "CA",
@@ -25,11 +25,11 @@
     ],
     "highlights": [
       "Serving Ventura",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "hope-veterinary-oncology",
@@ -39,17 +39,17 @@
     "priority": 2,
     "description": "Hope Veterinary Oncology is an independent and woman-owned veterinary oncology practice in Ventura, CA. We provide expert care for pets with cancer and deliver personalized treatment and advanced cancer care with hospitality, kindness and compassion.",
     "phone": "(805) 626-6551",
-    "website": "https://www.hopeveterinaryoncology.com/",
+    "website": "https://www.hopeveterinaryoncology.com",
     "address": "1885 Knoll Drive",
     "city": "Ventura",
     "state": "CA",
     "zip": "93003",
-    "hours": "Mo-Th 07:30-17:30",
+    "hours": "Mo - Th 7:30am - 5:30pm",
     "hoursDetail": [
-      "Mo-Th 07:30-17:30"
+      "Mo - Th 7:30am - 5:30pm"
     ],
     "rating": 4.2,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "services": [
       "Dog Care",
       "General Practice",
@@ -57,17 +57,10 @@
     ],
     "highlights": [
       "Serving Ventura",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "Hope Veterinary Oncology is an independent and woman-owned veterinary oncology practice in Ventura, CA. We provide expert care for pets with cancer and deliver personalized treatment and advanced cancer care with hospitality, kindness and compassion.",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]
