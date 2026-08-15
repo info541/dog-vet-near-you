@@ -1,61 +1,52 @@
 [
   {
-    "slug": "vca-animal-care-center-of-sonoma-county",
-    "name": "VCA Animal Care Center of Sonoma County",
-    "careType": "24/7 Emergency",
-    "is24_7": true,
+    "slug": "heritage-veterinary-hospital",
+    "name": "Heritage Veterinary Hospital",
+    "careType": "General Practice",
+    "is24_7": false,
     "priority": 1,
-    "description": "Emergency & Critical Care",
-    "phone": "(707) 584-4343",
-    "website": "https://vcahospitals.com/sonoma-county",
-    "address": "6470 Redwood Dr",
+    "description": "Heritage Veterinary Hospital provides veterinary care for dogs in Santa Rosa, CA. Confirm hours and services directly with the clinic.",
+    "phone": "Call for number",
+    "website": "https://www.heritagevethospital.com",
+    "address": "1425 W. Steele Lane",
     "city": "Santa Rosa",
     "state": "CA",
-    "zip": "94928",
-    "hours": "24/7",
+    "zip": "95403",
+    "hours": "Call for hours",
     "hoursDetail": [
-      "24/7"
+      "Call for hours"
     ],
-    "rating": 4.5,
-    "reviewCount": 1,
+    "rating": 4.2,
+    "reviewCount": 0,
     "services": [
       "Dog Care",
-      "24/7 Emergency",
-      "24/7 Availability",
+      "General Practice",
       "Veterinary Medicine"
     ],
     "highlights": [
-      "Emergency-oriented",
       "Serving Santa Rosa",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "Emergency & Critical Care",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
-    "slug": "analy-veterinary-hospital",
-    "name": "Analy Veterinary Hospital",
+    "slug": "santa-rosa-veterinary-hospital",
+    "name": "Santa Rosa Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "Analy Veterinary Hospital provides veterinary care for dogs in Santa Rosa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(707) 823-7614",
-    "website": "https://www.analyvet.com/",
-    "address": "900 Gravenstein Highway North",
+    "description": "Santa Rosa Veterinary Hospital provides veterinary care for dogs in Santa Rosa, CA. Confirm hours and services directly with the clinic.",
+    "phone": "Call for number",
+    "website": "https://santarosaveterinary.com",
+    "address": "Santa Rosa, CA",
     "city": "Santa Rosa",
     "state": "CA",
     "zip": "",
-    "hours": "Mo-Fr 08:00-17:30",
+    "hours": "Call for hours",
     "hoursDetail": [
-      "Mo-Fr 08:00-17:30"
+      "Call for hours"
     ],
     "rating": 4.2,
     "reviewCount": 0,
@@ -66,106 +57,10 @@
     ],
     "highlights": [
       "Serving Santa Rosa",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
-  },
-  {
-    "slug": "analy-veterinary-hospital-2",
-    "name": "Analy Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 3,
-    "description": "Analy Veterinary Hospital provides veterinary care for dogs in Santa Rosa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(707) 823-7614",
-    "website": "https://www.analyvet.com/",
-    "address": "900 Gravenstein Highway North",
-    "city": "Santa Rosa",
-    "state": "CA",
-    "zip": "",
-    "hours": "Mo-Fr 08:00-17:30",
-    "hoursDetail": [
-      "Mo-Fr 08:00-17:30"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Santa Rosa",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
-  },
-  {
-    "slug": "animal-kingdom-veterinary-hospital",
-    "name": "Animal Kingdom Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 4,
-    "description": "Animal Kingdom Veterinary Hospital provides veterinary care for dogs in Santa Rosa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(707) 823-5337",
-    "website": "https://www.animalkingdomvh.com/",
-    "address": "6742 Sebastopol Avenue",
-    "city": "Santa Rosa",
-    "state": "CA",
-    "zip": "",
-    "hours": "Mo-Fr 08:00-17:30",
-    "hoursDetail": [
-      "Mo-Fr 08:00-17:30"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Santa Rosa",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
-  },
-  {
-    "slug": "animal-kingdom-veterinary-hospital-2",
-    "name": "Animal Kingdom Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 5,
-    "description": "Animal Kingdom Veterinary Hospital provides veterinary care for dogs in Santa Rosa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(707) 823-5337",
-    "website": "https://www.animalkingdomvh.com/",
-    "address": "6742 Sebastopol Avenue",
-    "city": "Santa Rosa",
-    "state": "CA",
-    "zip": "",
-    "hours": "Mo-Fr 08:00-17:30",
-    "hoursDetail": [
-      "Mo-Fr 08:00-17:30"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Santa Rosa",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   }
 ]

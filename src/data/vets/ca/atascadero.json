@@ -2,12 +2,12 @@
   {
     "slug": "atascadero-pet-hospital",
     "name": "Atascadero Pet Hospital",
-    "careType": "24/7 Emergency",
+    "careType": "General Practice",
     "is24_7": true,
     "priority": 1,
     "description": "24 Hour Emergency Care",
     "phone": "(805) 466-3880",
-    "website": "https://apetcenter.com/",
+    "website": "https://apetcenter.com",
     "address": "9575 El Camino Real",
     "city": "Atascadero",
     "state": "CA",
@@ -17,28 +17,21 @@
       "24/7"
     ],
     "rating": 4.5,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "services": [
       "Dog Care",
-      "24/7 Emergency",
+      "General Practice",
       "24/7 Availability",
       "Veterinary Medicine"
     ],
     "highlights": [
       "Emergency-oriented",
       "Serving Atascadero",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "24 Hour Emergency Care",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.021Z"
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "las-tablas-animal-hospital",
@@ -46,9 +39,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "Las Tablas Animal Hospital provides veterinary care for dogs in Atascadero, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Las Tablas Animal Hospital provides veterinary care for dogs in Atascadero, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "https://lastablasanimalhospital.com/",
+    "website": "https://www.lastablasanimalhospital.com/",
     "address": "959 Las Tablas Road",
     "city": "Atascadero",
     "state": "CA",
@@ -66,10 +59,10 @@
     ],
     "highlights": [
       "Serving Atascadero",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.021Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

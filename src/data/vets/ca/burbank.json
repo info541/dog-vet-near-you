@@ -5,7 +5,7 @@
     "careType": "Urgent Care",
     "is24_7": false,
     "priority": 1,
-    "description": "Animal Urgent Care provides veterinary care for dogs in Burbank, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Animal Urgent Care provides veterinary care for dogs in Burbank, CA. Confirm hours and services directly with the clinic.",
     "phone": "(818) 296-0700",
     "website": "https://www.animalurgentcare.vet/burbank",
     "address": "126 East Alameda Avenue",
@@ -25,53 +25,21 @@
     ],
     "highlights": [
       "Serving Burbank",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.029Z"
-  },
-  {
-    "slug": "animal-urgent-care-2",
-    "name": "Animal Urgent Care",
-    "careType": "Urgent Care",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Animal Urgent Care provides veterinary care for dogs in Burbank, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(818) 296-0700",
-    "website": "https://www.animalurgentcare.vet/burbank",
-    "address": "126 East Alameda Avenue",
-    "city": "Burbank",
-    "state": "CA",
-    "zip": "91502",
-    "hours": "Mo-Su 12:00-22:00",
-    "hoursDetail": [
-      "Mo-Su 12:00-22:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "Urgent Care",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Burbank",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "bastet-cat-hospital",
     "name": "Bastet Cat Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 3,
-    "description": "Bastet Cat Hospital provides veterinary care for dogs in Burbank, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 2,
+    "description": "Bastet Cat Hospital provides veterinary care for dogs in Burbank, CA. Confirm hours and services directly with the clinic.",
     "phone": "(818) 846-8600",
-    "website": "https://www.bastetcatz.com/",
+    "website": "https://www.bastetcatz.com",
     "address": "120 East Olive Avenue",
     "city": "Burbank",
     "state": "CA",
@@ -89,53 +57,21 @@
     ],
     "highlights": [
       "Serving Burbank",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.024Z"
-  },
-  {
-    "slug": "eagle-rock-pet-care",
-    "name": "Eagle Rock Pet Care",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 4,
-    "description": "Eagle Rock Pet Care provides veterinary care for dogs in Burbank, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(323) 503-2400",
-    "website": "https://eaglerockpetcare.com/",
-    "address": "4000 Eagle Rock Boulevard",
-    "city": "Burbank",
-    "state": "CA",
-    "zip": "",
-    "hours": "Mo-Fr 09:00-18:00",
-    "hoursDetail": [
-      "Mo-Fr 09:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Burbank",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "toluca-burbank-dog-and-cat-hospital",
     "name": "Toluca Burbank Dog & Cat Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 5,
-    "description": "Toluca Burbank Dog & Cat Hospital provides veterinary care for dogs in Burbank, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 3,
+    "description": "Toluca Burbank Dog & Cat Hospital provides veterinary care for dogs in Burbank, CA. Confirm hours and services directly with the clinic.",
     "phone": "(818) 848-4202",
-    "website": "https://tolucaburbankpet.com/",
+    "website": "https://tolucaburbankpet.com",
     "address": "3121 Burbank Boulevard",
     "city": "Burbank",
     "state": "CA",
@@ -153,42 +89,10 @@
     ],
     "highlights": [
       "Serving Burbank",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
-  },
-  {
-    "slug": "village-vet",
-    "name": "Village Vet",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 6,
-    "description": "Village Vet provides veterinary care for dogs in Burbank, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(323) 666-9838",
-    "website": "https://www.thrivepetcare.com/locations/california/los-angeles/the-village-vet",
-    "address": "2833,2835,2837,2839,2841,2843 Hyperion Avenue",
-    "city": "Burbank",
-    "state": "CA",
-    "zip": "90027",
-    "hours": "Mo-Fr 08:00-18:00; Sa 09:00-17:00",
-    "hoursDetail": [
-      "Mo-Fr 08:00-18:00; Sa 09:00-17:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Burbank",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

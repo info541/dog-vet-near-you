@@ -2,7 +2,7 @@
   {
     "slug": "vca-animal-care-center-of-sonoma-county",
     "name": "VCA Animal Care Center of Sonoma County",
-    "careType": "24/7 Emergency",
+    "careType": "General Practice",
     "is24_7": true,
     "priority": 1,
     "description": "Emergency & Critical Care",
@@ -17,27 +17,20 @@
       "24/7"
     ],
     "rating": 4.5,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "services": [
       "Dog Care",
-      "24/7 Emergency",
+      "General Practice",
       "24/7 Availability",
       "Veterinary Medicine"
     ],
     "highlights": [
       "Emergency-oriented",
       "Serving Rohnert Park",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "Emergency & Critical Care",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+    "reviews": [],
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

@@ -5,7 +5,7 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Los Altos Veterinary Clinic provides veterinary care for dogs in Los Altos, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Los Altos Veterinary Clinic provides veterinary care for dogs in Los Altos, CA. Confirm hours and services directly with the clinic.",
     "phone": "(650) 848-8287",
     "website": "https://losaltosvet.com",
     "address": "1150 Riverside Drive",
@@ -25,10 +25,10 @@
     ],
     "highlights": [
       "Serving Los Altos",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

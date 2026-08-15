@@ -1,52 +1,54 @@
 [
   {
-    "slug": "am-pm-veterinary-hospital",
-    "name": "AM/PM Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
+    "slug": "case-animal-hospital",
+    "name": "CASE Animal Hospital",
+    "careType": "24/7 Emergency",
+    "is24_7": true,
     "priority": 1,
-    "description": "AM/PM Veterinary Hospital provides veterinary care for dogs in Anaheim, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(714) 779-1400",
-    "website": "https://ampmvet.com/",
-    "address": "4872 Olinda Street",
+    "description": "CASE Animal Hospital provides veterinary care for dogs in Anaheim, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(657) 999-1150",
+    "website": "https://casevets.com",
+    "address": "1400 N Burton Pl",
     "city": "Anaheim",
     "state": "CA",
-    "zip": "92886",
-    "hours": "Call for hours",
+    "zip": "92806",
+    "hours": "Open 24 hours, 7 days a week",
     "hoursDetail": [
-      "Call for hours"
+      "Open 24 hours, 7 days a week"
     ],
-    "rating": 4.2,
+    "rating": 4.5,
     "reviewCount": 0,
     "services": [
       "Dog Care",
-      "General Practice",
+      "24/7 Emergency",
+      "24/7 Availability",
       "Veterinary Medicine"
     ],
     "highlights": [
+      "Emergency-oriented",
       "Serving Anaheim",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
-    "slug": "the-bird-clinic",
-    "name": "The Bird Clinic",
+    "slug": "anaheim-animal-care-and-pet-hospital",
+    "name": "Anaheim Animal Care & Pet Hospital",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "The Bird Clinic provides veterinary care for dogs in Anaheim, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(714) 633-2910",
-    "website": "https://www.thebirdclinic.com/contact-us",
-    "address": "200 South Tustin Street",
+    "description": "Anaheim Animal Care & Pet Hospital provides veterinary care for dogs in Anaheim, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(714) 527-9292",
+    "website": "https://www.anaheimanimalcare.com/site/home",
+    "address": "1177 N Magnolia Ave",
     "city": "Anaheim",
     "state": "CA",
-    "zip": "92868",
-    "hours": "Mo, We, Fr-Sa 09:00-12:00, 14:00-17:00; Tu 08:00-12:00, 14:00-18:00",
+    "zip": "92801",
+    "hours": "Mon\u2013Fri 9:00 AM \u2013 7:00 PM; Sat 9:00 AM \u2013 3:00 PM",
     "hoursDetail": [
-      "Mo, We, Fr-Sa 09:00-12:00, 14:00-17:00; Tu 08:00-12:00, 14:00-18:00"
+      "Mon\u2013Fri 9:00 AM \u2013 7:00 PM; Sat 9:00 AM \u2013 3:00 PM"
     ],
     "rating": 4.2,
     "reviewCount": 0,
@@ -57,138 +59,10 @@
     ],
     "highlights": [
       "Serving Anaheim",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
-  },
-  {
-    "slug": "the-cat-care-clinic",
-    "name": "The Cat Care Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 3,
-    "description": "The Cat Care Clinic provides veterinary care for dogs in Anaheim, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(714) 282-2287",
-    "website": "https://catcare.com/",
-    "address": "2638 North Tustin Street",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "92865",
-    "hours": "Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su off",
-    "hoursDetail": [
-      "Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su off"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Anaheim",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
-  },
-  {
-    "slug": "the-cat-care-clinic-2",
-    "name": "The Cat Care Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 4,
-    "description": "The Cat Care Clinic provides veterinary care for dogs in Anaheim, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(714) 282-2287",
-    "website": "https://catcare.com/",
-    "address": "2638 North Tustin Street",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "92865",
-    "hours": "Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su off",
-    "hoursDetail": [
-      "Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su off"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Anaheim",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
-  },
-  {
-    "slug": "villa-park-animal-clinic",
-    "name": "Villa Park Animal Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 5,
-    "description": "Villa Park Animal Clinic provides veterinary care for dogs in Anaheim, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(714) 998-4322",
-    "website": "https://www.villaparkanimalclinic.com/",
-    "address": "17859 Santiago Boulevard",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "92861",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Anaheim",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
-  },
-  {
-    "slug": "villa-park-animal-clinic-2",
-    "name": "Villa Park Animal Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 6,
-    "description": "Villa Park Animal Clinic provides veterinary care for dogs in Anaheim, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(714) 998-4322",
-    "website": "https://www.villaparkanimalclinic.com/",
-    "address": "17859 Santiago Boulevard",
-    "city": "Anaheim",
-    "state": "CA",
-    "zip": "92861",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Anaheim",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   }
 ]

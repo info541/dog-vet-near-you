@@ -5,7 +5,7 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Napa Valley Veterinary Hospital provides veterinary care for dogs in Napa, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Napa Valley Veterinary Hospital provides veterinary care for dogs in American Canyon, CA. Info sourced from OpenStreetMap public map data \u2014 call ahead to confirm hours and services.",
     "phone": "(707) 224-8604",
     "website": "https://napavalleyvets.com",
     "address": "1325 West Imola Avenue",
@@ -24,11 +24,11 @@
       "Veterinary Medicine"
     ],
     "highlights": [
-      "Serving Napa",
+      "Serving American Canyon",
       "Sourced from OpenStreetMap"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:33:27Z"
   }
 ]

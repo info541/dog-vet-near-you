@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Pet Headquarters provides veterinary care for dogs in Camarillo, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Pet Headquarters provides veterinary care for dogs in Camarillo, CA. Info sourced from OpenStreetMap public map data \u2014 call ahead to confirm hours and services.",
     "phone": "(805) 388-1990",
-    "website": "https://www.vetincamarilloca.com/",
+    "website": "https://www.vetincamarilloca.com",
     "address": "4920 Verdugo Way",
     "city": "Camarillo",
     "state": "CA",
@@ -29,6 +29,6 @@
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.027Z"
+    "sourceUpdatedAt": "2026-08-15T14:36:35Z"
   }
 ]

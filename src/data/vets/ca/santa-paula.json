@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "4 Paws Veterinary Clinic provides veterinary care for dogs in Santa Paula, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "4 Paws Veterinary Clinic provides veterinary care for dogs in Santa Paula, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 921-1000",
-    "website": "https://4pawsvet.vetstreet.com/",
+    "website": "https://4pawsvet.vetstreet.com",
     "address": "1107 East Harvard Boulevard",
     "city": "Santa Paula",
     "state": "CA",
@@ -25,42 +25,10 @@
     ],
     "highlights": [
       "Serving Santa Paula",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "4-paws-veterinary-clinic-2",
-    "name": "4 Paws Veterinary Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 2,
-    "description": "4 Paws Veterinary Clinic provides veterinary care for dogs in Santa Paula, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(805) 921-1000",
-    "website": "https://4pawsvet.vetstreet.com/",
-    "address": "1107 East Harvard Boulevard",
-    "city": "Santa Paula",
-    "state": "CA",
-    "zip": "93060",
-    "hours": "Mo-Fr 08:30-17:00; Sa 09:00-14:00",
-    "hoursDetail": [
-      "Mo-Fr 08:30-17:00; Sa 09:00-14:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Santa Paula",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

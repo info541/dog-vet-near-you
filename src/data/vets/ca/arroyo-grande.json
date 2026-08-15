@@ -5,9 +5,9 @@
     "careType": "Urgent Care",
     "is24_7": false,
     "priority": 1,
-    "description": "Central Coast Pet Emergency provides veterinary care for dogs in Arroyo Grande, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Central Coast Pet Emergency provides veterinary care for dogs in Arroyo Grande, CA. Confirm hours and services directly with the clinic.",
     "phone": "(805) 489-6573",
-    "website": "https://www.centralcoastpetemergency.com/",
+    "website": "https://www.centralcoastpetemergency.com",
     "address": "1558 West Branch Street",
     "city": "Arroyo Grande",
     "state": "CA",
@@ -25,53 +25,21 @@
     ],
     "highlights": [
       "Serving Arroyo Grande",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.029Z"
-  },
-  {
-    "slug": "central-coast-pet-emergency-2",
-    "name": "Central Coast Pet Emergency",
-    "careType": "Urgent Care",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Central Coast Pet Emergency provides veterinary care for dogs in Arroyo Grande, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(805) 489-6573",
-    "website": "https://www.centralcoastpetemergency.com/",
-    "address": "1558 West Branch Street",
-    "city": "Arroyo Grande",
-    "state": "CA",
-    "zip": "93420",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "Urgent Care",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Arroyo Grande",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "vca-south-county-animal-hospital",
     "name": "VCA South County Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 3,
-    "description": "VCA South County Animal Hospital provides veterinary care for dogs in Arroyo Grande, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 2,
+    "description": "VCA South County Animal Hospital provides veterinary care for dogs in Arroyo Grande, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "https://www.vcahospitals.com/south-county",
+    "website": "https://vcahospitals.com/south-county",
     "address": "Cornwall Avenue",
     "city": "Arroyo Grande",
     "state": "CA",
@@ -89,42 +57,10 @@
     ],
     "highlights": [
       "Serving Arroyo Grande",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.028Z"
-  },
-  {
-    "slug": "vca-south-county-animal-hospital-2",
-    "name": "VCA South County Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 4,
-    "description": "VCA South County Animal Hospital provides veterinary care for dogs in Arroyo Grande, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://www.vcahospitals.com/south-county",
-    "address": "Cornwall Avenue",
-    "city": "Arroyo Grande",
-    "state": "CA",
-    "zip": "",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Arroyo Grande",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

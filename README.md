@@ -18,16 +18,21 @@ USA dog health & veterinary directory — city pages with 24/7 emergency first.
 2. **Clinic schema** — shared `VetListing` type (phone, hours, services, reviews, emergency-first `priority`)
 3. **Sources**
    - Curated: `src/data/santa-barbara.ts` (highest quality)
-   - Bulk OSM: `src/data/vets/ca/{city}.json`
+   - Curated supplements: `src/data/curated-supplements.json` (verified local clinics + websites)
+   - City-accurate rebuild: `npm run enrich:rebuild` (OSM + re-geocoded unique clinics; **no distant-neighbor backfill**)
 4. **Enrichment**
    - Google Places (optional): `npm run enrich -- --city los-angeles`
-   - OpenStreetMap statewide: `npm run enrich:osm`
+   - OpenStreetMap statewide: `npm run enrich:osm` (requires PBF; assigns by `addr:city` / nearby ≤8km only)
 
 ```bash
-# Requires california-latest.osm.pbf + us_cities.csv (see scripts)
+# Rebuild city-accurate listings from OSM + geocoded clinics (requires network)
+npm run enrich:rebuild
+
+# Full OSM PBF pipeline (requires california-latest.osm.pbf + us_cities.csv)
 npm run enrich:osm
 ```
 
+**Directory rule:** each city page only lists clinics that actually belong in that city, with a reachable public website. Empty cities stay `pending` rather than borrowing clinics from other metros.
 ## Develop
 
 ```bash

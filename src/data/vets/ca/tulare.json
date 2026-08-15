@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Tulare Veterinary Hospital provides veterinary care for dogs in Tulare, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Tulare Veterinary Hospital provides veterinary care for dogs in Tulare, CA. Confirm hours and services directly with the clinic.",
     "phone": "(559) 686-8544",
-    "website": "https://tularevet.com/",
+    "website": "https://tularevet.com",
     "address": "861 North Blackstone Street",
     "city": "Tulare",
     "state": "CA",
@@ -25,10 +25,10 @@
     ],
     "highlights": [
       "Serving Tulare",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.020Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

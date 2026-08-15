@@ -1,48 +1,13 @@
 [
   {
-    "slug": "veterinary-emergency-group",
-    "name": "Veterinary Emergency Group",
-    "careType": "24/7 Emergency",
-    "is24_7": true,
-    "priority": 1,
-    "description": "Veterinary Emergency Group provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(650) 999-3505",
-    "website": "https://www.veterinaryemergencygroup.com/locations/california/palo-alto",
-    "address": "3903 El Camino Real",
-    "city": "Mountain View",
-    "state": "CA",
-    "zip": "94306-3319",
-    "hours": "24/7",
-    "hoursDetail": [
-      "24/7"
-    ],
-    "rating": 4.5,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "24/7 Emergency",
-      "24/7 Availability",
-      "Emergency Care",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Emergency-oriented",
-      "Serving Mountain View",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.056Z"
-  },
-  {
     "slug": "united-veterinary-speciality-and-emergency",
     "name": "United Veterinary Speciality & Emergency",
     "careType": "Urgent Care",
     "is24_7": false,
-    "priority": 2,
-    "description": "United Veterinary Speciality & Emergency provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 1,
+    "description": "United Veterinary Speciality & Emergency provides veterinary care for dogs in Mountain View, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "http://unitedvet.com/",
+    "website": "http://unitedvet.com",
     "address": "601 Showers Drive",
     "city": "Mountain View",
     "state": "CA",
@@ -60,21 +25,21 @@
     ],
     "highlights": [
       "Serving Mountain View",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.020Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "alpine-animal-hospital",
     "name": "Alpine Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 3,
-    "description": "Alpine Animal Hospital provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 2,
+    "description": "Alpine Animal Hospital provides veterinary care for dogs in Mountain View, CA. Confirm hours and services directly with the clinic.",
     "phone": "(650) 969-8555",
-    "website": "https://alpinevetonline.com/",
+    "website": "https://www.midtownvetpa.com/hospital-closing.html",
     "address": "2460 West El Camino Real",
     "city": "Mountain View",
     "state": "CA",
@@ -92,53 +57,21 @@
     ],
     "highlights": [
       "Serving Mountain View",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.028Z"
-  },
-  {
-    "slug": "alpine-animal-hospital-2",
-    "name": "Alpine Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 4,
-    "description": "Alpine Animal Hospital provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(650) 969-8555",
-    "website": "https://alpinevetonline.com/",
-    "address": "2460 West El Camino Real",
-    "city": "Mountain View",
-    "state": "CA",
-    "zip": "94040",
-    "hours": "Mo-Fr 08:00-18:00; Sa 08:00-15:00",
-    "hoursDetail": [
-      "Mo-Fr 08:00-18:00; Sa 08:00-15:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Mountain View",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "alta-view-animal-hospital",
     "name": "Alta View Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 5,
-    "description": "Alta View Animal Hospital provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 3,
+    "description": "Alta View Animal Hospital provides veterinary care for dogs in Mountain View, CA. Confirm hours and services directly with the clinic.",
     "phone": "(650) 948-1021",
-    "website": "https://altaviewvets.com/",
+    "website": "https://altaviewvets.com",
     "address": "890 Showers Drive",
     "city": "Mountain View",
     "state": "CA",
@@ -156,154 +89,19 @@
     ],
     "highlights": [
       "Serving Mountain View",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.028Z"
-  },
-  {
-    "slug": "alta-view-animal-hospital-2",
-    "name": "Alta View Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 6,
-    "description": "Alta View Animal Hospital provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(650) 948-1021",
-    "website": "https://altaviewvets.com/",
-    "address": "890 Showers Drive",
-    "city": "Mountain View",
-    "state": "CA",
-    "zip": "94040",
-    "hours": "Mo-Th 08:00-20:00; Fr,Sa 08:00-18:00; Su 09:00-14:00",
-    "hoursDetail": [
-      "Mo-Th 08:00-20:00; Fr,Sa 08:00-18:00; Su 09:00-14:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Mountain View",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "cupertino-animal-hospital",
-    "name": "Cupertino Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 7,
-    "description": "Provides vet services for dogs and cats.",
-    "phone": "(408) 252-6380",
-    "website": "https://cupertinovet.com",
-    "address": "10026 Peninsula Avenue",
-    "city": "Mountain View",
-    "state": "CA",
-    "zip": "95014-1209",
-    "hours": "Mo-Fr 08:00-17:00; Sa-Su off",
-    "hoursDetail": [
-      "Mo-Fr 08:00-17:00; Sa-Su off"
-    ],
-    "rating": 4.2,
-    "reviewCount": 1,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Mountain View",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "Provides vet services for dogs and cats.",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.056Z"
-  },
-  {
-    "slug": "los-altos-veterinary-clinic",
-    "name": "Los Altos Veterinary Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 8,
-    "description": "Los Altos Veterinary Clinic provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(650) 848-8287",
-    "website": "https://losaltosvet.com",
-    "address": "1150 Riverside Drive",
-    "city": "Mountain View",
-    "state": "CA",
-    "zip": "94024",
-    "hours": "Mo-Fr 08:00-18:00; Sa 08:00-16:00",
-    "hoursDetail": [
-      "Mo-Fr 08:00-18:00; Sa 08:00-16:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Mountain View",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.056Z"
-  },
-  {
-    "slug": "serra-veterinary-hospital",
-    "name": "Serra Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 9,
-    "description": "Serra Veterinary Hospital provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(408) 739-3545",
-    "website": "https://serravet.com/",
-    "address": "520 West Fremont Avenue",
-    "city": "Mountain View",
-    "state": "CA",
-    "zip": "94087",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Mountain View",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.056Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "shoreline-pet-hospital",
     "name": "Shoreline Pet Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 10,
-    "description": "Shoreline Pet Hospital provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 4,
+    "description": "Shoreline Pet Hospital provides veterinary care for dogs in Mountain View, CA. Confirm hours and services directly with the clinic.",
     "phone": "(650) 397-2877",
     "website": "https://www.shorelinepethospital.com",
     "address": "580 North Rengstorff Avenue",
@@ -323,177 +121,10 @@
     ],
     "highlights": [
       "Serving Mountain View",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.028Z"
-  },
-  {
-    "slug": "shoreline-pet-hospital-2",
-    "name": "Shoreline Pet Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 11,
-    "description": "Shoreline Pet Hospital provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(650) 397-2877",
-    "website": "https://www.shorelinepethospital.com",
-    "address": "580 North Rengstorff Avenue",
-    "city": "Mountain View",
-    "state": "CA",
-    "zip": "94043",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Mountain View",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "sunnyvale-veterinary-cat-clinic",
-    "name": "Sunnyvale Veterinary Cat Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 12,
-    "description": "Cat specific portion of Sunnyvale Vet Clinic.",
-    "phone": "(408) 736-8296",
-    "website": "https://sunnyvalevet.com/cat-clinic",
-    "address": "1010 West El Camino Real",
-    "city": "Mountain View",
-    "state": "CA",
-    "zip": "94087",
-    "hours": "Mo-Sa 08:00-18:00",
-    "hoursDetail": [
-      "Mo-Sa 08:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 1,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Mountain View",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "Cat specific portion of Sunnyvale Vet Clinic.",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
-  },
-  {
-    "slug": "vca-vets-and-pets-animal-hospital",
-    "name": "VCA Vets & Pets Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 13,
-    "description": "VCA Vets & Pets Animal Hospital provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(408) 246-1893",
-    "website": "https://vcahospitals.com/vets-pets",
-    "address": "3345 El Camino Real",
-    "city": "Mountain View",
-    "state": "CA",
-    "zip": "95051",
-    "hours": "Mo-Th 07:00-18:00; Sa 08:00-17:00",
-    "hoursDetail": [
-      "Mo-Th 07:00-18:00; Sa 08:00-17:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Mountain View",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.056Z"
-  },
-  {
-    "slug": "murphy-avenue-pet-clinic",
-    "name": "Murphy Avenue Pet Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 14,
-    "description": "Murphy Avenue Pet Clinic provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://mapcvet.com/",
-    "address": "101 East Hendy Avenue",
-    "city": "Mountain View",
-    "state": "CA",
-    "zip": "",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Mountain View",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
-  },
-  {
-    "slug": "sunnyvale-veterinary-clinic",
-    "name": "Sunnyvale Veterinary Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 15,
-    "description": "Sunnyvale Veterinary Clinic provides veterinary care for dogs in Mountain View, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://www.sunnyvalevet.com/",
-    "address": "Mountain View, CA",
-    "city": "Mountain View",
-    "state": "CA",
-    "zip": "",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Mountain View",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.055Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

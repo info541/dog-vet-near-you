@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Central Animal Hospital provides veterinary care for dogs in Petaluma, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Central Animal Hospital provides veterinary care for dogs in Petaluma, CA. Confirm hours and services directly with the clinic.",
     "phone": "(707) 762-2693",
-    "website": "https://centralanimalhosp.com/",
+    "website": "https://centralanimalhosp.com",
     "address": "203 D Street",
     "city": "Petaluma",
     "state": "CA",
@@ -25,53 +25,21 @@
     ],
     "highlights": [
       "Serving Petaluma",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.028Z"
-  },
-  {
-    "slug": "central-animal-hospital-2",
-    "name": "Central Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Central Animal Hospital provides veterinary care for dogs in Petaluma, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(707) 762-2693",
-    "website": "https://centralanimalhosp.com/",
-    "address": "203 D Street",
-    "city": "Petaluma",
-    "state": "CA",
-    "zip": "94952",
-    "hours": "Mo-Fr 08:00-18:00",
-    "hoursDetail": [
-      "Mo-Fr 08:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Petaluma",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "wash-sq-vet-clinic",
     "name": "Wash. Sq. Vet Clinic",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 3,
-    "description": "Wash. Sq. Vet Clinic provides veterinary care for dogs in Petaluma, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 2,
+    "description": "Wash. Sq. Vet Clinic provides veterinary care for dogs in Petaluma, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "http://www.WSVCpets.com",
+    "website": "https://wsvcpets.com/index.cfm",
     "address": "363 South McDowell Boulevard",
     "city": "Petaluma",
     "state": "CA",
@@ -89,10 +57,10 @@
     ],
     "highlights": [
       "Serving Petaluma",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.019Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

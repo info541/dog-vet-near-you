@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Town & County Veterinary Hospital provides veterinary care for dogs in Pleasanton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Town & County Veterinary Hospital provides veterinary care for dogs in Pleasanton, CA. Confirm hours and services directly with the clinic.",
     "phone": "(925) 462-1666",
-    "website": "https://www.tcvhosp.com",
+    "website": "https://tcvhosp.com/",
     "address": "923 Main Street",
     "city": "Pleasanton",
     "state": "CA",
@@ -25,42 +25,10 @@
     ],
     "highlights": [
       "Serving Pleasanton",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.030Z"
-  },
-  {
-    "slug": "town-and-county-veterinary-hospital-2",
-    "name": "Town & County Veterinary Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Town & County Veterinary Hospital provides veterinary care for dogs in Pleasanton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(925) 462-1666",
-    "website": "https://www.tcvhosp.com",
-    "address": "923 Main Street",
-    "city": "Pleasanton",
-    "state": "CA",
-    "zip": "94566",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Pleasanton",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

@@ -9,6 +9,7 @@
     "lint": "eslint",
     "enrich": "node scripts/enrich-city.mjs",
     "enrich:osm": "node scripts/enrich-osm-ca.cjs",
+    "enrich:rebuild": "python3 scripts/rebuild-city-vets.py",
     "enrich:reviews": "node scripts/enrich-reviews.cjs"
   },
   "dependencies": {

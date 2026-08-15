@@ -1,79 +1,10 @@
 [
   {
-    "slug": "all-about-pets",
-    "name": "All About Pets",
-    "careType": "24/7 Emergency",
-    "is24_7": true,
-    "priority": 1,
-    "description": "All About Pets provides veterinary care for dogs in Roseville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://www.allaboutpetsch.com/",
-    "address": "6104 San Juan Avenue",
-    "city": "Roseville",
-    "state": "CA",
-    "zip": "95610",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.5,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "24/7 Emergency",
-      "24/7 Availability",
-      "Emergency Care",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Emergency-oriented",
-      "Serving Roseville",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
-  },
-  {
-    "slug": "veg-er-for-pets",
-    "name": "VEG ER for Pets",
-    "careType": "General Practice",
-    "is24_7": true,
-    "priority": 2,
-    "description": "VEG ER for Pets provides veterinary care for dogs in Roseville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(916) 238-6021",
-    "website": "https://veg.com/",
-    "address": "1860 Prairie City Road",
-    "city": "Roseville",
-    "state": "CA",
-    "zip": "95630",
-    "hours": "24/7",
-    "hoursDetail": [
-      "24/7"
-    ],
-    "rating": 4.5,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "24/7 Availability",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Emergency-oriented",
-      "Serving Roseville",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
-  },
-  {
     "slug": "marqueen-pet-emergency-and-specialty",
     "name": "MarQueen Pet Emergency & Specialty",
     "careType": "Urgent Care",
     "is24_7": false,
-    "priority": 3,
+    "priority": 1,
     "description": "MarQueen is the largest independently owned emergency and specialty veterinary practice serving the greater Roseville, Folsom, Rocklin, El Dorado Hills, and Sacramento, CA region.",
     "phone": "(916) 757-6600",
     "website": "https://marqueenanimalclinic.com",
@@ -86,7 +17,7 @@
       "Mo-Su 08:00-24:00"
     ],
     "rating": 4.2,
-    "reviewCount": 1,
+    "reviewCount": 0,
     "services": [
       "Dog Care",
       "Urgent Care",
@@ -94,220 +25,21 @@
     ],
     "highlights": [
       "Serving Roseville",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [
-      {
-        "author": "OpenStreetMap",
-        "rating": 5,
-        "text": "MarQueen is the largest independently owned emergency and specialty veterinary practice serving the greater Roseville, Folsom, Rocklin, El Dorado Hills, and Sacramento, CA region.",
-        "source": "OpenStreetMap"
-      }
-    ],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.025Z"
-  },
-  {
-    "slug": "banfield-pet-hospital",
-    "name": "Banfield Pet Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 4,
-    "description": "Banfield Pet Hospital provides veterinary care for dogs in Roseville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(916) 721-0418",
-    "website": "https://www.banfield.com",
-    "address": "7917 Elverta Road",
-    "city": "Roseville",
-    "state": "CA",
-    "zip": "95843",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Roseville",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
-  },
-  {
-    "slug": "blue-ravine-animal-hospital",
-    "name": "Blue Ravine Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 5,
-    "description": "Blue Ravine Animal Hospital provides veterinary care for dogs in Roseville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(916) 984-0990",
-    "website": "https://www.blueravineanimalhospital.com/",
-    "address": "1770 Prairie City Road",
-    "city": "Roseville",
-    "state": "CA",
-    "zip": "95630",
-    "hours": "Mo-Fr 07:00-20:00; Sa-Su 08:00-17:00",
-    "hoursDetail": [
-      "Mo-Fr 07:00-20:00; Sa-Su 08:00-17:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Roseville",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
-  },
-  {
-    "slug": "crossroads-animal-hospital",
-    "name": "Crossroads Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 6,
-    "description": "Crossroads Animal Hospital provides veterinary care for dogs in Roseville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(916) 989-2190",
-    "website": "https://www.crossroadspet.com",
-    "address": "9500 Greenback Lane",
-    "city": "Roseville",
-    "state": "CA",
-    "zip": "95630",
-    "hours": "Mo-Fr 08:00-18:00",
-    "hoursDetail": [
-      "Mo-Fr 08:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Roseville",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
-  },
-  {
-    "slug": "lakeside-pet-hospital",
-    "name": "Lakeside Pet Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 7,
-    "description": "Lakeside Pet Hospital provides veterinary care for dogs in Roseville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(916) 983-7387",
-    "website": "https://lakesidepethospitalfolsom.com/",
-    "address": "Blue Ravine Road",
-    "city": "Roseville",
-    "state": "CA",
-    "zip": "95630",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Roseville",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
-  },
-  {
-    "slug": "vca-sacramento-animal-medical-group",
-    "name": "VCA Sacramento Animal Medical Group",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 8,
-    "description": "VCA Sacramento Animal Medical Group provides veterinary care for dogs in Roseville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(916) 331-7430",
-    "website": "https://vcahospitals.com/sacramento-animal-medical-group",
-    "address": "4990 Manzanita Avenue",
-    "city": "Roseville",
-    "state": "CA",
-    "zip": "95608",
-    "hours": "Mo-Fr 07:00-18:00",
-    "hoursDetail": [
-      "Mo-Fr 07:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Roseville",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
-  },
-  {
-    "slug": "rocklin-ranch-veterinary-hospital-at-pacific-street",
-    "name": "Rocklin Ranch Veterinary Hospital at Pacific Street",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 9,
-    "description": "Rocklin Ranch Veterinary Hospital at Pacific Street provides veterinary care for dogs in Roseville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://www.rocklinranchvet.com/rrvh-pacific-street/",
-    "address": "5405 Pacific Street",
-    "city": "Roseville",
-    "state": "CA",
-    "zip": "95677",
-    "hours": "Mo-Fr 08:00-17:00",
-    "hoursDetail": [
-      "Mo-Fr 08:00-17:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Roseville",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.054Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "stonebridge-veterinary-wellness",
     "name": "Stonebridge Veterinary Wellness",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 10,
-    "description": "Stonebridge Veterinary Wellness provides veterinary care for dogs in Roseville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 2,
+    "description": "Stonebridge Veterinary Wellness provides veterinary care for dogs in Roseville, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "https://stonebridgevetwellness.com/",
+    "website": "https://stonebridgevetwellness.com",
     "address": "254 Gibson Drive",
     "city": "Roseville",
     "state": "CA",
@@ -325,42 +57,10 @@
     ],
     "highlights": [
       "Serving Roseville",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "stonebridge-veterinary-wellness-2",
-    "name": "Stonebridge Veterinary Wellness",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 11,
-    "description": "Stonebridge Veterinary Wellness provides veterinary care for dogs in Roseville, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "Call for number",
-    "website": "https://stonebridgevetwellness.com/",
-    "address": "254 Gibson Drive",
-    "city": "Roseville",
-    "state": "CA",
-    "zip": "95678",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Roseville",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

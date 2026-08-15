@@ -1,13 +1,13 @@
 [
   {
     "slug": "dr-boyd-s-pet-resort",
-    "name": "Dr Boyd’s Pet Resort",
+    "name": "Dr Boyd\u2019s Pet Resort",
     "careType": "General Practice",
     "is24_7": true,
     "priority": 1,
-    "description": "Dr Boyd’s Pet Resort provides veterinary care for dogs in Irvine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Dr Boyd\u2019s Pet Resort provides veterinary care for dogs in Irvine, CA. Confirm hours and services directly with the clinic.",
     "phone": "(949) 385-8737",
-    "website": "https://drboyds.com/",
+    "website": "https://www.drboyds.com/",
     "address": "Irvine, CA",
     "city": "Irvine",
     "state": "CA",
@@ -27,85 +27,21 @@
     "highlights": [
       "Emergency-oriented",
       "Serving Irvine",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
-  },
-  {
-    "slug": "veterinary-surgical-specialists",
-    "name": "Veterinary Surgical Specialists",
-    "careType": "Specialty",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Veterinary Surgical Specialists provides veterinary care for dogs in Irvine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(949) 936-0055",
-    "website": "https://www.vssoc.com/",
-    "address": "2937 Edinger Avenue",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92780",
-    "hours": "Mo-Fr 07:00-18:00; Sa-Su 08:00-18:00",
-    "hoursDetail": [
-      "Mo-Fr 07:00-18:00; Sa-Su 08:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "Specialty",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Irvine",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
-  },
-  {
-    "slug": "bliss-animal-hospital",
-    "name": "Bliss Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 3,
-    "description": "Bliss Animal Hospital provides veterinary care for dogs in Irvine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(949) 354-5201",
-    "website": "https://blissanimalhospital.com/",
-    "address": "26741 Rancho Parkway",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92630",
-    "hours": "Mo-Fr 09:00-17:00",
-    "hoursDetail": [
-      "Mo-Fr 09:00-17:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Irvine",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "culver-pet-clinic",
     "name": "Culver Pet Clinic",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 4,
-    "description": "Culver Pet Clinic provides veterinary care for dogs in Irvine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 2,
+    "description": "Culver Pet Clinic provides veterinary care for dogs in Irvine, CA. Confirm hours and services directly with the clinic.",
     "phone": "(949) 559-8971",
-    "website": "https://culverpetclinic.com/",
+    "website": "https://culverpetclinic.com",
     "address": "Irvine, CA",
     "city": "Irvine",
     "state": "CA",
@@ -123,53 +59,21 @@
     ],
     "highlights": [
       "Serving Irvine",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.026Z"
-  },
-  {
-    "slug": "healthy-pet-hospital-and-grooming",
-    "name": "Healthy Pet Hospital & Grooming",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 5,
-    "description": "Healthy Pet Hospital & Grooming provides veterinary care for dogs in Irvine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(714) 771-3261",
-    "website": "https://healthypethospital.com/",
-    "address": "3411 East Chapman Avenue",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92869",
-    "hours": "Mo-Fr 08:00-19:00; Sa,Su 08:00-18:00",
-    "hoursDetail": [
-      "Mo-Fr 08:00-19:00; Sa,Su 08:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Irvine",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   },
   {
     "slug": "quail-animal-hospital",
     "name": "Quail Animal Hospital",
     "careType": "General Practice",
     "is24_7": false,
-    "priority": 6,
-    "description": "Quail Animal Hospital provides veterinary care for dogs in Irvine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "priority": 3,
+    "description": "Quail Animal Hospital provides veterinary care for dogs in Irvine, CA. Confirm hours and services directly with the clinic.",
     "phone": "(949) 387-0338",
-    "website": "https://quailanimalhospital.com/",
+    "website": "https://quailanimalhospital.com",
     "address": "6513 Quail Hill Parkway",
     "city": "Irvine",
     "state": "CA",
@@ -187,138 +91,10 @@
     ],
     "highlights": [
       "Serving Irvine",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.031Z"
-  },
-  {
-    "slug": "quail-animal-hospital-2",
-    "name": "Quail Animal Hospital",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 7,
-    "description": "Quail Animal Hospital provides veterinary care for dogs in Irvine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(949) 387-0338",
-    "website": "https://quailanimalhospital.com/",
-    "address": "6513 Quail Hill Parkway",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92603",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Irvine",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.033Z"
-  },
-  {
-    "slug": "the-bird-clinic",
-    "name": "The Bird Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 8,
-    "description": "The Bird Clinic provides veterinary care for dogs in Irvine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(714) 633-2910",
-    "website": "https://www.thebirdclinic.com/contact-us",
-    "address": "200 South Tustin Street",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92868",
-    "hours": "Mo, We, Fr-Sa 09:00-12:00, 14:00-17:00; Tu 08:00-12:00, 14:00-18:00",
-    "hoursDetail": [
-      "Mo, We, Fr-Sa 09:00-12:00, 14:00-17:00; Tu 08:00-12:00, 14:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Irvine",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
-  },
-  {
-    "slug": "the-cat-care-clinic",
-    "name": "The Cat Care Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 9,
-    "description": "The Cat Care Clinic provides veterinary care for dogs in Irvine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(714) 282-2287",
-    "website": "https://catcare.com/",
-    "address": "2638 North Tustin Street",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92865",
-    "hours": "Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su off",
-    "hoursDetail": [
-      "Mo-Fr 07:00-18:00; Sa 07:30-16:00; Su off"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Irvine",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
-  },
-  {
-    "slug": "villa-park-animal-clinic",
-    "name": "Villa Park Animal Clinic",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 10,
-    "description": "Villa Park Animal Clinic provides veterinary care for dogs in Irvine, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(714) 998-4322",
-    "website": "https://www.villaparkanimalclinic.com/",
-    "address": "17859 Santiago Boulevard",
-    "city": "Irvine",
-    "state": "CA",
-    "zip": "92861",
-    "hours": "Call for hours",
-    "hoursDetail": [
-      "Call for hours"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Irvine",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.053Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]

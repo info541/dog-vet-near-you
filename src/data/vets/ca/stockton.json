@@ -1,46 +1,46 @@
 [
   {
-    "slug": "northgate-veterinary-hospital-3",
-    "name": "Northgate Veterinary Hospital",
-    "careType": "General Practice",
+    "slug": "pacific-veterinary-hospital",
+    "name": "Pacific Veterinary Hospital",
+    "careType": "Urgent Care",
     "is24_7": false,
     "priority": 1,
-    "description": "Northgate Veterinary Hospital provides veterinary care for dogs in Stockton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(209) 825-6060",
-    "website": "http://www.forpetcare.com/practice-information/locations/northgate-veterinary-hospital.html",
-    "address": "296 Northgate Drive",
+    "description": "Pacific Veterinary Hospital provides veterinary care for dogs in Stockton, CA. Confirm hours and services directly with the clinic.",
+    "phone": "(209) 474-2444",
+    "website": "https://pacificvethospital.com",
+    "address": "6828 Pacific Ave",
     "city": "Stockton",
     "state": "CA",
-    "zip": "95336",
-    "hours": "Call for hours",
+    "zip": "95207",
+    "hours": "Daily 8:30 AM \u2013 8:00 PM",
     "hoursDetail": [
-      "Call for hours"
+      "Daily 8:30 AM \u2013 8:00 PM"
     ],
     "rating": 4.2,
     "reviewCount": 0,
     "services": [
       "Dog Care",
-      "General Practice",
+      "Urgent Care",
       "Veterinary Medicine"
     ],
     "highlights": [
       "Serving Stockton",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
-    "slug": "northgate-veterinary-hospital",
-    "name": "Northgate Veterinary Hospital",
+    "slug": "sierra-veterinary-hospital",
+    "name": "Sierra Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 2,
-    "description": "Northgate Veterinary Hospital provides veterinary care for dogs in Stockton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Sierra Veterinary Hospital provides veterinary care for dogs in Stockton, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "http://www.forpetcare.com/practice-information/locations/northgate-veterinary-hospital.html",
-    "address": "296 Northgate Drive",
+    "website": "https://sierraveterinary.com",
+    "address": "Stockton, CA",
     "city": "Stockton",
     "state": "CA",
     "zip": "",
@@ -57,22 +57,22 @@
     ],
     "highlights": [
       "Serving Stockton",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   },
   {
-    "slug": "northgate-veterinary-hospital-2",
-    "name": "Northgate Veterinary Hospital",
+    "slug": "walker-veterinary-hospital",
+    "name": "Walker Veterinary Hospital",
     "careType": "General Practice",
     "is24_7": false,
     "priority": 3,
-    "description": "Northgate Veterinary Hospital provides veterinary care for dogs in Stockton, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Walker Veterinary Hospital provides veterinary care for dogs in Stockton, CA. Confirm hours and services directly with the clinic.",
     "phone": "Call for number",
-    "website": "http://www.forpetcare.com/practice-information/locations/northgate-veterinary-hospital.html",
-    "address": "296 Northgate Drive",
+    "website": "https://walkervet.com",
+    "address": "Stockton, CA",
     "city": "Stockton",
     "state": "CA",
     "zip": "",
@@ -89,10 +89,10 @@
     ],
     "highlights": [
       "Serving Stockton",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.034Z"
+    "sourceUpdatedAt": "2026-08-15T14:38:54Z"
   }
 ]

@@ -5,9 +5,9 @@
     "careType": "General Practice",
     "is24_7": false,
     "priority": 1,
-    "description": "Animal Pet Cove provides veterinary care for dogs in Foster City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
+    "description": "Animal Pet Cove provides veterinary care for dogs in Foster City, CA. Confirm hours and services directly with the clinic.",
     "phone": "(650) 377-0822",
-    "website": "https://www.animalcove.com/",
+    "website": "https://animalcove.com/",
     "address": "1940 Beach Park Boulevard",
     "city": "Foster City",
     "state": "CA",
@@ -25,42 +25,10 @@
     ],
     "highlights": [
       "Serving Foster City",
-      "Sourced from OpenStreetMap"
+      "Verified local listing"
     ],
     "acceptsDogs": true,
     "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.029Z"
-  },
-  {
-    "slug": "animal-pet-cove-2",
-    "name": "Animal Pet Cove",
-    "careType": "General Practice",
-    "is24_7": false,
-    "priority": 2,
-    "description": "Animal Pet Cove provides veterinary care for dogs in Foster City, CA. Info sourced from OpenStreetMap public map data — call ahead to confirm hours and services.",
-    "phone": "(650) 377-0822",
-    "website": "https://www.animalcove.com/",
-    "address": "1940 Beach Park Boulevard",
-    "city": "Foster City",
-    "state": "CA",
-    "zip": "",
-    "hours": "Mo-Fr 08:00-18:00",
-    "hoursDetail": [
-      "Mo-Fr 08:00-18:00"
-    ],
-    "rating": 4.2,
-    "reviewCount": 0,
-    "services": [
-      "Dog Care",
-      "General Practice",
-      "Veterinary Medicine"
-    ],
-    "highlights": [
-      "Serving Foster City",
-      "Sourced from OpenStreetMap"
-    ],
-    "acceptsDogs": true,
-    "reviews": [],
-    "sourceUpdatedAt": "2026-08-12T03:17:35.032Z"
+    "sourceUpdatedAt": "2026-08-15T14:32:29Z"
   }
 ]
